@@ -95,7 +95,7 @@ class Crawler :
             return {"error": f"An error occurred: {str(e)}"}
             
     @staticmethod
-    def find_elements(html_content, tag, class_name=None, element_id=None):
+    def find_elements(html_content, tag, class_name=None, element_id=None, attrs_key = None, attrs_value = None):
 
         """ [Function Docstring]
         Recherche tous les éléments HTML dans le contenu HTML fourni en utilisant le tag et le nom de la classe ou l'ID.
@@ -139,9 +139,10 @@ class Crawler :
             res = html_content.find_all(tag, {'class': class_name})
         elif element_id is not None: 
             res = html_content.find_all(tag, id=element_id)
+        elif attrs_key and attrs_value is not None : 
+            res = html_content.find_all(tag, attrs= {attrs_key : attrs_value})
         else:
             raise ValueError("L'un des deux paramètres class_name ou element_id doit être fourni.")
-        
         # Vérification du nombre d'éléments trouvés
         if res is None:
             return f"aucune correspondance avec le tag {tag} et {class_name or element_id}", None
