@@ -30,6 +30,19 @@ URL = ("https://www.formula1.com/en/results.html/2023/races/1141/bahrain/race-re
 
 
 
+res = Crawler.extract_html(URL)
+href = Crawler.find_elements(res, 'a', attrs_key= "data-name", attrs_value="year")
+
+urls_years = []
+
+for i in href : 
+    link = i.find("a").get('href')
+    if link : 
+        urls_years.append(BASE+link)
+
+print(urls_years)
+
+
 
 
 res = Crawler.extract_html(URL)
