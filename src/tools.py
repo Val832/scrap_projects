@@ -147,7 +147,8 @@ class Crawler :
         if res is None:
             return f"aucune correspondance avec le tag {tag} et {class_name or element_id}", None
         else:
-            return f"{(len(res))} correspondance(s) trouvée(s) avec le tag {tag} et {class_name or element_id}", res
+            print(f"{(len(res))} correspondance(s) trouvée(s) avec le tag {tag} et {class_name or element_id}")
+            return res
 
         
     @staticmethod
