@@ -5,7 +5,8 @@ import pandas as pd
 import requests 
 
 
-from tools import Crawler, tqdm_executor_map, FetchData
+from src.casto import Crawler, tqdm_executor_map
+from tools_casto import fetch_casto_data
 
 # URL de départ 
 URL = "https://www.castorama.fr/jardin-et-terrasse/cat_id_3399.cat"
@@ -38,10 +39,10 @@ for id in cat_id[3:]  :
 
 dict_id = {'id' : id_list , 'name' : name_list, 'path' : path_list }
 df_id = pd.DataFrame(dict_id)
-df_id = df_id[:50]
+
 sessions = [requests.Session() for _ in range(len(df_id))]
 with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
-    query_list = tqdm_executor_map(executor, FetchData.fetch_casto_data, df_id.to_dict(orient='records'), 
+    query_list = tqdm_executor_map(executor, fetch_casto_data, df_id.to_dict(orient='records'), 
                                 sessions, total = len(df_id))
             
 print(len(query_list))
