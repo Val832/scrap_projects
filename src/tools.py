@@ -12,6 +12,8 @@ from bs4 import BeautifulSoup
 import requests  
 import pandas as pd 
 from tqdm import tqdm
+import re 
+import numpy as np
 
 class Crawler :
 
@@ -54,31 +56,27 @@ class Crawler :
     """
 
     @staticmethod
-    def extract_html(url: str):
+    def extract_html(url):
 
-        """ [Function Docstring]
-        Extrait le contenu HTML d'une URL donnée.
-
-        Paramètres:
+        """Paramètres:
         -----------
         url : str
-            L'URL à partir de laquelle extraire le contenu HTML.
+            L'URL du site web dont vous souhaitez extraire le contenu HTML.
 
         Retourne:
         --------
-        BeautifulSoup
-            Une instance de BeautifulSoup contenant le contenu HTML si la requête est réussie.
-        Dict[str, str]
-            Un dictionnaire avec un message d'erreur si la requête échoue ou si un autre problème survient.
+        BeautifulSoup object or dict
+            Si la requête est réussie (code HTTP 200), renvoie un objet BeautifulSoup contenant le contenu HTML de la page.
+            Si la requête échoue, renvoie un dictionnaire contenant une clé "error" et un message d'erreur détaillé.
 
-        Exemples:
-        --------
-        >>> extract_html("https://www.example.com")
-        <html>...</html>
-
-        >>> extract_html("https://www.invalid-url.com")
-        {'error': 'An error occurred: ...'}
+        Exceptions:
+        ----------
+        ValueError: Si l'URL fournie n'est pas de type 'string'.
+        requests.RequestException: Si une exception liée à la requête se produit.
         """
+
+        if not isinstance(url, str) : 
+            raise ValueError("L'url saisie doit être de type 'string'")
 
         try:
             response = requests.get(url)
@@ -88,74 +86,17 @@ class Crawler :
                 return BeautifulSoup(response.text, 'html.parser')
 
             # Sinon, on renvoie un dictionnaire d'erreur
-            return print({"error": f"error in get method: {response.status_code}"})
+            return {"error": f"error in get method: {response.status_code}"}
         
         # Gestion des exceptions liées aux requêtes
         except requests.RequestException as e:
             return {"error": f"An error occurred: {str(e)}"}
             
     @staticmethod
-    def find_elements(html_content, tag, class_name=None, element_id=None, attrs_key = None, attrs_value = None):
+    def find(html_content, tag,  method = 0 , attrs_key = None, attrs_value = None):
 
-        """ [Function Docstring]
-        Recherche tous les éléments HTML dans le contenu HTML fourni en utilisant le tag et le nom de la classe ou l'ID.
-
-        Paramètres:
-        -----------
-        html_content : BeautifulSoup
-            Objet BeautifulSoup contenant le contenu HTML à analyser.
-        tag : str
-            Tag HTML de l'élément à rechercher (par exemple, 'table', 'div', 'a', etc.).
-        class_name : str, optional
-            Nom de la classe CSS de l'élément à rechercher. Utilisé pour la sélection d'élément basée sur la classe.
-        element_id : str, optional
-            ID de l'élément à rechercher. Utilisé pour la sélection d'élément basée sur l'ID.
-
-        Retourne:
-        --------
-        tuple (str, list of BeautifulSoup objects or None)
-            Renvoie une paire (message, liste des éléments trouvés). Le message fournit le nombre de correspondances trouvées. Si aucun élément n'est trouvé, le message indique une absence de correspondance.
-
-        Exemples:
-        --------
-        >>> from bs4 import BeautifulSoup
-        >>> html = "<html><body><table class='myTable'><tr><td>Content</td></tr></table></body></html>"
-        >>> soup = BeautifulSoup(html, 'html.parser')
-        >>> message, elements = find_elements(soup, 'table', class_name='myTable')
-        >>> print(message)
-        1 correspondance(s) trouvée(s) avec le tag table et myTable
-
-        Exceptions:
-        ----------
-        ValueError: Si l'objet html_content fourni n'est pas une instance de BeautifulSoup, ou si ni class_name ni element_id ne sont fournis.
-        """
-
-        # Vérification du type de l'objet html_content
-        if not isinstance(html_content, BeautifulSoup): 
-            raise ValueError("L'entrée doit être un objet BeautifulSoup.")
-        
-        # Recherche d'élément en utilisant le nom de la classe ou l'ID
-        if class_name is not None: 
-            res = html_content.find_all(tag, {'class': class_name})
-        elif element_id is not None: 
-            res = html_content.find_all(tag, id=element_id)
-        elif attrs_key and attrs_value is not None : 
-            res = html_content.find_all(tag, attrs= {attrs_key : attrs_value})
-        else:
-            raise ValueError("L'un des deux paramètres class_name ou element_id doit être fourni.")
-        # Vérification du nombre d'éléments trouvés
-        if res is None:
-            return f"aucune correspondance avec le tag {tag} et {class_name or element_id}", None
-        else:
-            print(f"{(len(res))} correspondance(s) trouvée(s) avec le tag {tag} et {class_name or element_id}")
-            return res
-
-        
-    @staticmethod
-    def find_element(html_content, tag, class_name=None, element_id=None, attrs_key = None, attrs_value = None): 
-
-        """ [Function Docstring]
-        Recherche le premier élément HTML correspondant dans le contenu HTML fourni en utilisant le tag et le nom de la classe ou l'ID.
+        """ 
+        Recherche tous les éléments HTML dans le contenu fourni en utilisant le tag et des attributs optionnels.
 
         Paramètres:
         -----------
@@ -163,66 +104,73 @@ class Crawler :
             Objet BeautifulSoup contenant le contenu HTML à analyser.
         tag : str
             Tag HTML de l'élément à rechercher (par exemple, 'table', 'div', 'a', etc.).
-        class_name : str, optional
-            Nom de la classe CSS de l'élément à rechercher. Utilisé pour la sélection d'élément basée sur la classe.
-        element_id : str, optional
-            ID de l'élément à rechercher. Utilisé pour la sélection d'élément basée sur l'ID.
+        method : int, optional (default: 0)
+            Méthode de recherche à utiliser: 0 pour "find_all" et 1 pour "find".
+        attrs_key : str, optional
+            Clé de l'attribut à utiliser pour la recherche (par exemple, 'class', 'id', etc.).
+        attrs_value : str, optional
+            Valeur de l'attribut à utiliser pour la recherche.
 
         Retourne:
         --------
-        BeautifulSoup object or dict
-            Retourne le premier élément BeautifulSoup trouvé. Si aucun élément n'est trouvé, retourne un dictionnaire avec un message d'erreur.
-
-        Exemples:
-        --------
-        >>> from bs4 import BeautifulSoup
-        >>> html = "<html><body><div class='myDiv'>Content</div></body></html>"
-        >>> soup = BeautifulSoup(html, 'html.parser')
-        >>> element = find_element(soup, 'div', class_name='myDiv')
-        >>> print(element)
-        <div class="myDiv">Content</div>
+        list ou BeautifulSoup object
+            Liste des éléments trouvés ou un seul objet BeautifulSoup selon la méthode utilisée. 
+            Si aucun élément n'est trouvé, renvoie une liste vide (pour "find_all") ou None (pour "find").
 
         Exceptions:
         ----------
-        ValueError: Si l'objet html_content fourni n'est pas une instance de BeautifulSoup, ou si ni class_name ni element_id ne sont fournis.
+        ValueError: Si l'objet html_content fourni n'est pas une instance de BeautifulSoup, 
+        si le tag n'est pas une chaîne de caractères, si method n'est pas 0 ou 1, 
+        ou si seulement l'une des valeurs attrs_key ou attrs_value est fournie.
         """
-        
+
         # Vérification du type de l'objet html_content
         if not isinstance(html_content, BeautifulSoup): 
             raise ValueError("L'entrée doit être un objet BeautifulSoup.")
         
-        # Recherche d'élément en utilisant le nom de la classe ou l'ID
-        # Si class_name est fourni, recherche par classe
-        if class_name is not None: 
-            res = html_content.find(tag, {'class': class_name})
-        # Si element_id est fourni, recherche par ID
-        elif element_id is not None: 
-            res = html_content.find(tag, id=element_id)
-        # Si aucun n'est fourni, lève une exception
-        elif attrs_key and attrs_value is not None : 
-            res = html_content.find(tag, attrs= {attrs_key : attrs_value})
-        else:
-            raise ValueError("L'un des deux paramètres class_name ou element_id doit être fourni.")
-        
-        # Si aucun élément n'est trouvé, retourne un dictionnaire contenant un message d'erreur
-        if res is None :
-            return {f"aucune correspondance avec le tag {tag} et {class_name or element_id}"}  
-        # Si un élément est trouvé, imprime un message et retourne l'élément trouvé
-        else:
-            return res
+        if not isinstance(tag, str) : 
+            raise ValueError("Le tag doit être de type 'string'.") 
 
+        if method not in [0,1] : 
+                raise ValueError("Veuillez saisir une méthode égale à 0 (find_all) ou 1 (find).")
+        
+        if attrs_key is not None : 
+            if not isinstance(attrs_key, str) : 
+                raise ValueError("attrs_key doit être de type 'string'.") 
+        if attrs_value is not None : 
+            if not isinstance(attrs_value, str) : 
+                raise ValueError("attrs_value doit être de type 'string'.") 
+        
+        if (attrs_key is None  and attrs_value is not None) or (attrs_key is not None  and attrs_value is None) : 
+            raise ValueError ("Les 2 arguements attrs_key et attrs_value doivent être renseignés.")
+
+        if method == 0 : 
+            if attrs_key is not None : 
+                res = html_content.find_all(tag, attrs= {attrs_key : attrs_value})
+            else : 
+                res = html_content.find_all(tag)
+        else  :
+            if attrs_key is not None : 
+                res = html_content.find(tag, attrs= {attrs_key : attrs_value})
+            else : 
+                res = html_content.find(tag)
+
+        return res 
+    
     @staticmethod  
     def extract_table(html_content, class_name=None, table_id=None):
 
         """ [Function Docstring]
-        Extrait une table du contenu HTML fourni en utilisant soit le nom de la classe `class_name` soit l'ID `table_id`.
+        Extrait une table du contenu HTML fourni en utilisant soit 
+        le nom de la classe `class_name` soit l'ID `table_id`.
 
         Paramètres:
         -----------
         html_content : BeautifulSoup
             Objet BeautifulSoup contenant le contenu HTML à analyser.
         class_name : str, optional
-            Nom de la classe CSS de la table à extraire. Utilisé pour la sélection de la table basée sur la classe.
+            Nom de la classe CSS de la table à extraire. 
+            Utilisé pour la sélection de la table basée sur la classe.
         table_id : str, optional
             ID de la table à extraire. Utilisé pour la sélection de la table basée sur l'ID.
 
@@ -233,17 +181,8 @@ class Crawler :
 
         Exceptions:
         ----------
-        ValueError: Si l'objet `html_content` fourni n'est pas une instance de BeautifulSoup, si la table n'est pas trouvée, ou si ni `class_name` ni `table_id` ne sont fournis.
-
-        Exemples:
-        --------
-        >>> from bs4 import BeautifulSoup
-        >>> html = "<html><body><table class='myTable'><tr><th>Header</th></tr><tr><td>Data</td></tr></table></body></html>"
-        >>> soup = BeautifulSoup(html, 'html.parser')
-        >>> df = extract_table(soup, class_name='myTable')
-        >>> print(df)
-        Header
-        0   Data
+        ValueError: Si l'objet `html_content` fourni n'est pas une instance de BeautifulSoup, 
+        si la table n'est pas trouvée, ou si ni `class_name` ni `table_id` ne sont fournis.
         """
 
         if not isinstance(html_content, BeautifulSoup): 
@@ -266,14 +205,14 @@ class Crawler :
             
         # Extrait les données des lignes
         rows_data = []
-        for row in table.find_all('tr')[1:]:  # Exclut la ligne d'en-tête
+        for row in table.find_all('tr'):  # Exclut la ligne d'en-tête
             rows_data.append([td.text.strip() for td in row.find_all('td')])
                 
         # Convertit en DataFrame
         df = pd.DataFrame(rows_data, columns=header)
         return df
 
-class clean_df : 
+class CleanDf : 
 
     @staticmethod
     def convert_str_na_to_nan(df, na_values):
@@ -322,25 +261,21 @@ class clean_df :
         # Si ni `col` ni `cols` n'est spécifié, supprime les lignes avec NA dans toutes les colonnes.
         else:
             return df.dropna()
-        
-class Merge :
-
-    def missing_table (url): 
-
-        res = Crawler.extract_html(url)
-        table = Crawler.find_element(res, tag='table', element_id='test-suite-results')
-
-        missing_table = {}
-        for row in table.findAll('tr'):
-            header = row.find('th').text
-            missing_table[header] = "NA"
-        
-        return missing_table
     
-    def fetch_data(url, missing_table, session):
+    @staticmethod
+    def transformer_observation(obs):
+
+        observations = re.findall(r'(\w+)\n(\w+)', obs)
+        resultats = [f"{prenom} {nom}" for prenom, nom in observations]
+        return ", ".join(resultats)
+        
+class FetchData :
+
+    @staticmethod
+    def fetch_cpu_data(url, missing_table, session):
         try :
             res = Crawler.extract_html(url)
-            table = Crawler.find_element(res, tag='table', element_id='test-suite-results')
+            table = Crawler.find(res, tag='table', element_id='test-suite-results')
             data = {}
             for row in table.findAll('tr'):
                 header = row.find('th').text
@@ -351,12 +286,107 @@ class Merge :
             data = missing_table
             return data 
         
+    def fetch_casto_data (id , session ) : 
+
+        BASE = 'https://www.castorama.fr'
+        URL = "https://api.kingfisher.com/prod/v1/product-search-bff/products/CAFR"
+
+        cat_id = id['id']
+        content_loc = id['path']
+        r = BASE + content_loc
+
+        querystring = {"channelApiVersion":"v2",
+                    "filter[category]": cat_id  ,
+                    "include":"content",
+                    "page[number]":"1",
+                    "page[size]":"200",
+                    "supportMerchTiles":"true"}
+
+        headers = {
+            "cookie": "TS013aa2d6=011543659ba2f180aea3ed106a302f1177feaae80664b510fa08066096b8a6e9edb39cb9bc49da26709b5751a09e0ccbb7c368e320; TSce5a380a027=08016f2e84ab20007f3441d17e1ec166d17880b09688c8d79947b5133c07d36fc64a59724a589171087092cc8a11300066c97d9a8a320061bfef6350baf5a906fa5cb6be47f585bec634bdbec859dffabbd7b5eabc9121a128f8026a58a11da5",
+            "Accept": "application/json, text/plain, */*",
+            "Origin": "https://www.castorama.fr",
+            "Authorization": "Atmosphere atmosphere_app_id=kingfisher-o4ITR0sWAyCVQBraQf4Es61jHV3dN4oO9UwJQMrS",
+            "Referer": "https://www.castorama.fr/",
+            "Accept-Language": "fr-FR,fr;q=0.9",
+            "Host": "api.kingfisher.com",
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "X-Context-Location": f"{content_loc}",
+            "x-dtc": f'sn="v_4_srv_-2D64_sn_DT6PV4C3187S2UCTP5RUK787IAUHIMNI", pc="-64$471313258_896h15vHGQIWCKVDUTMAQDCTATKMDWCORMFABRW-0e0", v="16748137103710K7F1MT3VILA0RAK43A6TIH7G93PT88T",  app="7fad07df8aa3fcc7", r= {r}'
+        }
+
+        response = session.request("GET", URL, headers=headers, params=querystring)
+        data = response.json()
+
+        return data
+    
+    def fetch_f1_data (race, missing_table, session ) : 
+
+        df_clean = CleanDf()
+        try : 
+
+            res = Crawler.extract_html(race)
+            table = Crawler.extract_table(res , class_name='resultsarchive-table')
+
+            # Extraire l'année
+            year_match = re.search(r"\d{4}", race)
+            table['Season'] = int(year_match.group()) if year_match else None
+
+            # Extraire le nom du Grand Prix (gp_name)
+            gp_name_match = re.search(r"/([^/]+)/race-result.html$", race)
+            table['Localisation'] = gp_name_match.group(1) if gp_name_match else None
+
+            table = table.iloc[1:-1]
+            table['Driver'] = table['Driver'].apply(df_clean.transformer_observation) 
+
+        except : 
+
+            table = missing_table
+            year_match = re.search(r"\d{4}", race)
+            table['Season'] = int(year_match.group()) if year_match else None
+            gp_name_match = re.search(r"/([^/]+)/race-result.html$", race)
+            table['Localisation'] = gp_name_match.group(1) if gp_name_match else None
+        
+        return table
+            
+class MissingTable : 
+
+    @staticmethod
+    def missing_cpu_table (url): 
+
+        res = Crawler.extract_html(url)
+        table = Crawler.find(res, tag='table', method=1,
+                             attrs_key='id', attrs_value='test-suite-results')
+
+        missing_table = {}
+        for row in table.findAll('tr'):
+            header = row.find('th').text
+            missing_table[header] = "NA"
+        
+        return missing_table
+    
+    def f1_missing_table(valid_url) : 
+
+        res = Crawler.extract_html(valid_url)
+
+        valid_table = Crawler.extract_table(res , class_name='resultsarchive-table')
+        valid_table.iloc[0, :] = np.nan
+
+        missing_table = valid_table.head(1)
+        missing_table = missing_table.iloc[1:-1]
+
+        return missing_table
+            
 def tqdm_executor_map(executor, function, *args, **kwargs):
     """
-    Une fonction pour exécuter une fonction de manière parallèle tout en affichant une barre de progression avec tqdm.
+    Une fonction pour exécuter une fonction de manière parallèle 
+    tout en affichant une barre de progression avec tqdm.
 
     Arguments:
-    - executor : Un exécuteur de type concurrent.futures (ThreadPoolExecutor ou ProcessPoolExecutor).
+    - executor : Un exécuteur de type concurrent.futures 
+    (ThreadPoolExecutor ou ProcessPoolExecutor).
     - function : La fonction à exécuter en parallèle.
     - *args : Les arguments à passer à la fonction.
     - **kwargs : Les arguments clé/valeur à passer à la fonction.

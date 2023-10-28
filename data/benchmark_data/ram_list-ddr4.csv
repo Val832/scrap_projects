@@ -1,0 +1,671 @@
+,Memory Name,Latency (ns),Read Uncached (GB/s),Write (GB/s),Price(USD),lien,Database Operations,Memory Read Cached,Memory Read Uncached,Memory Write,Latency,Memory Threaded
+0,A-DATA Technology DDR4 3000 8GB,31,17.2,13.7,$389.99*,https://www.memorybenchmark.net/ram.php?ram=A-DATA+Technology+DDR4+3200+2OZ+4GB&id=8748,NA,NA,NA,NA,NA,NA
+1,Corsair CMD128GX4M8A2400C14 16GB,32,12.1,9.1,$999.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD128GX4M8A2666C15+16GB&id=9262,NA,NA,NA,NA,NA,NA
+2,Corsair CMD128GX4M8A2666C15 16GB,36,14.5,13.6,$879.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD128GX4M8B2800C14+16GB&id=8957,NA,NA,NA,NA,NA,NA
+3,Corsair CMD128GX4M8B2800C14 16GB,27,14.8,10.6,$969.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD128GX4M8B3000C16+16GB&id=10192,NA,NA,NA,NA,NA,NA
+4,Corsair CMD128GX4M8B3000C16 16GB,26,14.8,10.2,$977.79*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD128GX4M8B3200C16+16GB&id=10903,NA,NA,NA,NA,NA,NA
+5,Corsair CMD128GX4M8B3200C16 16GB,31,12.2,12.1,$999.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M2A2400C14+8GB&id=9090,NA,NA,NA,NA,NA,NA
+6,Corsair CMD16GX4M2A2666C15 8GB,28,17.1,13.5,$115.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M2B2400C10+8GB&id=8851,NA,NA,NA,NA,NA,NA
+7,Corsair CMD16GX4M2B2400C10 8GB,27,18.1,14.1,$192.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M2B2800C14+8GB&id=13025,NA,NA,NA,NA,NA,NA
+8,Corsair CMD16GX4M2B3000C15 8GB,29,18.1,13.9,$100.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M2B3200C14+8GB&id=9687,NA,NA,NA,NA,NA,NA
+9,Corsair CMD16GX4M2B3200C14 8GB,23,17.0,12.5,$219.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M2B3200C16+8GB&id=8228,NA,NA,NA,NA,NA,NA
+10,Corsair CMD16GX4M2B3200C16 8GB,30,17.9,14.0,$129.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M2B3466C16+8GB&id=11301,NA,NA,NA,NA,NA,NA
+11,Corsair CMD16GX4M2B3466C16 8GB,21,20.8,17.0,$351.58*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M2B3600C18+8GB&id=10681,NA,NA,NA,NA,NA,NA
+12,Corsair CMD16GX4M2B3600C18 8GB,22,20.2,17.4,$239.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M2B3733C17+8GB&id=10524,NA,NA,NA,NA,NA,NA
+13,Corsair CMD16GX4M2B3733C17 8GB,24,17.2,12.4,$259.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M2B3866C18+8GB&id=11813,NA,NA,NA,NA,NA,NA
+14,Corsair CMD16GX4M2B3866C18 8GB,22,19.5,17.5,$259.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M2C3333C16+8GB&id=12838,NA,NA,NA,NA,NA,NA
+15,Corsair CMD16GX4M2C3333C16 8GB,22,17.7,13.8,$169.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M2E4000C19+8GB&id=10690,NA,NA,NA,NA,NA,NA
+16,Corsair CMD16GX4M2E4000C19 8GB,27,18.6,14.6,$279.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M2K4133C19+8GB&id=12452,NA,NA,NA,NA,NA,NA
+17,Corsair CMD16GX4M4A2666C15 4GB,37,14.6,11.8,$371.91*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4A2666C16+4GB&id=6538,NA,NA,NA,NA,NA,NA
+18,Corsair CMD16GX4M4A2666C16 4GB,37,14.6,11.5,$399.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4A2800C16+4GB&id=6300,NA,NA,NA,NA,NA,NA
+19,Corsair CMD16GX4M4A2800C16 4GB,35,15.1,11.3,$253.19*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4B2133C10+4GB&id=7496,NA,NA,NA,NA,NA,NA
+20,Corsair CMD16GX4M4B2133C10 4GB,24,15.8,11.7,$204.67*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4B2400C10+4GB&id=9212,NA,NA,NA,NA,NA,NA
+21,Corsair CMD16GX4M4B2400C10 4GB,25,13.7,10.2,$145.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4B3000C14+4GB&id=8100,NA,NA,NA,NA,NA,NA
+22,Corsair CMD16GX4M4B3000C14 4GB,25,15.8,13.1,$452.44*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4B3000C15+4GB&id=6382,NA,NA,NA,NA,NA,NA
+23,Corsair CMD16GX4M4B3000C15 4GB,32,16.4,12.9,$445.07*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4B3200C14+4GB&id=9773,NA,NA,NA,NA,NA,NA
+24,Corsair CMD16GX4M4B3200C14 4GB,28,13.0,9.2,$199.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4B3200C15+4GB&id=7591,NA,NA,NA,NA,NA,NA
+25,Corsair CMD16GX4M4B3200C15 4GB,22,17.7,14.1,$297.49*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4B3200C16+4GB&id=6477,NA,NA,NA,NA,NA,NA
+26,Corsair CMD16GX4M4B3200C16 4GB,34,15.7,11.5,$259.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4B3200C16-R+4GB&id=9353,NA,NA,NA,NA,NA,NA
+27,Corsair CMD16GX4M4B3300C16 4GB,23,16.5,13.1,$270.78*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4B3333C16+4GB&id=9977,NA,NA,NA,NA,NA,NA
+28,Corsair CMD16GX4M4B3400C16 4GB,25,18.8,16.3,$249.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4B3600C18+4GB&id=9100,NA,NA,NA,NA,NA,NA
+29,Corsair CMD16GX4M4B3600C18 4GB,30,16.6,12.3,$583.80*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4C3200C15+4GB&id=8424,NA,NA,NA,NA,NA,NA
+30,Corsair CMD16GX4M4C3200C15 4GB,25,14.3,12.0,$194.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD16GX4M4C3200C16+4GB&id=8870,NA,NA,NA,NA,NA,NA
+31,Corsair CMD16GX4M4C3200C16 4GB,28,18.3,15.8,$429.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M2A2666C15+16GB&id=8194,NA,NA,NA,NA,NA,NA
+32,Corsair CMD32GX4M2A2666C15 16GB,29,17.3,13.4,$440.19*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M2A2800C16+16GB&id=8528,NA,NA,NA,NA,NA,NA
+33,Corsair CMD32GX4M2A2800C16 16GB,26,15.7,10.7,$229.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M2B2800C14+16GB&id=8955,NA,NA,NA,NA,NA,NA
+34,Corsair CMD32GX4M2B2800C14 16GB,33,16.5,13.4,$259.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M2B3000C15+16GB&id=8139,NA,NA,NA,NA,NA,NA
+35,Corsair CMD32GX4M2B3000C15 16GB,30,18.2,14.0,$196.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M2B3466C16+16GB&id=11595,NA,NA,NA,NA,NA,NA
+36,Corsair CMD32GX4M2B3466C16 16GB,34,16.2,12.0,$699.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M2C3200C14M+16GB&id=9911,NA,NA,NA,NA,NA,NA
+37,Corsair CMD32GX4M2C3200C16 16GB,32,17.1,13.9,$209.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M2C3466C16W+16GB&id=12071,NA,NA,NA,NA,NA,NA
+38,Corsair CMD32GX4M4A2400C12 8GB,22,17.7,13.1,$259.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4A2400C14+8GB&id=6618,NA,NA,NA,NA,NA,NA
+39,Corsair CMD32GX4M4A2400C14 8GB,32,16.7,12.2,$917.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4A2666C15+8GB&id=6482,NA,NA,NA,NA,NA,NA
+40,Corsair CMD32GX4M4A2666C15 8GB,35,15.9,12.8,$219.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4A2666C16+8GB&id=6588,NA,NA,NA,NA,NA,NA
+41,Corsair CMD32GX4M4A2666C16 8GB,40,14.1,11.4,$671.25*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4A2800C16+8GB&id=7393,NA,NA,NA,NA,NA,NA
+42,Corsair CMD32GX4M4A2800C16 8GB,36,15.7,11.3,$439.95*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4B2133C10+8GB&id=13386,NA,NA,NA,NA,NA,NA
+43,Corsair CMD32GX4M4B2400C10 8GB,31,16.1,11.5,$639.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4B2800C14+8GB&id=11084,NA,NA,NA,NA,NA,NA
+44,Corsair CMD32GX4M4B3000C15 8GB,34,15.1,12.5,$249.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4B3200C16+8GB&id=8167,NA,NA,NA,NA,NA,NA
+45,Corsair CMD32GX4M4B3200C16 8GB,31,18.9,14.5,$379.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4B3333C16+8GB&id=8836,NA,NA,NA,NA,NA,NA
+46,Corsair CMD32GX4M4B3333C16 8GB,30,17.5,14.5,$799.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4B3466C16+8GB&id=12734,NA,NA,NA,NA,NA,NA
+47,Corsair CMD32GX4M4B3466C16 8GB,22,15.7,17.2,$644.50*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4B3600C16+8GB&id=11108,NA,NA,NA,NA,NA,NA
+48,Corsair CMD32GX4M4B3600C16 8GB,20,18.7,15.0,$897.66*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4B3733C17+8GB&id=10703,NA,NA,NA,NA,NA,NA
+49,Corsair CMD32GX4M4C3000C15 8GB,38,14.8,12.1,$699.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4C3200C14C+8GB&id=9873,NA,NA,NA,NA,NA,NA
+50,Corsair CMD32GX4M4C3200C16 8GB,25,18.6,15.5,$289.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4C3200C16-R+8GB&id=10297,NA,NA,NA,NA,NA,NA
+51,Corsair CMD32GX4M4C3200C16-R 8GB,27,20.0,15.4,$369.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD32GX4M4C3466C16W+8GB&id=12139,NA,NA,NA,NA,NA,NA
+52,Corsair CMD64GX4M4A2400C14 16GB,26,15.3,11.2,$489.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD64GX4M4A2666C15+16GB&id=9173,NA,NA,NA,NA,NA,NA
+53,Corsair CMD64GX4M4A2666C15 16GB,41,14.0,13.6,$369.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD64GX4M4B2800C14+16GB&id=8075,NA,NA,NA,NA,NA,NA
+54,Corsair CMD64GX4M4B2800C14 16GB,25,15.0,11.6,$479.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD64GX4M4B3000C15+16GB&id=8693,NA,NA,NA,NA,NA,NA
+55,Corsair CMD64GX4M4B3000C15 16GB,30,19.5,14.5,$459.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD64GX4M4B3333C16+16GB&id=8657,NA,NA,NA,NA,NA,NA
+56,Corsair CMD64GX4M4B3333C16 16GB,35,14.7,10.7,$958.08*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD64GX4M4B3466C16+16GB&id=8837,NA,NA,NA,NA,NA,NA
+57,Corsair CMD64GX4M4B3466C16 16GB,29,17.5,15.5,$849.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD64GX4M4C3000C15+16GB&id=9920,NA,NA,NA,NA,NA,NA
+58,Corsair CMD64GX4M4C3000C15 16GB,34,16.1,13.9,$417.80*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD64GX4M4C3200C16+16GB&id=8859,NA,NA,NA,NA,NA,NA
+59,Corsair CMD64GX4M4C3200C16 16GB,35,16.5,13.7,$429.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD64GX4M8A2400C14+8GB&id=7026,NA,NA,NA,NA,NA,NA
+60,Corsair CMD64GX4M8A2400C14 8GB,28,12.9,10.6,$894.83*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD64GX4M8A2666C15+8GB&id=7034,NA,NA,NA,NA,NA,NA
+61,Corsair CMD64GX4M8A2666C15 8GB,39,13.7,11.9,$728.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD64GX4M8A2800C16+8GB&id=6904,NA,NA,NA,NA,NA,NA
+62,Corsair CMD64GX4M8B2800C14 8GB,26,14.4,11.0,$699.89*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD64GX4M8B3200C16+8GB&id=8869,NA,NA,NA,NA,NA,NA
+63,Corsair CMD64GX4M8B3200C16 8GB,26,14.8,11.0,$549.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD64GX4M8X3800C19+8GB&id=12897,NA,NA,NA,NA,NA,NA
+64,Corsair CMD64GX4M8X4000C19 8GB,27,12.2,15.9,$899.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD8GX4M2B3000C15+4GB&id=8564,NA,NA,NA,NA,NA,NA
+65,Corsair CMD8GX4M2B3000C15 4GB,21,18.5,14.2,$291.02*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD8GX4M2B3200C16+4GB&id=10934,NA,NA,NA,NA,NA,NA
+66,Corsair CMD8GX4M2B3200C16 4GB,24,19.5,16.3,$79.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD8GX4M2B3466C18+4GB&id=9278,NA,NA,NA,NA,NA,NA
+67,Corsair CMD8GX4M2B3600C18 4GB,22,18.1,14.4,$179.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD8GX4M2B3866C18+4GB&id=9446,NA,NA,NA,NA,NA,NA
+68,Corsair CMD8GX4M2B3866C18 4GB,18,21.2,17.7,$257.22*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMD8GX4M2B4000C19+4GB&id=11863,NA,NA,NA,NA,NA,NA
+69,Corsair CMD8GX4M2B4000C19 4GB,18,21.4,18.5,$415.63*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMG16GX4M1E3200C16+16GB&id=18469,NA,NA,NA,NA,NA,NA
+70,Corsair CMG16GX4M2D3600C18 8GB,34,21.8,16.7,$119.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMG16GX4M2E3200C16+8GB&id=17493,NA,NA,NA,NA,NA,NA
+71,Corsair CMG16GX4M2E3200C16 8GB,34,20.4,14.8,$109.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMG32GX4M2D3600C18+16GB&id=17242,NA,NA,NA,NA,NA,NA
+72,Corsair CMG32GX4M2D3600C18 16GB,36,21.1,15.2,$204.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMG32GX4M2E3200C16+16GB&id=17292,NA,NA,NA,NA,NA,NA
+73,Corsair CMG32GX4M2E3200C16 16GB,32,19.1,14.2,$186.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMG64GX4M2D3600C18+32GB&id=17673,NA,NA,NA,NA,NA,NA
+74,Corsair CMG64GX4M2D3600C18 32GB,35,22.2,16.3,$729.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMG64GX4M2E3200C16+32GB&id=18720,NA,NA,NA,NA,NA,NA
+75,Corsair CMG64GX4M2E3200C16 32GB,44,21.6,14.3,$443.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMG8GX4M1E3200C16+8GB&id=17496,NA,NA,NA,NA,NA,NA
+76,Corsair CMH16GX4M2D3600C18 8GB,34,20.4,15.7,$118.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMH16GX4M2E3200C16+8GB&id=16046,NA,NA,NA,NA,NA,NA
+77,Corsair CMH16GX4M2E3200C16 8GB,31,19.5,14.5,$118.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMH16GX4M2Z3200C16+8GB&id=16267,NA,NA,NA,NA,NA,NA
+78,Corsair CMH16GX4M2Z3200C16 8GB,28,21.4,16.0,$179.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMH16GX4M2Z3600C18+8GB&id=15994,NA,NA,NA,NA,NA,NA
+79,Corsair CMH16GX4M2Z3600C18 8GB,28,21.8,17.3,$127.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMH32GX4M2C3200C18+16GB&id=17394,NA,NA,NA,NA,NA,NA
+80,Corsair CMH32GX4M2D3600C18 16GB,34,19.7,15.3,$199.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMH32GX4M2E3200C16+16GB&id=16051,NA,NA,NA,NA,NA,NA
+81,Corsair CMH32GX4M2E3200C16 16GB,36,19.4,14.2,$191.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMH32GX4M2Z3200C16+16GB&id=16043,NA,NA,NA,NA,NA,NA
+82,Corsair CMH32GX4M2Z3200C16 16GB,31,20.5,16.0,$201.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMH32GX4M2Z3600C18+16GB&id=16163,NA,NA,NA,NA,NA,NA
+83,Corsair CMH32GX4M2Z3600C18 16GB,35,20.5,16.0,$202.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMH32GX4M4D3600C18+8GB&id=16184,NA,NA,NA,NA,NA,NA
+84,Corsair CMK128GX4M4A2400C16 32GB,29,17.4,13.7,$888.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK128GX4M4A2666C16+32GB&id=13758,NA,NA,NA,NA,NA,NA
+85,Corsair CMK128GX4M8A2133C13 16GB,26,15.2,11.0,$999.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK128GX4M8A2400C14+16GB&id=10375,NA,NA,NA,NA,NA,NA
+86,Corsair CMK128GX4M8A2666C16 16GB,47,11.9,12.5,$999.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK128GX4M8B3000C16+16GB&id=9390,NA,NA,NA,NA,NA,NA
+87,Corsair CMK128GX4M8B3000C16 16GB,40,13.4,11.9,$764.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK128GX4M8B3200C16+16GB&id=10189,NA,NA,NA,NA,NA,NA
+88,Corsair CMK128GX4M8B3200C16 16GB,27,14.3,9.9,$949.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK128GX4M8B3333C16+16GB&id=10268,NA,NA,NA,NA,NA,NA
+89,Corsair CMK16GX4M1A2400C14 16GB,38,14.5,10.7,$72.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M1A2400C16+16GB&id=9919,NA,NA,NA,NA,NA,NA
+90,Corsair CMK16GX4M1A2400C16 16GB,32,16.0,12.0,$71.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M1A2666C16+16GB&id=9335,NA,NA,NA,NA,NA,NA
+91,Corsair CMK16GX4M1A2666C16 16GB,32,16.4,12.9,$73.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M1B3000C15+16GB&id=8355,NA,NA,NA,NA,NA,NA
+92,Corsair CMK16GX4M1B3000C15 16GB,29,17.9,14.9,$81.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M1C3000C16+16GB&id=11791,NA,NA,NA,NA,NA,NA
+93,Corsair CMK16GX4M1C3000C16 16GB,21,18.4,9.8,$383.96*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M1D3000C16+16GB&id=12166,NA,NA,NA,NA,NA,NA
+94,Corsair CMK16GX4M1D3000C16 16GB,30,17.9,14.4,$92.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M1D3600C18+16GB&id=19633,NA,NA,NA,NA,NA,NA
+95,Corsair CMK16GX4M2A2133C13 8GB,33,16.0,11.7,$95.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2A2400C14+8GB&id=7332,NA,NA,NA,NA,NA,NA
+96,Corsair CMK16GX4M2A2400C14 8GB,32,16.6,12.2,$115.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2A2400C16+8GB&id=8156,NA,NA,NA,NA,NA,NA
+97,Corsair CMK16GX4M2A2400C16 8GB,31,16.8,12.4,$89.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2A2666C16+8GB&id=7837,NA,NA,NA,NA,NA,NA
+98,Corsair CMK16GX4M2A2666C16 8GB,31,16.9,12.8,$69.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2A2666C18+8GB&id=14176,NA,NA,NA,NA,NA,NA
+99,Corsair CMK16GX4M2A2800C16 8GB,31,17.3,12.8,$122.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2B2800C14+8GB&id=8628,NA,NA,NA,NA,NA,NA
+100,Corsair CMK16GX4M2B2800C14 8GB,28,18.1,12.6,$126.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2B3000C15+8GB&id=7918,NA,NA,NA,NA,NA,NA
+101,Corsair CMK16GX4M2B3000C15 8GB,29,17.9,13.8,$115.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2B3200C14+8GB&id=9082,NA,NA,NA,NA,NA,NA
+102,Corsair CMK16GX4M2B3200C14 8GB,22,18.2,13.9,$174.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2B3200C16+8GB&id=7966,NA,NA,NA,NA,NA,NA
+103,Corsair CMK16GX4M2B3200C16 8GB,29,18.6,14.6,$119.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2B3333C16+8GB&id=8786,NA,NA,NA,NA,NA,NA
+104,Corsair CMK16GX4M2B3333C16 8GB,27,18.4,14.2,$521.41*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2B3466C16+8GB&id=8307,NA,NA,NA,NA,NA,NA
+105,Corsair CMK16GX4M2B3466C16 8GB,29,18.6,13.7,$189.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2B3600C18+8GB&id=8496,NA,NA,NA,NA,NA,NA
+106,Corsair CMK16GX4M2B3600C18 8GB,29,17.6,13.3,$178.20*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2B3733C17+8GB&id=8986,NA,NA,NA,NA,NA,NA
+107,Corsair CMK16GX4M2B3733C17 8GB,21,19.9,17.8,$199.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2B4266C19+8GB&id=11233,NA,NA,NA,NA,NA,NA
+108,Corsair CMK16GX4M2C3000C16 8GB,29,17.3,13.1,$200.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2C3200C16+8GB&id=14335,NA,NA,NA,NA,NA,NA
+109,Corsair CMK16GX4M2C3333C16 8GB,23,21.3,17.6,$93.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2C3600C20+8GB&id=14586,NA,NA,NA,NA,NA,NA
+110,Corsair CMK16GX4M2D3000C16 8GB,31,17.7,13.6,$100.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2D3200C16+8GB&id=10868,NA,NA,NA,NA,NA,NA
+111,Corsair CMK16GX4M2D3200C16 8GB,29,17.8,14.2,$131.80*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2D3600C16+8GB&id=15941,NA,NA,NA,NA,NA,NA
+112,Corsair CMK16GX4M2D3600C18 8GB,31,18.2,14.9,$105.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2E3200C16+8GB&id=13467,NA,NA,NA,NA,NA,NA
+113,Corsair CMK16GX4M2E3200C16 8GB,33,19.6,14.2,$89.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2E4000C19+8GB&id=10719,NA,NA,NA,NA,NA,NA
+114,Corsair CMK16GX4M2E4000C19 8GB,32,15.1,12.6,$249.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2E4333C19+8GB&id=11674,NA,NA,NA,NA,NA,NA
+115,Corsair CMK16GX4M2E4333C19 8GB,25,16.5,12.3,$530.27*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2F4400C19+8GB&id=12751,NA,NA,NA,NA,NA,NA
+116,Corsair CMK16GX4M2F4500C19 8GB,16,22.2,17.7,$898.15*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2G4000C16+8GB&id=15960,NA,NA,NA,NA,NA,NA
+117,Corsair CMK16GX4M2K4133C19 8GB,29,16.4,11.7,$226.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2K4266C16+8GB&id=14159,NA,NA,NA,NA,NA,NA
+118,Corsair CMK16GX4M2K4266C19 8GB,25,18.7,15.3,$269.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2K4333C19+8GB&id=13927,NA,NA,NA,NA,NA,NA
+119,Corsair CMK16GX4M2K4400C19 8GB,23,19.4,17.6,$692.66*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2K4500C19+8GB&id=13913,NA,NA,NA,NA,NA,NA
+120,Corsair CMK16GX4M2L3000C15 8GB,27,18.6,14.3,$199.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2L3200C16+8GB&id=13891,NA,NA,NA,NA,NA,NA
+121,Corsair CMK16GX4M2Z2400C16 8GB,30,17.4,13.2,$95.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2Z2666C16+8GB&id=10683,NA,NA,NA,NA,NA,NA
+122,Corsair CMK16GX4M2Z2666C16 8GB,31,16.2,13.0,$98.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2Z2933C16+8GB&id=12261,NA,NA,NA,NA,NA,NA
+123,Corsair CMK16GX4M2Z2933C16 8GB,30,17.5,14.6,$201.43*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2Z3200C16+8GB&id=10878,NA,NA,NA,NA,NA,NA
+124,Corsair CMK16GX4M2Z3200C16 8GB,29,19.6,15.4,$99.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2Z3466C16+8GB&id=12508,NA,NA,NA,NA,NA,NA
+125,Corsair CMK16GX4M2Z3466C16 8GB,40,19.2,10.7,$132.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2Z3600C14+8GB&id=13967,NA,NA,NA,NA,NA,NA
+126,Corsair CMK16GX4M2Z3600C18 8GB,29,18.7,15.5,$99.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2Z3600C20+8GB&id=14933,NA,NA,NA,NA,NA,NA
+127,Corsair CMK16GX4M2Z3600C20 8GB,30,17.4,14.5,$155.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M2Z4000C18+8GB&id=14172,NA,NA,NA,NA,NA,NA
+128,Corsair CMK16GX4M4A2133C13 4GB,39,14.5,10.8,$94.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4A2133C15+4GB&id=6812,NA,NA,NA,NA,NA,NA
+129,Corsair CMK16GX4M4A2133C15 4GB,28,13.4,10.4,$132.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4A2400C14+4GB&id=6625,NA,NA,NA,NA,NA,NA
+130,Corsair CMK16GX4M4A2400C14 4GB,37,15.0,11.5,$252.02*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4A2400C16+4GB&id=7933,NA,NA,NA,NA,NA,NA
+131,Corsair CMK16GX4M4A2400C16 4GB,27,15.8,11.9,$210.03*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4A2666C15+4GB&id=6286,NA,NA,NA,NA,NA,NA
+132,Corsair CMK16GX4M4A2666C15 4GB,40,13.7,10.4,$176.04*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4A2666C16+4GB&id=6410,NA,NA,NA,NA,NA,NA
+133,Corsair CMK16GX4M4A2666C16 4GB,38,14.7,11.8,$319.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4A2800C16+4GB&id=6301,NA,NA,NA,NA,NA,NA
+134,Corsair CMK16GX4M4A2800C16 4GB,38,14.3,11.2,$204.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4B3000C15+4GB&id=7057,NA,NA,NA,NA,NA,NA
+135,Corsair CMK16GX4M4B3000C15 4GB,32,17.0,13.7,$359.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4B3200C15+4GB&id=7668,NA,NA,NA,NA,NA,NA
+136,Corsair CMK16GX4M4B3200C15 4GB,22,17.6,13.7,$169.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4B3200C16+4GB&id=8068,NA,NA,NA,NA,NA,NA
+137,Corsair CMK16GX4M4B3200C16 4GB,25,15.7,12.4,$119.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4B3300C16+4GB&id=7943,NA,NA,NA,NA,NA,NA
+138,Corsair CMK16GX4M4B3300C16 4GB,23,17.3,13.3,$159.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4B3333C16+4GB&id=12474,NA,NA,NA,NA,NA,NA
+139,Corsair CMK16GX4M4B3400C16 4GB,30,17.3,13.7,$199.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4B3600C18+4GB&id=9813,NA,NA,NA,NA,NA,NA
+140,Corsair CMK16GX4M4B3600C18 4GB,33,15.7,11.4,$159.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4B3733C17+4GB&id=10475,NA,NA,NA,NA,NA,NA
+141,Corsair CMK16GX4M4B3733C17 4GB,21,21.7,18.9,$209.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4B3866C18+4GB&id=9195,NA,NA,NA,NA,NA,NA
+142,Corsair CMK16GX4M4C3000C16 4GB,29,12.3,13.2,$96.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4C3200C15+4GB&id=8778,NA,NA,NA,NA,NA,NA
+143,Corsair CMK16GX4M4C3200C15 4GB,28,16.6,13.0,$104.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK16GX4M4C3200C16+4GB&id=8097,NA,NA,NA,NA,NA,NA
+144,Corsair CMK16GX4M4C3200C16 4GB,35,16.3,12.7,$399.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK192GX4M12P3200C16+16GB&id=13748,NA,NA,NA,NA,NA,NA
+145,Corsair CMK32GX4M2A2133C13 16GB,36,15.9,11.4,$179.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2A2400C14+16GB&id=7909,NA,NA,NA,NA,NA,NA
+146,Corsair CMK32GX4M2A2400C14 16GB,33,16.1,11.8,$185.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2A2400C16+16GB&id=8948,NA,NA,NA,NA,NA,NA
+147,Corsair CMK32GX4M2A2400C16 16GB,33,16.2,12.3,$200.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2A2666C16+16GB&id=7780,NA,NA,NA,NA,NA,NA
+148,Corsair CMK32GX4M2A2666C16 16GB,32,16.6,12.9,$189.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2A2800C16+16GB&id=8384,NA,NA,NA,NA,NA,NA
+149,Corsair CMK32GX4M2A2800C16 16GB,39,15.0,12.1,$289.29*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2B3000C15+16GB&id=7924,NA,NA,NA,NA,NA,NA
+150,Corsair CMK32GX4M2B3000C15 16GB,30,18.0,14.3,$169.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2B3200C16+16GB&id=8001,NA,NA,NA,NA,NA,NA
+151,Corsair CMK32GX4M2B3200C16 16GB,29,18.0,14.7,$179.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2B3333C16+16GB&id=10449,NA,NA,NA,NA,NA,NA
+152,Corsair CMK32GX4M2B3333C16 16GB,19,20.7,16.6,$349.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2B3466C16+16GB&id=10611,NA,NA,NA,NA,NA,NA
+153,Corsair CMK32GX4M2B3466C16 16GB,27,19.0,14.3,$764.01*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2C3000C16+16GB&id=11779,NA,NA,NA,NA,NA,NA
+154,Corsair CMK32GX4M2C3200C18 16GB,29,17.6,13.7,$179.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2C3333C16+16GB&id=12707,NA,NA,NA,NA,NA,NA
+155,Corsair CMK32GX4M2C3333C16 16GB,24,20.4,16.8,$189.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2D3000C16+16GB&id=11878,NA,NA,NA,NA,NA,NA
+156,Corsair CMK32GX4M2D3000C16 16GB,31,17.3,13.8,$179.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2D3200C16+16GB&id=11066,NA,NA,NA,NA,NA,NA
+157,Corsair CMK32GX4M2D3200C16 16GB,29,18.0,14.6,$413.25*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2D3600C16+16GB&id=17725,NA,NA,NA,NA,NA,NA
+158,Corsair CMK32GX4M2D3600C18 16GB,33,19.6,15.4,$195.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2E3200C16+16GB&id=13445,NA,NA,NA,NA,NA,NA
+159,Corsair CMK32GX4M2F4000C19 16GB,29,18.5,16.2,$655.39*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2G4000C19+16GB&id=16729,NA,NA,NA,NA,NA,NA
+160,Corsair CMK32GX4M2K4133C19 16GB,30,16.5,14.3,$849.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2L3000C15+16GB&id=11552,NA,NA,NA,NA,NA,NA
+161,Corsair CMK32GX4M2L3000C15 16GB,24,19.1,15.1,$744.26*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2L3200C16+16GB&id=11987,NA,NA,NA,NA,NA,NA
+162,Corsair CMK32GX4M2L3200C16 16GB,24,19.4,16.5,$456.81*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2Z2400C16+16GB&id=10662,NA,NA,NA,NA,NA,NA
+163,Corsair CMK32GX4M2Z2400C16 16GB,33,16.0,12.3,$178.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M2Z3200C16+16GB&id=13583,NA,NA,NA,NA,NA,NA
+164,Corsair CMK32GX4M4A2133C13 8GB,36,15.6,11.7,$179.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4A2133C15+8GB&id=7371,NA,NA,NA,NA,NA,NA
+165,Corsair CMK32GX4M4A2133C15 8GB,37,14.2,10.5,$241.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4A2400C12+8GB&id=8935,NA,NA,NA,NA,NA,NA
+166,Corsair CMK32GX4M4A2400C12 8GB,26,14.8,10.9,$189.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4A2400C14+8GB&id=6617,NA,NA,NA,NA,NA,NA
+167,Corsair CMK32GX4M4A2400C14 8GB,37,15.2,11.5,$399.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4A2400C16+8GB&id=8063,NA,NA,NA,NA,NA,NA
+168,Corsair CMK32GX4M4A2400C16 8GB,40,15.0,11.9,$272.76*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4A2666C15+8GB&id=6734,NA,NA,NA,NA,NA,NA
+169,Corsair CMK32GX4M4A2666C15 8GB,34,16.4,12.1,$152.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4A2666C16+8GB&id=6800,NA,NA,NA,NA,NA,NA
+170,Corsair CMK32GX4M4A2666C16 8GB,38,15.2,11.7,$144.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4A2800C16+8GB&id=6979,NA,NA,NA,NA,NA,NA
+171,Corsair CMK32GX4M4A2800C16 8GB,33,14.5,12.1,$249.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4B2800C14+8GB&id=7976,NA,NA,NA,NA,NA,NA
+172,Corsair CMK32GX4M4B2800C14 8GB,25,15.6,11.8,$224.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4B3000C15+8GB&id=7580,NA,NA,NA,NA,NA,NA
+173,Corsair CMK32GX4M4B3000C15 8GB,32,17.2,13.3,$194.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4B3200C14+8GB&id=10045,NA,NA,NA,NA,NA,NA
+174,Corsair CMK32GX4M4B3200C14 8GB,20,19.0,14.5,$284.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4B3200C16+8GB&id=8475,NA,NA,NA,NA,NA,NA
+175,Corsair CMK32GX4M4B3200C16 8GB,33,16.9,14.5,$169.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4B3333C16+8GB&id=9623,NA,NA,NA,NA,NA,NA
+176,Corsair CMK32GX4M4B3333C16 8GB,27,18.2,13.4,$349.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4B3466C16+8GB&id=8362,NA,NA,NA,NA,NA,NA
+177,Corsair CMK32GX4M4B3466C16 8GB,27,19.0,16.5,$389.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4B3600C16+8GB&id=9563,NA,NA,NA,NA,NA,NA
+178,Corsair CMK32GX4M4B3600C18 8GB,32,17.0,14.7,$289.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4B3733C17+8GB&id=10007,NA,NA,NA,NA,NA,NA
+179,Corsair CMK32GX4M4B3733C17 8GB,20,19.8,14.6,$668.23*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4B3866C18+8GB&id=10661,NA,NA,NA,NA,NA,NA
+180,Corsair CMK32GX4M4B3866C18 8GB,20,19.9,15.2,$883.15*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4B4000C19+8GB&id=10552,NA,NA,NA,NA,NA,NA
+181,Corsair CMK32GX4M4C3000C15 8GB,33,16.4,13.6,$169.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4C3000C16+8GB&id=15233,NA,NA,NA,NA,NA,NA
+182,Corsair CMK32GX4M4C3333C16 8GB,25,14.6,12.0,$340.24*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4C3400C16+8GB&id=9972,NA,NA,NA,NA,NA,NA
+183,Corsair CMK32GX4M4C3400C16 8GB,25,16.0,12.3,$319.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4D3000C16+8GB&id=12773,NA,NA,NA,NA,NA,NA
+184,Corsair CMK32GX4M4D3000C16 8GB,33,16.3,13.8,$152.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4D3200C16+8GB&id=11656,NA,NA,NA,NA,NA,NA
+185,Corsair CMK32GX4M4E4133C19 8GB,43,15.2,12.4,$499.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4K3600C16+8GB&id=14270,NA,NA,NA,NA,NA,NA
+186,Corsair CMK32GX4M4K4133C19 8GB,40,14.0,13.2,$519.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4K4266C19+8GB&id=11701,NA,NA,NA,NA,NA,NA
+187,Corsair CMK32GX4M4Z2933C16 8GB,42,15.4,14.1,$167.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK32GX4M4Z3200C16+8GB&id=12799,NA,NA,NA,NA,NA,NA
+188,Corsair CMK32GX4M4Z3200C16 8GB,32,17.9,15.6,$346.52*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK4GX4M1A2400C14+4GB&id=7988,NA,NA,NA,NA,NA,NA
+189,Corsair CMK4GX4M1A2400C14 4GB,30,18.2,13.2,$26.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK4GX4M1A2400C16+4GB&id=8772,NA,NA,NA,NA,NA,NA
+190,Corsair CMK4GX4M1A2400C16 4GB,24,15.7,11.1,$26.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK4GX4M1D2400C14+4GB&id=11554,NA,NA,NA,NA,NA,NA
+191,Corsair CMK4GX4M1D2400C14 4GB,72,15.4,7.8,$69.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M2A2400C16+32GB&id=13873,NA,NA,NA,NA,NA,NA
+192,Corsair CMK64GX4M2A2400C16 32GB,31,18.0,13.0,$463.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M2A2666C16+32GB&id=13952,NA,NA,NA,NA,NA,NA
+193,Corsair CMK64GX4M2A2666C16 32GB,31,17.1,13.4,$353.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M2C3200C16+32GB&id=14208,NA,NA,NA,NA,NA,NA
+194,Corsair CMK64GX4M2D3600C18 32GB,37,17.3,14.7,$469.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M2E3200C16+32GB&id=14052,NA,NA,NA,NA,NA,NA
+195,Corsair CMK64GX4M2E3200C16 32GB,35,19.2,14.7,$349.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M2Z4000C18+32GB&id=15026,NA,NA,NA,NA,NA,NA
+196,Corsair CMK64GX4M4A2133C13 16GB,37,14.5,11.6,$289.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4A2400C14+16GB&id=8359,NA,NA,NA,NA,NA,NA
+197,Corsair CMK64GX4M4A2400C14 16GB,40,14.6,11.3,$449.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4A2400C16+16GB&id=9652,NA,NA,NA,NA,NA,NA
+198,Corsair CMK64GX4M4A2400C16 16GB,37,15.1,12.2,$454.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4A2666C16+16GB&id=8567,NA,NA,NA,NA,NA,NA
+199,Corsair CMK64GX4M4A2666C16 16GB,35,16.5,13.0,$399.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4B2800C14+16GB&id=8280,NA,NA,NA,NA,NA,NA
+200,Corsair CMK64GX4M4B2800C14 16GB,27,14.8,11.1,$464.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4B3000C15+16GB&id=8249,NA,NA,NA,NA,NA,NA
+201,Corsair CMK64GX4M4B3000C15 16GB,27,14.4,11.7,$359.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4B3200C16+16GB&id=8172,NA,NA,NA,NA,NA,NA
+202,Corsair CMK64GX4M4B3200C16 16GB,32,17.8,14.1,$349.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4B3333C16+16GB&id=8395,NA,NA,NA,NA,NA,NA
+203,Corsair CMK64GX4M4B3333C16 16GB,31,16.5,13.9,$673.64*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4B3466C16+16GB&id=9113,NA,NA,NA,NA,NA,NA
+204,Corsair CMK64GX4M4B3466C16 16GB,21,18.8,14.8,$579.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4B3600C18+16GB&id=11487,NA,NA,NA,NA,NA,NA
+205,Corsair CMK64GX4M4C3000C15 16GB,39,14.5,14.5,$449.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4C3000C16+16GB&id=11948,NA,NA,NA,NA,NA,NA
+206,Corsair CMK64GX4M4C3200C16 16GB,32,16.9,15.4,$499.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4C3333C16+16GB&id=13506,NA,NA,NA,NA,NA,NA
+207,Corsair CMK64GX4M4D3000C16 16GB,37,15.3,13.3,$299.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4D3600C18+16GB&id=16156,NA,NA,NA,NA,NA,NA
+208,Corsair CMK64GX4M4E3200C16 16GB,36,16.4,13.2,$623.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4G4000C18+16GB&id=19167,NA,NA,NA,NA,NA,NA
+209,Corsair CMK64GX4M4K3733C17 16GB,20,19.4,15.0,$839.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M4X4000C18+16GB&id=15052,NA,NA,NA,NA,NA,NA
+210,Corsair CMK64GX4M8A2133C13 8GB,28,13.2,10.6,$269.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M8A2400C14+8GB&id=6907,NA,NA,NA,NA,NA,NA
+211,Corsair CMK64GX4M8A2400C14 8GB,40,14.3,11.2,$499.95*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M8A2666C16+8GB&id=7542,NA,NA,NA,NA,NA,NA
+212,Corsair CMK64GX4M8A2666C16 8GB,28,13.2,10.1,$519.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M8B2800C14+8GB&id=8881,NA,NA,NA,NA,NA,NA
+213,Corsair CMK64GX4M8B2800C14 8GB,27,14.1,11.8,$379.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M8B3200C16+8GB&id=13503,NA,NA,NA,NA,NA,NA
+214,Corsair CMK64GX4M8X3600C18 8GB,30,17.7,15.4,$729.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M8X4000C19+8GB&id=12289,NA,NA,NA,NA,NA,NA
+215,Corsair CMK64GX4M8X4000C19 8GB,29,12.6,14.8,$879.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M8X4133C19+8GB&id=12140,NA,NA,NA,NA,NA,NA
+216,Corsair CMK64GX4M8X4133C19 8GB,26,12.3,15.3,$899.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M8X4200C19+8GB&id=12062,NA,NA,NA,NA,NA,NA
+217,Corsair CMK64GX4M8X4200C19 8GB,28,12.9,15.0,$919.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M8X4266C19+8GB&id=13683,NA,NA,NA,NA,NA,NA
+218,Corsair CMK64GX4M8Z2933C16 8GB,84,12.8,10.5,$459.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK64GX4M8%C3%AF%C2%BF%C2%BD2800C14+8GB&id=8814,NA,NA,NA,NA,NA,NA
+219,Corsair CMK8GX4M1A2400C14 8GB,34,15.8,11.5,$55.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M1A2400C16+8GB&id=8582,NA,NA,NA,NA,NA,NA
+220,Corsair CMK8GX4M1A2400C16 8GB,32,16.4,12.3,$37.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M1A2666C16+8GB&id=8234,NA,NA,NA,NA,NA,NA
+221,Corsair CMK8GX4M1A2666C16 8GB,31,16.6,12.6,$50.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M1D2400C14+8GB&id=11613,NA,NA,NA,NA,NA,NA
+222,Corsair CMK8GX4M1D3000C16 8GB,30,17.6,13.7,$69.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M1E3200C16+8GB&id=13283,NA,NA,NA,NA,NA,NA
+223,Corsair CMK8GX4M2A2133C13 4GB,32,16.7,12.2,$79.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2A2400C14+4GB&id=7182,NA,NA,NA,NA,NA,NA
+224,Corsair CMK8GX4M2A2400C14 4GB,33,16.1,11.8,$69.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2A2400C16+4GB&id=8256,NA,NA,NA,NA,NA,NA
+225,Corsair CMK8GX4M2A2400C16 4GB,32,16.4,12.8,$66.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2A2666C16+4GB&id=7981,NA,NA,NA,NA,NA,NA
+226,Corsair CMK8GX4M2A2666C16 4GB,30,16.0,11.9,$69.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2A2800C16+4GB&id=8397,NA,NA,NA,NA,NA,NA
+227,Corsair CMK8GX4M2A2800C16 4GB,30,16.4,11.8,$68.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2B3000C15+4GB&id=7934,NA,NA,NA,NA,NA,NA
+228,Corsair CMK8GX4M2B3000C15 4GB,30,17.6,14.2,$237.75*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2B3200C16+4GB&id=7942,NA,NA,NA,NA,NA,NA
+229,Corsair CMK8GX4M2B3200C16 4GB,28,18.2,13.5,$199.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2B3600C18+4GB&id=8543,NA,NA,NA,NA,NA,NA
+230,Corsair CMK8GX4M2B3600C18 4GB,24,20.0,15.7,$167.34*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2B3733C17+4GB&id=9699,NA,NA,NA,NA,NA,NA
+231,Corsair CMK8GX4M2B3733C17 4GB,21,19.4,14.6,$226.10*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2B3866C18+4GB&id=9475,NA,NA,NA,NA,NA,NA
+232,Corsair CMK8GX4M2B3866C18 4GB,28,15.8,13.4,$107.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2B4000C19+4GB&id=9816,NA,NA,NA,NA,NA,NA
+233,Corsair CMK8GX4M2B4000C19 4GB,21,18.1,13.4,$140.34*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2B4133C19+4GB&id=10123,NA,NA,NA,NA,NA,NA
+234,Corsair CMK8GX4M2B4200C19 4GB,44,14.7,10.1,$438.37*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2B4266C19+4GB&id=10476,NA,NA,NA,NA,NA,NA
+235,Corsair CMK8GX4M2C3000C16 4GB,28,18.1,13.9,$96.93*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMK8GX4M2D2666C16+4GB&id=12527,NA,NA,NA,NA,NA,NA
+236,Corsair CMK8GX4M2D2666C16 4GB,23,17.4,12.8,$119.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMN16GX4M2Z3200C16+8GB&id=18004,NA,NA,NA,NA,NA,NA
+237,Corsair CMN16GX4M2Z3200C16 8GB,35,21.4,15.1,$118.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMN16GX4M2Z3600C16+8GB&id=17829,NA,NA,NA,NA,NA,NA
+238,Corsair CMN16GX4M2Z3600C16 8GB,40,24.5,17.7,$189.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMN16GX4M2Z3600C18+8GB&id=17519,NA,NA,NA,NA,NA,NA
+239,Corsair CMN16GX4M2Z3600C18 8GB,33,23.3,16.8,$125.99,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMN32GX4M2Z3200C16+16GB&id=17566,NA,NA,NA,NA,NA,NA
+240,Corsair CMN32GX4M2Z3200C16 16GB,35,20.1,15.7,$199.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMN32GX4M2Z3600C16+16GB&id=17806,NA,NA,NA,NA,NA,NA
+241,Corsair CMN32GX4M2Z3600C16 16GB,34,22.6,17.0,$299.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMN32GX4M2Z3600C18+16GB&id=17172,NA,NA,NA,NA,NA,NA
+242,Corsair CMN32GX4M2Z3600C18 16GB,41,22.2,16.2,$319.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMN32GX4M2Z4000C18+16GB&id=17343,NA,NA,NA,NA,NA,NA
+243,Corsair CMN32GX4M2Z4000C18 16GB,37,20.3,17.5,$436.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMN32GX4M2Z4600C18+16GB&id=17379,NA,NA,NA,NA,NA,NA
+244,Corsair CMN32GX4M2Z4600C18 16GB,28,18.9,17.3,$499.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMN32GX4M4Z3600C18+8GB&id=17380,NA,NA,NA,NA,NA,NA
+245,Corsair CMN64GX4M2Z3200C16 32GB,34,21.8,15.6,$659.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMN64GX4M4Z3600C18+16GB&id=17386,NA,NA,NA,NA,NA,NA
+246,Corsair CMN64GX4M4Z3600C18 16GB,51,11.5,14.0,$559.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR128GX4M8C3000C16+16GB&id=11840,NA,NA,NA,NA,NA,NA
+247,Corsair CMR128GX4M8C3000C16 16GB,21,19.7,15.9,$999.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR128GX4M8X3800C19+16GB&id=12006,NA,NA,NA,NA,NA,NA
+248,Corsair CMR16GX4M2A2666C16 8GB,30,17.2,13.0,$476.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR16GX4M2C+8GB&id=13282,NA,NA,NA,NA,NA,NA
+249,Corsair CMR16GX4M2C 8GB,66,11.4,7.2,$115.30*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR16GX4M2C3000C15+8GB&id=10447,NA,NA,NA,NA,NA,NA
+250,Corsair CMR16GX4M2C3000C15 8GB,29,18.3,13.7,$136.65*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR16GX4M2C3000C16+8GB&id=11362,NA,NA,NA,NA,NA,NA
+251,Corsair CMR16GX4M2C3000C16 8GB,30,18.4,14.1,$258.96*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR16GX4M2C3200C16+8GB&id=10776,NA,NA,NA,NA,NA,NA
+252,Corsair CMR16GX4M2C3200C16 8GB,28,17.6,13.6,$275.36*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR16GX4M2C3466C16+8GB&id=10849,NA,NA,NA,NA,NA,NA
+253,Corsair CMR16GX4M2C3466C16 8GB,26,19.3,15.5,$369.66*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR16GX4M2C3600C18+8GB&id=11048,NA,NA,NA,NA,NA,NA
+254,Corsair CMR16GX4M2C3600C18 8GB,28,18.8,14.7,$359.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR16GX4M2D3000C16+8GB&id=12134,NA,NA,NA,NA,NA,NA
+255,Corsair CMR16GX4M2D3000C16 8GB,27,17.8,13.6,$146.59*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR16GX4M2D3200C16+8GB&id=11441,NA,NA,NA,NA,NA,NA
+256,Corsair CMR16GX4M2D3200C16 8GB,26,18.8,13.7,$194.38*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR16GX4M2E4266C19+8GB&id=11138,NA,NA,NA,NA,NA,NA
+257,Corsair CMR16GX4M2Z3200C16 8GB,22,18.7,14.7,$293.34*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M2A2666C16+16GB&id=10857,NA,NA,NA,NA,NA,NA
+258,Corsair CMR32GX4M2C3000C15 16GB,28,18.9,14.9,$383.69*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M2C3000C16+16GB&id=11978,NA,NA,NA,NA,NA,NA
+259,Corsair CMR32GX4M2C3200C16 16GB,29,18.7,15.8,$298.28*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M2C3333C16+16GB&id=11468,NA,NA,NA,NA,NA,NA
+260,Corsair CMR32GX4M2C3333C16 16GB,28,18.1,14.7,$507.67*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M2D3000C16+16GB&id=12417,NA,NA,NA,NA,NA,NA
+261,Corsair CMR32GX4M2D3000C16 16GB,29,18.9,15.0,$235.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M2F3600C18+16GB&id=12312,NA,NA,NA,NA,NA,NA
+262,Corsair CMR32GX4M2F3600C18 16GB,25,19.1,16.3,$761.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M4A2666C16+8GB&id=10861,NA,NA,NA,NA,NA,NA
+263,Corsair CMR32GX4M4A2666C16 8GB,32,16.4,12.8,$538.38*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M4C3000C15+8GB&id=10406,NA,NA,NA,NA,NA,NA
+264,Corsair CMR32GX4M4C3000C15 8GB,34,16.7,13.9,$638.54*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M4C3000C16+8GB&id=11572,NA,NA,NA,NA,NA,NA
+265,Corsair CMR32GX4M4C3000C16 8GB,20,19.0,15.5,$764.40*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M4C3200C16+8GB&id=11058,NA,NA,NA,NA,NA,NA
+266,Corsair CMR32GX4M4C3200C16 8GB,26,19.4,15.7,$532.75*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M4C3333C16+8GB&id=10699,NA,NA,NA,NA,NA,NA
+267,Corsair CMR32GX4M4C3333C16 8GB,24,20.0,16.7,$848.06*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M4C3466C16+8GB&id=11049,NA,NA,NA,NA,NA,NA
+268,Corsair CMR32GX4M4C3466C16 8GB,29,19.5,16.4,$523.32*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M4C3600C18+8GB&id=11016,NA,NA,NA,NA,NA,NA
+269,Corsair CMR32GX4M4C3600C18 8GB,31,16.6,14.8,$649.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M4D3000C16+8GB&id=12064,NA,NA,NA,NA,NA,NA
+270,Corsair CMR32GX4M4D3000C16 8GB,23,17.2,14.2,$470.88*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR32GX4M4D3200C16+8GB&id=11393,NA,NA,NA,NA,NA,NA
+271,Corsair CMR64GX4M4C3000C15 16GB,23,18.4,13.6,$769.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR64GX4M4C3200C16+16GB&id=11198,NA,NA,NA,NA,NA,NA
+272,Corsair CMR64GX4M4C3200C16 16GB,36,18.5,15.4,$499.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR64GX4M4C3333C16+16GB&id=11929,NA,NA,NA,NA,NA,NA
+273,Corsair CMR64GX4M8C3000C15 8GB,98,10.7,9.0,$969.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMR64GX4M8C3200C16+8GB&id=12480,NA,NA,NA,NA,NA,NA
+274,Corsair CMR64GX4M8X3800C19 8GB,51,12.8,13.5,$889.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMRX8GD3000C16R4D+8GB&id=11971,NA,NA,NA,NA,NA,NA
+275,Corsair CMSO16GX4M1A2133C15 16GB,35,15.2,11.5,$139.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSO16GX4M2A2133C15+8GB&id=8655,NA,NA,NA,NA,NA,NA
+276,Corsair CMSO16GX4M2A2133C15 8GB,34,14.9,11.0,$444.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSO32GX4M2A2133C15+16GB&id=9091,NA,NA,NA,NA,NA,NA
+277,Corsair CMSO32GX4M2A2133C15 16GB,42,13.4,10.6,$373.83*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSO4GX4M1A2133C15+4GB&id=9952,NA,NA,NA,NA,NA,NA
+278,Corsair CMSO4GX4M1A2133C15 4GB,28,12.2,8.3,$38.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSO8GX4M1A2133C15+8GB&id=9107,NA,NA,NA,NA,NA,NA
+279,Corsair CMSO8GX4M1A2133C15 8GB,38,14.6,10.9,$49.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX16GX4M1A2400C16+16GB&id=12541,NA,NA,NA,NA,NA,NA
+280,Corsair CMSX16GX4M1A2400C16 16GB,38,15.9,12.6,$125.50*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX16GX4M1A2666C18+16GB&id=13051,NA,NA,NA,NA,NA,NA
+281,Corsair CMSX16GX4M1A2666C18 16GB,35,15.8,13.9,$73.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX16GX4M1A3200C22+16GB&id=17667,NA,NA,NA,NA,NA,NA
+282,Corsair CMSX16GX4M1A3200C22 16GB,41,15.6,13.2,$99.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX16GX4M2A2400C16+8GB&id=9176,NA,NA,NA,NA,NA,NA
+283,Corsair CMSX16GX4M2A2400C16 8GB,37,15.2,12.2,$115.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX16GX4M2A2666C18+8GB&id=9465,NA,NA,NA,NA,NA,NA
+284,Corsair CMSX16GX4M2A2666C18 8GB,40,14.2,11.9,$99.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX16GX4M2A3000C16+8GB&id=9867,NA,NA,NA,NA,NA,NA
+285,Corsair CMSX16GX4M2A3000C16 8GB,28,16.3,13.4,$129.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX16GX4M2A3000C18+8GB&id=14174,NA,NA,NA,NA,NA,NA
+286,Corsair CMSX16GX4M2A3200C22 8GB,40,16.7,14.0,$119.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX32GX4M1A2666C18+32GB&id=14610,NA,NA,NA,NA,NA,NA
+287,Corsair CMSX32GX4M2A2400C16 16GB,38,14.9,12.6,$137.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX32GX4M2A2666C18+16GB&id=8805,NA,NA,NA,NA,NA,NA
+288,Corsair CMSX32GX4M2A2666C18 16GB,37,15.2,13.2,$139.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX32GX4M2A2933C19+16GB&id=15552,NA,NA,NA,NA,NA,NA
+289,Corsair CMSX32GX4M2A3000C16 16GB,32,17.4,14.3,$249.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX32GX4M2A3000C18+16GB&id=13777,NA,NA,NA,NA,NA,NA
+290,Corsair CMSX32GX4M2A3200C22 16GB,42,15.7,13.0,$219.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX4GX4M1A2400C16+4GB&id=14381,NA,NA,NA,NA,NA,NA
+291,Corsair CMSX64GX4M2A2666C18 32GB,40,15.1,13.2,$436.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX64GX4M2A2933C19+32GB&id=15915,NA,NA,NA,NA,NA,NA
+292,Corsair CMSX64GX4M2A3200C22 32GB,53,15.4,13.7,$499.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX64GX4M4A2400C16+16GB&id=10473,NA,NA,NA,NA,NA,NA
+293,Corsair CMSX64GX4M4A2400C16 16GB,33,14.5,12.0,$289.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX64GX4M4A2666C18+16GB&id=9805,NA,NA,NA,NA,NA,NA
+294,Corsair CMSX64GX4M4A2666C18 16GB,35,16.2,14.4,$559.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX8GX4M1A2400C16+8GB&id=11302,NA,NA,NA,NA,NA,NA
+295,Corsair CMSX8GX4M1A2400C16 8GB,29,15.9,12.3,$38.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX8GX4M1A2666C18+8GB&id=13679,NA,NA,NA,NA,NA,NA
+296,Corsair CMSX8GX4M2A2400C16 4GB,25,15.1,10.7,$65.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMSX8GX4M2A2666C18+4GB&id=12542,NA,NA,NA,NA,NA,NA
+297,Corsair CMSX8GX4M2A2666C18 4GB,30,17.6,12.9,$134.83*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT128GX4M4C3200C16+32GB&id=15877,NA,NA,NA,NA,NA,NA
+298,Corsair CMT16GX4M2C3000C15 8GB,28,17.2,12.6,$193.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT16GX4M2C3200C14+8GB&id=13646,NA,NA,NA,NA,NA,NA
+299,Corsair CMT16GX4M2C3200C16 8GB,29,18.1,15.1,$169.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT16GX4M2C3466C16+8GB&id=13797,NA,NA,NA,NA,NA,NA
+300,Corsair CMT16GX4M2C3600C18 8GB,29,20.4,16.4,$175.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT16GX4M2K3600C16+8GB&id=13269,NA,NA,NA,NA,NA,NA
+301,Corsair CMT16GX4M2K3600C16 8GB,34,17.6,13.4,$259.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT16GX4M2K4000C19+8GB&id=13385,NA,NA,NA,NA,NA,NA
+302,Corsair CMT16GX4M2Z3200C16 8GB,30,18.0,14.7,$179.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT32GX4M2C3000C15+16GB&id=13250,NA,NA,NA,NA,NA,NA
+303,Corsair CMT32GX4M2C3000C15 16GB,30,17.9,15.0,$254.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT32GX4M2C3200C14+16GB&id=14137,NA,NA,NA,NA,NA,NA
+304,Corsair CMT32GX4M2C3200C16 16GB,28,18.8,15.5,$379.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT32GX4M2C3466C16+16GB&id=13346,NA,NA,NA,NA,NA,NA
+305,Corsair CMT32GX4M2C3466C16 16GB,30,18.8,14.9,$299.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT32GX4M2C3600C18+16GB&id=15630,NA,NA,NA,NA,NA,NA
+306,Corsair CMT32GX4M2D3600C18 16GB,34,20.5,15.6,$459.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT32GX4M2E3200C16+16GB&id=16318,NA,NA,NA,NA,NA,NA
+307,Corsair CMT32GX4M2E3200C16 16GB,40,18.3,15.3,$249.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT32GX4M2G4000C18+16GB&id=20174,NA,NA,NA,NA,NA,NA
+308,Corsair CMT32GX4M4C3000C15 8GB,22,18.0,14.8,$413.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT32GX4M4C3200C14+8GB&id=13454,NA,NA,NA,NA,NA,NA
+309,Corsair CMT32GX4M4C3200C14 8GB,23,18.9,16.9,$519.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT32GX4M4C3200C16+8GB&id=13195,NA,NA,NA,NA,NA,NA
+310,Corsair CMT32GX4M4C3200C16 8GB,28,18.7,15.5,$381.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT32GX4M4C3466C16+8GB&id=13903,NA,NA,NA,NA,NA,NA
+311,Corsair CMT32GX4M4C3600C18 8GB,32,18.9,16.3,$373.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT32GX4M4E3200C16+8GB&id=18451,NA,NA,NA,NA,NA,NA
+312,Corsair CMT32GX4M4K3600C16 8GB,27,21.6,17.0,$529.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT32GX4M4K4000C19+8GB&id=14811,NA,NA,NA,NA,NA,NA
+313,Corsair CMT32GX4M4Z3200C16 8GB,27,18.5,16.1,$398.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT64GX4M2C3600C18+32GB&id=16017,NA,NA,NA,NA,NA,NA
+314,Corsair CMT64GX4M4E3200C16 16GB,32,18.7,13.6,$719.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT64GX4M4K3600C16+16GB&id=14394,NA,NA,NA,NA,NA,NA
+315,Corsair CMT64GX4M4K3600C18 16GB,34,19.8,15.1,$636.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMT64GX4M4Z3600C16+16GB&id=15259,NA,NA,NA,NA,NA,NA
+316,Corsair CMU16GX4M2A2666C16 8GB,31,16.6,12.5,$213.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU16GX4M2C3000C15+8GB&id=9137,NA,NA,NA,NA,NA,NA
+317,Corsair CMU16GX4M2C3000C15 8GB,30,18.0,13.7,$159.63*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU16GX4M2C3200C16+8GB&id=9197,NA,NA,NA,NA,NA,NA
+318,Corsair CMU16GX4M2C3200C16 8GB,27,19.2,15.3,$199.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU16GX4M2D3000C16+8GB&id=12775,NA,NA,NA,NA,NA,NA
+319,Corsair CMU16GX4M2D3000C16 8GB,20,19.7,14.9,$335.01*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU16GX4M2D3200C16+8GB&id=11675,NA,NA,NA,NA,NA,NA
+320,Corsair CMU32GX4M2A2666C16 16GB,29,17.3,14.1,$177.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU32GX4M2C3000C15+16GB&id=9256,NA,NA,NA,NA,NA,NA
+321,Corsair CMU32GX4M2C3000C15 16GB,32,17.9,14.1,$435.90*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU32GX4M2C3000C16+16GB&id=11869,NA,NA,NA,NA,NA,NA
+322,Corsair CMU32GX4M2C3000C16 16GB,22,18.4,13.5,$623.84*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU32GX4M2C3200C16+16GB&id=9283,NA,NA,NA,NA,NA,NA
+323,Corsair CMU32GX4M2C3200C16 16GB,30,17.9,13.6,$399.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU32GX4M2C3333C16+16GB&id=13277,NA,NA,NA,NA,NA,NA
+324,Corsair CMU32GX4M2D3200C16 16GB,30,15.0,12.3,$732.22*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU32GX4M4A2666C16+8GB&id=9620,NA,NA,NA,NA,NA,NA
+325,Corsair CMU32GX4M4A2666C16 8GB,29,17.3,13.8,$349.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU32GX4M4C3000C15+8GB&id=9326,NA,NA,NA,NA,NA,NA
+326,Corsair CMU32GX4M4C3000C15 8GB,33,17.2,13.3,$377.16*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU32GX4M4C3000C16+8GB&id=12010,NA,NA,NA,NA,NA,NA
+327,Corsair CMU32GX4M4C3200C16 8GB,28,19.9,14.9,$358.17*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU32GX4M4C3400C16+8GB&id=9194,NA,NA,NA,NA,NA,NA
+328,Corsair CMU32GX4M4C3400C16 8GB,30,20.0,15.2,$329.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU32GX4M4C3466C16+8GB&id=9497,NA,NA,NA,NA,NA,NA
+329,Corsair CMU32GX4M4C3466C16 8GB,34,15.9,13.2,$349.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU32GX4M4D3000C16+8GB&id=12504,NA,NA,NA,NA,NA,NA
+330,Corsair CMU32GX4M4D3000C16 8GB,94,11.1,8.8,$575.48*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU64GX4M4A2666C16+16GB&id=9713,NA,NA,NA,NA,NA,NA
+331,Corsair CMU64GX4M4A2666C16 16GB,37,15.8,13.1,$699.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU64GX4M4C3000C15+16GB&id=9260,NA,NA,NA,NA,NA,NA
+332,Corsair CMU64GX4M4C3000C15 16GB,32,16.5,13.9,$951.50*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU64GX4M4C3200C16+16GB&id=9238,NA,NA,NA,NA,NA,NA
+333,Corsair CMU64GX4M4C3200C16 16GB,37,15.1,12.9,$583.44*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMU64GX4M4D3000C16+16GB&id=12487,NA,NA,NA,NA,NA,NA
+334,Corsair CMU64GX4M4D3000C16 16GB,45,15.6,12.9,$829.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMV16GX4M1A2133C15+16GB&id=8286,NA,NA,NA,NA,NA,NA
+335,Corsair CMV16GX4M1A2133C15 16GB,32,15.7,12.2,$66.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMV16GX4M1A2400C16+16GB&id=10632,NA,NA,NA,NA,NA,NA
+336,Corsair CMV16GX4M1A2666C18 16GB,32,14.0,11.3,$68.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMV16GX4M1L2400C16+16GB&id=13676,NA,NA,NA,NA,NA,NA
+337,Corsair CMV4GX4M1A2133C15 4GB,33,15.2,10.7,$24.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMV4GX4M1A2400C16+4GB&id=11867,NA,NA,NA,NA,NA,NA
+338,Corsair CMV4GX4M1A2666C18 4GB,29,15.9,11.2,$24.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMV8GX4M1A2133C15+8GB&id=7998,NA,NA,NA,NA,NA,NA
+339,Corsair CMV8GX4M1A2133C15 8GB,34,15.6,11.3,$45.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMV8GX4M1A2400C16+8GB&id=10500,NA,NA,NA,NA,NA,NA
+340,Corsair CMV8GX4M1A2400C16 8GB,30,16.2,11.7,$59.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMV8GX4M1A2666C18+8GB&id=11644,NA,NA,NA,NA,NA,NA
+341,Corsair CMV8GX4M1A2666C18 8GB,30,18.1,13.3,$49.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMV8GX4M1L2400C16+8GB&id=13452,NA,NA,NA,NA,NA,NA
+342,Corsair CMW128GX4M4E3200C16 32GB,39,16.8,13.7,"$1,149.00",https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW128GX4M8C3000C16+16GB&id=13227,NA,NA,NA,NA,NA,NA
+343,Corsair CMW128GX4M8C3000C16 16GB,23,14.7,11.4,$979.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW128GX4M8C3200C16+16GB&id=12835,NA,NA,NA,NA,NA,NA
+344,Corsair CMW128GX4M8C3200C16 16GB,31,15.0,15.3,$819.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW128GX4M8X3600C18+16GB&id=14264,NA,NA,NA,NA,NA,NA
+345,Corsair CMW16GX4M2A2666C16 8GB,31,16.8,13.0,$118.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2C3000C15+8GB&id=12206,NA,NA,NA,NA,NA,NA
+346,Corsair CMW16GX4M2C3000C15 8GB,29,18.1,14.3,$124.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2C3200C14+8GB&id=12539,NA,NA,NA,NA,NA,NA
+347,Corsair CMW16GX4M2C3200C14 8GB,25,20.8,16.8,$214.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2C3200C16+8GB&id=12249,NA,NA,NA,NA,NA,NA
+348,Corsair CMW16GX4M2C3200C16 8GB,29,18.7,14.7,$129.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2C3466C16+8GB&id=12316,NA,NA,NA,NA,NA,NA
+349,Corsair CMW16GX4M2C3466C16 8GB,28,19.2,14.1,$219.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2C3600C18+8GB&id=12184,NA,NA,NA,NA,NA,NA
+350,Corsair CMW16GX4M2C3600C18 8GB,28,18.6,16.0,$149.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2D3000C16+8GB&id=12260,NA,NA,NA,NA,NA,NA
+351,Corsair CMW16GX4M2D3000C16 8GB,33,16.7,13.5,$119.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2D3600C16+8GB&id=15984,NA,NA,NA,NA,NA,NA
+352,Corsair CMW16GX4M2D3600C18 8GB,30,18.6,15.1,$139.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2E3200C16+8GB&id=13928,NA,NA,NA,NA,NA,NA
+353,Corsair CMW16GX4M2E3200C16 8GB,30,18.4,14.3,$125.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2K3600C16+8GB&id=13411,NA,NA,NA,NA,NA,NA
+354,Corsair CMW16GX4M2K3600C16 8GB,34,17.8,15.9,$229.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2K4000C19+8GB&id=12328,NA,NA,NA,NA,NA,NA
+355,Corsair CMW16GX4M2K4000C19 8GB,29,20.9,17.6,$256.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2K4266C19+8GB&id=13001,NA,NA,NA,NA,NA,NA
+356,Corsair CMW16GX4M2K4266C19 8GB,23,19.2,16.8,$478.59*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2Z2933C16+8GB&id=12374,NA,NA,NA,NA,NA,NA
+357,Corsair CMW16GX4M2Z2933C16 8GB,28,17.3,14.4,$94.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2Z3200C16+8GB&id=13948,NA,NA,NA,NA,NA,NA
+358,Corsair CMW16GX4M2Z3200C16 8GB,32,18.8,14.3,$129.00*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2Z3600C18+8GB&id=13685,NA,NA,NA,NA,NA,NA
+359,Corsair CMW16GX4M2Z3600C18 8GB,30,18.4,15.4,$148.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW16GX4M2Z4000C18+8GB&id=15863,NA,NA,NA,NA,NA,NA
+360,Corsair CMW32GX4M2A2666C16 16GB,30,16.9,13.8,$189.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M2C3000C15+16GB&id=12432,NA,NA,NA,NA,NA,NA
+361,Corsair CMW32GX4M2C3000C15 16GB,30,17.8,14.3,$174.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M2C3200C16+16GB&id=12617,NA,NA,NA,NA,NA,NA
+362,Corsair CMW32GX4M2C3200C16 16GB,29,17.9,14.9,$199.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M2C3200C18+16GB&id=18721,NA,NA,NA,NA,NA,NA
+363,Corsair CMW32GX4M2C3200C18 16GB,34,20.3,14.2,$179.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M2C3333C16+16GB&id=13623,NA,NA,NA,NA,NA,NA
+364,Corsair CMW32GX4M2C3466C16 16GB,25,20.2,16.6,$269.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M2D3000C16+16GB&id=13463,NA,NA,NA,NA,NA,NA
+365,Corsair CMW32GX4M2D3600C18 16GB,33,19.6,15.4,$199.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M2E3200C16+16GB&id=14088,NA,NA,NA,NA,NA,NA
+366,Corsair CMW32GX4M2E3200C16 16GB,33,18.4,14.2,$185.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M2G4000C18+16GB&id=15519,NA,NA,NA,NA,NA,NA
+367,Corsair CMW32GX4M2Z2933C16 16GB,32,17.0,14.6,$169.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M2Z3200C16+16GB&id=13692,NA,NA,NA,NA,NA,NA
+368,Corsair CMW32GX4M2Z3200C16 16GB,29,18.0,15.4,$268.89*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M2Z3600C14+16GB&id=17564,NA,NA,NA,NA,NA,NA
+369,Corsair CMW32GX4M2Z3600C18 16GB,31,19.0,15.6,$199.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M4A2666C16+8GB&id=12333,NA,NA,NA,NA,NA,NA
+370,Corsair CMW32GX4M4A2666C16 8GB,32,17.0,13.5,$218.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M4C3000C15+8GB&id=12236,NA,NA,NA,NA,NA,NA
+371,Corsair CMW32GX4M4C3000C15 8GB,30,18.1,14.5,$318.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M4C3200C14+8GB&id=12478,NA,NA,NA,NA,NA,NA
+372,Corsair CMW32GX4M4C3200C14 8GB,25,21.2,16.3,$409.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M4C3200C16+8GB&id=12179,NA,NA,NA,NA,NA,NA
+373,Corsair CMW32GX4M4C3200C16 8GB,29,18.5,15.0,$219.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M4C3466C16+8GB&id=12327,NA,NA,NA,NA,NA,NA
+374,Corsair CMW32GX4M4C3466C16 8GB,20,19.1,14.6,$279.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M4C3600C18+8GB&id=12180,NA,NA,NA,NA,NA,NA
+375,Corsair CMW32GX4M4C3600C18 8GB,30,19.5,16.0,$275.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M4D3600C16+8GB&id=15911,NA,NA,NA,NA,NA,NA
+376,Corsair CMW32GX4M4K4000C19 8GB,29,20.1,17.2,$755.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M4K4266C19+8GB&id=13226,NA,NA,NA,NA,NA,NA
+377,Corsair CMW32GX4M4Z2933C16 8GB,39,15.4,14.6,$209.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW32GX4M4Z3200C16+8GB&id=13894,NA,NA,NA,NA,NA,NA
+378,Corsair CMW64GX4M2E3200C16 32GB,33,17.5,14.4,$359.00,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M4A2666C16+16GB&id=12737,NA,NA,NA,NA,NA,NA
+379,Corsair CMW64GX4M4A2666C16 16GB,30,18.3,13.7,$299.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M4C3000C15+16GB&id=12597,NA,NA,NA,NA,NA,NA
+380,Corsair CMW64GX4M4C3000C15 16GB,34,16.3,14.7,$349.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M4C3200C16+16GB&id=12590,NA,NA,NA,NA,NA,NA
+381,Corsair CMW64GX4M4C3200C16 16GB,33,17.2,15.0,$399.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M4C3466C16+16GB&id=12636,NA,NA,NA,NA,NA,NA
+382,Corsair CMW64GX4M4C3466C16 16GB,23,19.7,17.1,$499.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M4D3600C18+16GB&id=15528,NA,NA,NA,NA,NA,NA
+383,Corsair CMW64GX4M4D3600C18 16GB,34,19.2,14.8,$604.98*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M4E3200C16+16GB&id=15058,NA,NA,NA,NA,NA,NA
+384,Corsair CMW64GX4M4E3200C16 16GB,29,18.4,15.1,$671.98,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M4K3600C18+16GB&id=12488,NA,NA,NA,NA,NA,NA
+385,Corsair CMW64GX4M4K3600C18 16GB,31,16.8,14.6,$649.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M4Z2933C16+16GB&id=13027,NA,NA,NA,NA,NA,NA
+386,Corsair CMW64GX4M4Z2933C16 16GB,30,17.4,14.6,$379.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M8A2666C16+8GB&id=13426,NA,NA,NA,NA,NA,NA
+387,Corsair CMW64GX4M8A2666C16 8GB,24,16.0,11.6,$379.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M8C3000C15+8GB&id=12732,NA,NA,NA,NA,NA,NA
+388,Corsair CMW64GX4M8C3000C15 8GB,30,18.8,11.6,$575.39*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M8C3200C16+8GB&id=12546,NA,NA,NA,NA,NA,NA
+389,Corsair CMW64GX4M8C3200C16 8GB,43,12.8,14.6,$399.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M8C3466C16+8GB&id=13526,NA,NA,NA,NA,NA,NA
+390,Corsair CMW64GX4M8X3600C18 8GB,21,17.2,13.1,$619.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW64GX4M8Z2933C16+8GB&id=12464,NA,NA,NA,NA,NA,NA
+391,Corsair CMW64GX4M8Z2933C16 8GB,35,10.0,12.4,$439.99*,https://www.memorybenchmark.net/ram.php?ram=Corsair+CMW8GX4M1D3000C16+8GB&id=13392,NA,NA,NA,NA,NA,NA
+392,Crucial Technology BL8G30C15U4R.8FE 8GB,32,18.1,14.1,$47.73*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BL8G30C15U4R.M8FE+8GB&id=15037,NA,NA,NA,NA,NA,NA
+393,Crucial Technology BLE4G4D26AFEA.8FAD 4GB,37,16.2,11.9,$94.13*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLE4G4D26AFEA.8FADG+4GB&id=8103,NA,NA,NA,NA,NA,NA
+394,Crucial Technology BLE4G4D30AEEA.K8FE 4GB,26,19.6,15.8,$56.67*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLE4G4D32AEEA.K8FD+4GB&id=12138,NA,NA,NA,NA,NA,NA
+395,Crucial Technology BLE4G4D32AEEA.K8FD 4GB,23,17.3,13.0,$107.83*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLE4G4D32AEEA.K8FE+4GB&id=9426,NA,NA,NA,NA,NA,NA
+396,Crucial Technology BLE4G4D32AEEA.K8FE 4GB,26,23.2,18.0,$144.21*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLE8G4D26AFEA.16FAD+8GB&id=7412,NA,NA,NA,NA,NA,NA
+397,Crucial Technology BLE8G4D26AFEA.16FAD 8GB,34,16.0,12.4,$129.74*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLE8G4D26AFEA.16FBD+8GB&id=9798,NA,NA,NA,NA,NA,NA
+398,Crucial Technology BLE8G4D30AEEA.K16FD 8GB,62,18.0,9.5,$156.15*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLE8G4D30AEEA.K16FE+8GB&id=9280,NA,NA,NA,NA,NA,NA
+399,Crucial Technology BLE8G4D30AEEA.K16FE 8GB,25,20.6,17.1,$49.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLE8G4D32BEEAK.K8FB+8GB&id=10990,NA,NA,NA,NA,NA,NA
+400,Crucial Technology BLE8G4D34AEEAK.K8FB 8GB,28,18.3,14.8,$135.77*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLE8G4D36BEEAK.M8FE1+8GB&id=13415,NA,NA,NA,NA,NA,NA
+401,Crucial Technology BLE8G4D36BEEAK.M8FE1 8GB,24,20.2,17.6,$118.03*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLE8G4D36BEEAK.M8FE3+8GB&id=13607,NA,NA,NA,NA,NA,NA
+402,Crucial Technology BLS16G4D240FSB.16FAD 16GB,31,17.5,13.1,$65.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D240FSB.16FBD+16GB&id=9612,NA,NA,NA,NA,NA,NA
+403,Crucial Technology BLS16G4D240FSC.16FAD 16GB,34,15.8,11.8,$62.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D240FSC.16FBD+16GB&id=9207,NA,NA,NA,NA,NA,NA
+404,Crucial Technology BLS16G4D240FSE.16FAD 16GB,31,16.4,11.7,$63.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D240FSE.16FBD+16GB&id=9217,NA,NA,NA,NA,NA,NA
+405,Crucial Technology BLS16G4D26BFSB.16FBD 16GB,29,16.2,11.7,$169.89*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D26BFSB.16FBR+16GB&id=10791,NA,NA,NA,NA,NA,NA
+406,Crucial Technology BLS16G4D26BFSE.16FBD 16GB,29,16.8,13.8,$248.72*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D26BFSE.16FD+16GB&id=12148,NA,NA,NA,NA,NA,NA
+407,Crucial Technology BLS16G4D26BFST.16FD 16GB,31,16.7,14.6,$94.99,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D30AESB.M16FE+16GB&id=13217,NA,NA,NA,NA,NA,NA
+408,Crucial Technology BLS16G4D30AESB.M16FE 16GB,27,18.2,15.1,$74.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D30AESC.M16FE+16GB&id=13248,NA,NA,NA,NA,NA,NA
+409,Crucial Technology BLS16G4D30AESC.M16FE 16GB,27,18.8,15.0,$96.04*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D30AESE.M16FE+16GB&id=13107,NA,NA,NA,NA,NA,NA
+410,Crucial Technology BLS16G4D30AESE.M16FE 16GB,25,19.6,15.2,$74.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D30BESB.16FD+16GB&id=12802,NA,NA,NA,NA,NA,NA
+411,Crucial Technology BLS16G4D30BESB.16FD 16GB,51,17.4,13.6,$100.20*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D30CEST.16FD+16GB&id=12668,NA,NA,NA,NA,NA,NA
+412,Crucial Technology BLS16G4D30CEST.16FD 16GB,29,17.4,13.5,$69.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D32AESB.M16FE+16GB&id=13069,NA,NA,NA,NA,NA,NA
+413,Crucial Technology BLS16G4D32AESB.M16FE 16GB,28,18.9,15.5,$94.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D32AESC.M16FE+16GB&id=13216,NA,NA,NA,NA,NA,NA
+414,Crucial Technology BLS16G4D32AESC.M16FE 16GB,28,18.3,15.4,$89.99,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D32AESE.M16FE+16GB&id=13090,NA,NA,NA,NA,NA,NA
+415,Crucial Technology BLS16G4D32AESE.M16FE 16GB,26,19.1,16.5,$94.49*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4D32AEST.M16FE+16GB&id=13223,NA,NA,NA,NA,NA,NA
+416,Crucial Technology BLS16G4D32AEST.M16FE 16GB,27,18.9,15.8,$77.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4S240FSD.16FAD+16GB&id=9200,NA,NA,NA,NA,NA,NA
+417,Crucial Technology BLS16G4S240FSD.16FAD 16GB,50,10.3,8.4,$79.95*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4S240FSD.16FBD+16GB&id=9845,NA,NA,NA,NA,NA,NA
+418,Crucial Technology BLS16G4S26BFSD.16FBD 16GB,36,14.9,12.1,$67.00,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS16G4S26BFSD.16FD+16GB&id=11899,NA,NA,NA,NA,NA,NA
+419,Crucial Technology BLS4G4D240FSA.8FAD 4GB,28,12.8,10.2,$27.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS4G4D240FSA.8FADG+4GB&id=7799,NA,NA,NA,NA,NA,NA
+420,Crucial Technology BLS4G4D240FSA.M8FADM 4GB,40,13.9,10.8,$68.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS4G4D240FSB.8FADG+4GB&id=7833,NA,NA,NA,NA,NA,NA
+421,Crucial Technology BLS4G4D240FSB.8FADG 4GB,34,14.3,11.2,$39.00*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS4G4D240FSB.8FAR+4GB&id=8233,NA,NA,NA,NA,NA,NA
+422,Crucial Technology BLS4G4D240FSC.8FARG 4GB,29,18.0,13.0,$26.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS4G4D240FSC.8FBD+4GB&id=9691,NA,NA,NA,NA,NA,NA
+423,Crucial Technology BLS4G4D240FSE.8FAR 4GB,24,15.1,10.8,$74.07*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS4G4D240FSE.8FBD+4GB&id=9016,NA,NA,NA,NA,NA,NA
+424,Crucial Technology BLS4G4D240FSE.8FBD 4GB,30,16.5,11.9,$18.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS4G4D240FSE.8FBD2+4GB&id=10864,NA,NA,NA,NA,NA,NA
+425,Crucial Technology BLS4G4D26BFSB.8FBD2 4GB,33,15.9,12.6,$36.97*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS4G4D26BFSB.8FBR2+4GB&id=11252,NA,NA,NA,NA,NA,NA
+426,Crucial Technology BLS4G4D26BFSB.8FBR2 4GB,21,17.7,13.6,$115.37*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS4G4D26BFSB.8FD2+4GB&id=13136,NA,NA,NA,NA,NA,NA
+427,Crucial Technology BLS4G4S240FSD.8FAR 4GB,28,15.5,11.4,$18.00*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS4G4S240FSD.8FBD+4GB&id=9830,NA,NA,NA,NA,NA,NA
+428,Crucial Technology BLS4G4S240FSD.M8FADM 4GB,25,15.4,12.5,$19.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS4G4S26BFSD.8FBD2+4GB&id=13185,NA,NA,NA,NA,NA,NA
+429,Crucial Technology BLS4G4S26BFSD.8FBD2 4GB,69,16.1,8.5,$18.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS4G4S26BFSD.8FBR2+4GB&id=12413,NA,NA,NA,NA,NA,NA
+430,Crucial Technology BLS4G4S26BFSD.8FBR2 4GB,27,15.3,11.6,$85.35*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D240FSA.16FAD+8GB&id=6593,NA,NA,NA,NA,NA,NA
+431,Crucial Technology BLS8G4D240FSA.16FAD 8GB,36,13.7,11.4,$134.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D240FSA.16FADG+8GB&id=7963,NA,NA,NA,NA,NA,NA
+432,Crucial Technology BLS8G4D240FSA.M16FAD 8GB,38,14.5,11.0,$134.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D240FSB.16FADG+8GB&id=8182,NA,NA,NA,NA,NA,NA
+433,Crucial Technology BLS8G4D240FSB.16FADG 8GB,26,15.3,11.6,$125.28*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D240FSB.16FAR+8GB&id=7701,NA,NA,NA,NA,NA,NA
+434,Crucial Technology BLS8G4D240FSC.16FARG 8GB,33,16.5,12.1,$54.97,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D240FSC.16FBD+8GB&id=9150,NA,NA,NA,NA,NA,NA
+435,Crucial Technology BLS8G4D240FSE.16FAR 8GB,23,16.8,11.8,$160.24,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D240FSE.16FBD+8GB&id=9250,NA,NA,NA,NA,NA,NA
+436,Crucial Technology BLS8G4D26BFSB.16FBD2 8GB,30,17.1,13.3,$130.98*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D26BFSB.16FBR2+8GB&id=10724,NA,NA,NA,NA,NA,NA
+437,Crucial Technology BLS8G4D26BFSC.16FB 8GB,30,18.2,14.9,$44.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D26BFSC.16FBD2+8GB&id=11330,NA,NA,NA,NA,NA,NA
+438,Crucial Technology BLS8G4D26BFSE.16FB 8GB,24,14.3,7.0,$84.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D26BFSE.16FBD2+8GB&id=11162,NA,NA,NA,NA,NA,NA
+439,Crucial Technology BLS8G4D26BFSTK.8FD 8GB,28,17.8,14.0,$32.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D30AESBK.M8FE+8GB&id=13252,NA,NA,NA,NA,NA,NA
+440,Crucial Technology BLS8G4D30AESBK.M8FE 8GB,28,18.6,14.7,$146.01*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D30AESCK.M8FE+8GB&id=13318,NA,NA,NA,NA,NA,NA
+441,Crucial Technology BLS8G4D30AESCK.M8FE 8GB,29,18.2,14.9,$137.87,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D30AESEK.M8FE+8GB&id=13088,NA,NA,NA,NA,NA,NA
+442,Crucial Technology BLS8G4D30AESEK.M8FE 8GB,27,18.8,15.5,$124.80*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D30AESEK.M8FE1+8GB&id=14044,NA,NA,NA,NA,NA,NA
+443,Crucial Technology BLS8G4D30BESBK.8FB 8GB,29,16.8,12.6,$130.00*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D30BESBK.8FD+8GB&id=12676,NA,NA,NA,NA,NA,NA
+444,Crucial Technology BLS8G4D30CESTK.8FD 8GB,32,16.0,13.2,$38.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D32AESBK.M8FE+8GB&id=13082,NA,NA,NA,NA,NA,NA
+445,Crucial Technology BLS8G4D32AESBK.M8FE 8GB,27,18.7,15.3,$39.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D32AESBK.M8FE1+8GB&id=13896,NA,NA,NA,NA,NA,NA
+446,Crucial Technology BLS8G4D32AESCK.M8FE 8GB,29,17.2,13.2,$150.98*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D32AESCK.M8FE1+8GB&id=14000,NA,NA,NA,NA,NA,NA
+447,Crucial Technology BLS8G4D32AESEK.M8FE 8GB,28,20.9,16.1,$142.39,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D32AESEK.M8FE1+8GB&id=13844,NA,NA,NA,NA,NA,NA
+448,Crucial Technology BLS8G4D32AESTK.M8FE 8GB,30,17.4,14.4,$38.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4D32AESTK.M8FE1+8GB&id=14226,NA,NA,NA,NA,NA,NA
+449,Crucial Technology BLS8G4S240FSD.16FAR 8GB,25,15.5,12.7,$94.37*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4S240FSD.16FBD+8GB&id=9467,NA,NA,NA,NA,NA,NA
+450,Crucial Technology BLS8G4S26BFSD.16FBD2 8GB,25,15.4,11.9,$117.77,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLS8G4S26BFSD.16FBR2+8GB&id=11239,NA,NA,NA,NA,NA,NA
+451,Crucial Technology BLT16G4D30AETA.K16FB 16GB,30,17.3,14.2,$277.72*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLT16G4D30BET4.C16FD+16GB&id=12659,NA,NA,NA,NA,NA,NA
+452,Crucial Technology BLT4G4D26AFTA.8FADG 4GB,23,16.5,12.6,$33.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLT4G4D26AFTA.8FBD+4GB&id=10752,NA,NA,NA,NA,NA,NA
+453,Crucial Technology BLT4G4D30AETA.K8FE 4GB,20,18.5,14.3,$34.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLT8G4D26AFTA.16FAD+8GB&id=8198,NA,NA,NA,NA,NA,NA
+454,Crucial Technology BLT8G4D26AFTA.16FAD 8GB,36,15.6,12.5,$39.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLT8G4D26AFTA.16FBD+8GB&id=9782,NA,NA,NA,NA,NA,NA
+455,Crucial Technology BLT8G4D30AETA.K16FD 8GB,17,20.8,16.8,$82.39*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLT8G4D30AETA.K16FE+8GB&id=9232,NA,NA,NA,NA,NA,NA
+456,Crucial Technology BLT8G4D30AETA.K16FE 8GB,28,18.2,13.7,$59.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLT8G4D30BET4K.C8FD+8GB&id=12436,NA,NA,NA,NA,NA,NA
+457,Crucial Technology BLT8G4D30BET4K.C8FD 8GB,31,17.1,13.9,$37.70*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+BLT8G4D32AET4K.M8FE1+8GB&id=14012,NA,NA,NA,NA,NA,NA
+458,Crucial Technology CB8GS2400.C8D 8GB,89,13.6,6.8,$43.97*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CB8GS2400.C8ET+8GB&id=13004,NA,NA,NA,NA,NA,NA
+459,Crucial Technology CT16G4DFD8213.16FDD1 16GB,76,13.6,6.4,$88.16*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFD8213.C16FAD+16GB&id=9470,NA,NA,NA,NA,NA,NA
+460,Crucial Technology CT16G4DFD8213.C16FAD 16GB,35,16.4,11.6,$109.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFD8213.C16FBD+16GB&id=9284,NA,NA,NA,NA,NA,NA
+461,Crucial Technology CT16G4DFD8213.C16FBD 16GB,33,16.3,10.9,$63.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFD8213.C16FBR+16GB&id=10663,NA,NA,NA,NA,NA,NA
+462,Crucial Technology CT16G4DFD8213.M16FA 16GB,30,14.9,10.0,$69.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFD8213.M16FB+16GB&id=8796,NA,NA,NA,NA,NA,NA
+463,Crucial Technology CT16G4DFD8213.M16FB 16GB,25,16.1,11.3,$58.70*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFD824A.C16FAD+16GB&id=10047,NA,NA,NA,NA,NA,NA
+464,Crucial Technology CT16G4DFD824A.C16FAD 16GB,34,16.7,12.4,$217.35*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFD824A.C16FBD+16GB&id=9153,NA,NA,NA,NA,NA,NA
+465,Crucial Technology CT16G4DFD824A.C16FBD 16GB,34,15.5,11.7,$96.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFD824A.C16FBR+16GB&id=9509,NA,NA,NA,NA,NA,NA
+466,Crucial Technology CT16G4DFD8266.C16FD1 16GB,35,16.3,13.5,$435.34*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFD8266.C16FE+16GB&id=13010,NA,NA,NA,NA,NA,NA
+467,Crucial Technology CT16G4DFD832A.C16FJ 16GB,35,16.4,16.0,$86.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFD832A.C16FN+16GB&id=15937,NA,NA,NA,NA,NA,NA
+468,Crucial Technology CT16G4DFD832A.M16FJ 16GB,31,15.9,14.7,$61.97*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFRA266.C16FP+16GB&id=16723,NA,NA,NA,NA,NA,NA
+469,Crucial Technology CT16G4DFRA266.C8FB 16GB,35,16.2,13.2,$63.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFRA266.C8FE+16GB&id=15447,NA,NA,NA,NA,NA,NA
+470,Crucial Technology CT16G4DFRA32A.C16FP 16GB,37,21.1,15.9,$67.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFRA32A.C16FR+16GB&id=18728,NA,NA,NA,NA,NA,NA
+471,Crucial Technology CT16G4DFRA32A.C8FE 16GB,31,18.1,14.8,$67.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFRA32A.M16FE+16GB&id=19867,NA,NA,NA,NA,NA,NA
+472,Crucial Technology CT16G4DFS8266.C8FB 16GB,27,17.3,14.6,$77.43*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFS8266.C8FE+16GB&id=16329,NA,NA,NA,NA,NA,NA
+473,Crucial Technology CT16G4DFS832A.C8FE 16GB,34,20.0,13.8,$220.60*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4DFS832A.M8FF+16GB&id=19769,NA,NA,NA,NA,NA,NA
+474,Crucial Technology CT16G4SFD8213.C16FAD 16GB,41,12.2,9.7,$36.96,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFD8213.C16FBD+16GB&id=9085,NA,NA,NA,NA,NA,NA
+475,Crucial Technology CT16G4SFD8213.C16FBD 16GB,35,14.0,10.9,$63.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFD8213.C16FBR+16GB&id=9315,NA,NA,NA,NA,NA,NA
+476,Crucial Technology CT16G4SFD8213.M16FA 16GB,26,15.4,11.4,$51.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFD8213.M16FB+16GB&id=8901,NA,NA,NA,NA,NA,NA
+477,Crucial Technology CT16G4SFD8213.M16FB 16GB,28,13.7,10.9,$62.33*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFD824A.C16FBD+16GB&id=10205,NA,NA,NA,NA,NA,NA
+478,Crucial Technology CT16G4SFD824A.C16FBD 16GB,38,14.3,12.1,$119.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFD824A.C16FBR+16GB&id=9356,NA,NA,NA,NA,NA,NA
+479,Crucial Technology CT16G4SFD824A.C16FBR 16GB,36,14.9,12.2,$112.81*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFD824A.C16FDD+16GB&id=11693,NA,NA,NA,NA,NA,NA
+480,Crucial Technology CT16G4SFD824A.M16FA 16GB,25,15.9,12.9,$81.77*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFD824A.M16FB+16GB&id=11219,NA,NA,NA,NA,NA,NA
+481,Crucial Technology CT16G4SFD8266 16GB,34,12.7,8.9,$109.00*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFD8266.16FE1+16GB&id=15689,NA,NA,NA,NA,NA,NA
+482,Crucial Technology CT16G4SFD8266.16FE1 16GB,53,15.6,13.7,$215.88,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFD8266.C16FD1+16GB&id=12202,NA,NA,NA,NA,NA,NA
+483,Crucial Technology CT16G4SFD8266.C16FD1 16GB,36,16.1,14.0,$66.34*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFD8266.C16FE+16GB&id=13244,NA,NA,NA,NA,NA,NA
+484,Crucial Technology CT16G4SFD832A.M16FJ 16GB,32,16.9,15.3,$79.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFD832A.M16FRS+16GB&id=16412,NA,NA,NA,NA,NA,NA
+485,Crucial Technology CT16G4SFRA266.C16FJ 16GB,30,17.0,15.1,$38.75,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFRA266.C16FR+16GB&id=18564,NA,NA,NA,NA,NA,NA
+486,Crucial Technology CT16G4SFRA266.C8FB 16GB,40,14.3,12.5,$63.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFRA266.C8FE+16GB&id=15257,NA,NA,NA,NA,NA,NA
+487,Crucial Technology CT16G4SFRA266.C8FE 16GB,34,15.9,13.4,$63.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFRA266.M16FR+16GB&id=17449,NA,NA,NA,NA,NA,NA
+488,Crucial Technology CT16G4SFRA32A.C16FJ 16GB,51,16.1,14.7,$36.28,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFRA32A.C16FN+16GB&id=19366,NA,NA,NA,NA,NA,NA
+489,Crucial Technology CT16G4SFRA32A.C8FB 16GB,38,15.6,13.4,$67.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFRA32A.C8FE+16GB&id=15142,NA,NA,NA,NA,NA,NA
+490,Crucial Technology CT16G4SFRA32A.C8FE 16GB,43,16.1,13.6,$67.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFRA32A.C8FF+16GB&id=19180,NA,NA,NA,NA,NA,NA
+491,Crucial Technology CT16G4SFS8266.C8FE 16GB,38,15.8,12.8,$55.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFS832A.C8FB+16GB&id=16850,NA,NA,NA,NA,NA,NA
+492,Crucial Technology CT16G4SFS832A.C8FB 16GB,40,16.0,13.4,$62.70*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFS832A.C8FE+16GB&id=15895,NA,NA,NA,NA,NA,NA
+493,Crucial Technology CT16G4SFS832A.C8FE 16GB,41,17.1,14.1,$429.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT16G4SFS832A.M8FB+16GB&id=16023,NA,NA,NA,NA,NA,NA
+494,Crucial Technology CT32G4DFD8266.C16FE 32GB,34,18.0,14.9,$174.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT32G4DFD8266.M16FB+32GB&id=15758,NA,NA,NA,NA,NA,NA
+495,Crucial Technology CT32G4SFD8266.C16FB 32GB,37,16.0,14.2,$153.39*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT32G4SFD8266.C16FE+32GB&id=17371,NA,NA,NA,NA,NA,NA
+496,Crucial Technology CT32G4SFD832A.C16FB 32GB,36,16.9,15.8,$197.63*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT32G4SFD832A.C16FE+32GB&id=16053,NA,NA,NA,NA,NA,NA
+497,Crucial Technology CT4G4DFS8213.8FA11 4GB,24,15.4,11.5,$12.84,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT4G4DFS8213.8FA11%3F%3F+4GB&id=9329,NA,NA,NA,NA,NA,NA
+498,Crucial Technology CT4G4DFS8213.C8FAD1 4GB,39,12.4,10.0,$20.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT4G4DFS8213.C8FAD11+4GB&id=8168,NA,NA,NA,NA,NA,NA
+499,Crucial Technology CT4G4DFS8213.C8FAR 4GB,28,12.6,9.9,$41.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT4G4DFS8213.C8FAR1+4GB&id=6928,NA,NA,NA,NA,NA,NA
+500,Crucial Technology CT4G4DFS824A.C8FADP 4GB,25,16.0,11.0,$17.90,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT4G4DFS824A.C8FBD1+4GB&id=9637,NA,NA,NA,NA,NA,NA
+501,Crucial Technology CT4G4DFS824A.C8FBD1 4GB,29,16.1,13.2,$38.33*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT4G4DFS824A.C8FBD2+4GB&id=9944,NA,NA,NA,NA,NA,NA
+502,Crucial Technology CT4G4DFS8266.C8FB 4GB,61,18.4,8.5,$27.13*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT4G4DFS8266.C8FE+4GB&id=12886,NA,NA,NA,NA,NA,NA
+503,Crucial Technology CT4G4DFS8266.C8FE 4GB,47,14.0,8.4,$22.98*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT4G4DFS8266.C8FF+4GB&id=13654,NA,NA,NA,NA,NA,NA
+504,Crucial Technology CT4G4SFS624A.C4FB 4GB,84,14.8,6.8,$18.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT4G4SFS8213.C8FADP+4GB&id=11563,NA,NA,NA,NA,NA,NA
+505,Crucial Technology CT4G4SFS8213.C8FADP 4GB,26,14.3,11.1,$20.31*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT4G4SFS8213.C8FBD1+4GB&id=9405,NA,NA,NA,NA,NA,NA
+506,Crucial Technology CT4G4SFS8213.C8FBD1 4GB,78,11.3,8.9,$51.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT4G4SFS8213.C8FBD2+4GB&id=9983,NA,NA,NA,NA,NA,NA
+507,Crucial Technology CT8G4DFD8213.16FA11 8GB,26,15.5,11.3,$17.74,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFD8213.C16FA11+8GB&id=7939,NA,NA,NA,NA,NA,NA
+508,Crucial Technology CT8G4DFD8213.C16FA11 8GB,32,16.5,12.2,$36.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFD8213.C16FAD1+8GB&id=7242,NA,NA,NA,NA,NA,NA
+509,Crucial Technology CT8G4DFD8213.C16FAD1 8GB,29,13.2,10.4,$44.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFD8213.C16FADP+8GB&id=11646,NA,NA,NA,NA,NA,NA
+510,Crucial Technology CT8G4DFD8213.C16FAR1 8GB,37,14.7,11.0,$82.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFD8213.C16FAR2+8GB&id=8400,NA,NA,NA,NA,NA,NA
+511,Crucial Technology CT8G4DFD824A.C16FADP 8GB,24,17.1,13.6,$19.35*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFD824A.C16FBD1+8GB&id=9413,NA,NA,NA,NA,NA,NA
+512,Crucial Technology CT8G4DFD824A.C16FBD1 8GB,33,17.2,12.8,$63.14*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFD824A.C16FBD2+8GB&id=9932,NA,NA,NA,NA,NA,NA
+513,Crucial Technology CT8G4DFRA266.C8FN 8GB,29,15.9,13.6,$28.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFRA266.C8FP+8GB&id=16108,NA,NA,NA,NA,NA,NA
+514,Crucial Technology CT8G4DFRA32A.C4FE 8GB,34,16.8,11.7,$43.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFRA32A.C8FN+8GB&id=18561,NA,NA,NA,NA,NA,NA
+515,Crucial Technology CT8G4DFS632A.M4FB 8GB,35,19.6,13.0,$189.49*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFS632A.M4FE+8GB&id=16809,NA,NA,NA,NA,NA,NA
+516,Crucial Technology CT8G4DFS8213.C8FAD1 8GB,25,13.7,8.0,$23.64*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFS8213.C8FBD1+8GB&id=9124,NA,NA,NA,NA,NA,NA
+517,Crucial Technology CT8G4DFS8213.C8FBD1 8GB,33,15.3,11.3,$49.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFS8213.C8FBR1+8GB&id=9245,NA,NA,NA,NA,NA,NA
+518,Crucial Technology CT8G4DFS8213.M8FA 8GB,30,16.1,11.1,$28.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFS8213.M8FB+8GB&id=8676,NA,NA,NA,NA,NA,NA
+519,Crucial Technology CT8G4DFS824A.C8FAD1 8GB,33,17.2,12.4,$36.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFS824A.C8FBD1+8GB&id=9080,NA,NA,NA,NA,NA,NA
+520,Crucial Technology CT8G4DFS8266.C8FD1 8GB,30,17.0,13.2,$203.36*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFS8266.C8FE+8GB&id=12748,NA,NA,NA,NA,NA,NA
+521,Crucial Technology CT8G4DFS832A.C8FE 8GB,32,21.6,15.5,$97.79*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFS832A.C8FJ+8GB&id=14951,NA,NA,NA,NA,NA,NA
+522,Crucial Technology CT8G4DFS832A.C8FJ 8GB,29,18.2,15.7,$55.88*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4DFS832A.C8FP+8GB&id=17484,NA,NA,NA,NA,NA,NA
+523,Crucial Technology CT8G4SFD8213.C16FADP 8GB,29,13.1,9.6,$49.00*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFD8213.C16FBD1+8GB&id=9383,NA,NA,NA,NA,NA,NA
+524,Crucial Technology CT8G4SFD8213.C16FBD1 8GB,37,14.1,11.0,$77.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFD8213.C16FBD2+8GB&id=9908,NA,NA,NA,NA,NA,NA
+525,Crucial Technology CT8G4SFD824A.C16FADP 8GB,31,15.6,11.8,$29.00*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFD824A.C16FBD1+8GB&id=12215,NA,NA,NA,NA,NA,NA
+526,Crucial Technology CT8G4SFRA266.C4FE 8GB,42,16.4,13.0,$36.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFRA266.C8FD1+8GB&id=15467,NA,NA,NA,NA,NA,NA
+527,Crucial Technology CT8G4SFRA266.C8FE 8GB,43,15.1,12.9,$28.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFRA266.C8FP+8GB&id=16203,NA,NA,NA,NA,NA,NA
+528,Crucial Technology CT8G4SFRA32A.C16FG 8GB,40,14.9,14.2,$25.00,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFRA32A.C4FE+8GB&id=15195,NA,NA,NA,NA,NA,NA
+529,Crucial Technology CT8G4SFRA32A.C4FE 8GB,49,16.1,12.0,$33.99*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFRA32A.C8FE+8GB&id=15766,NA,NA,NA,NA,NA,NA
+530,Crucial Technology CT8G4SFS632A.M4FE 8GB,49,17.8,12.0,$49.31*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFS8213.C8FAD1+8GB&id=9626,NA,NA,NA,NA,NA,NA
+531,Crucial Technology CT8G4SFS8213.C8FAD1 8GB,27,14.4,10.6,$49.00*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFS8213.C8FBD1+8GB&id=10578,NA,NA,NA,NA,NA,NA
+532,Crucial Technology CT8G4SFS8213.M8FB 8GB,36,14.2,10.7,$54.67*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFS824A.C8FAD1+8GB&id=9967,NA,NA,NA,NA,NA,NA
+533,Crucial Technology CT8G4SFS824A.C8FAD1 8GB,26,14.8,9.6,$40.72*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFS824A.C8FBD1+8GB&id=9704,NA,NA,NA,NA,NA,NA
+534,Crucial Technology CT8G4SFS824A.C8FBD1 8GB,26,14.6,9.8,$35.59*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFS824A.C8FBR1+8GB&id=10720,NA,NA,NA,NA,NA,NA
+535,Crucial Technology CT8G4SFS824A.M8FA 8GB,24,13.7,6.5,$54.67*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFS824A.M8FB+8GB&id=8978,NA,NA,NA,NA,NA,NA
+536,Crucial Technology CT8G4SFS8266.C8FD1 8GB,34,16.7,12.5,$66.68*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFS8266.C8FE+8GB&id=12884,NA,NA,NA,NA,NA,NA
+537,Crucial Technology CT8G4SFS832A.C8FE 8GB,48,16.7,13.5,$34.29*,https://www.memorybenchmark.net/ram.php?ram=Crucial+Technology+CT8G4SFS832A.C8FN+8GB&id=19210,NA,NA,NA,NA,NA,NA
+538,G Skill Intl F4-2133C15-8GRK 8GB,40,12.6,10.3,$139.99*,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-2133C15-8GRR+8GB&id=6326,NA,NA,NA,NA,NA,NA
+539,G Skill Intl F4-2400C15-4GNT 4GB,37,14.9,11.2,$71.99*,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-2400C15-4GRB+4GB&id=6404,NA,NA,NA,NA,NA,NA
+540,G Skill Intl F4-2400C15-4GRK 4GB,39,13.2,10.7,$120.43*,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-2400C15-4GRR+4GB&id=6329,NA,NA,NA,NA,NA,NA
+541,G Skill Intl F4-2400C15-4GRR 4GB,36,14.8,11.3,$132.99*,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-2400C15-4GVR+4GB&id=7970,NA,NA,NA,NA,NA,NA
+542,G Skill Intl F4-2400C15-8GNT 8GB,34,16.1,11.6,$183.22*,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-2400C15-8GRB+8GB&id=6516,NA,NA,NA,NA,NA,NA
+543,G Skill Intl F4-2400C15-8GRK 8GB,41,14.8,11.5,$356.99*,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-2400C15-8GRR+8GB&id=6395,NA,NA,NA,NA,NA,NA
+544,G Skill Intl F4-2400C15-8GRR 8GB,36,15.4,11.5,$142.99*,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-2400C15-8GTZR+8GB&id=10294,NA,NA,NA,NA,NA,NA
+545,G Skill Intl F4-2666C15-4GRR 4GB,35,15.5,12.2,$98.97*,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-2666C15-4GVK+4GB&id=10450,NA,NA,NA,NA,NA,NA
+546,G Skill Intl F4-2666C15-8GRR 8GB,35,15.9,12.2,$360.99*,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-2666C15-8GVB+8GB&id=8625,NA,NA,NA,NA,NA,NA
+547,G Skill Intl F4-2800C16-4GRK 4GB,39,14.1,11.2,$103.26*,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-2800C16-4GRR+4GB&id=8086,NA,NA,NA,NA,NA,NA
+548,G Skill Intl F4-3000C15-4GRR 4GB,36,14.9,12.0,$224.11*,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-3000C15-4GTZ+4GB&id=10346,NA,NA,NA,NA,NA,NA
+549,G Skill Intl F4-3000C15-8GRK 8GB,32,16.8,12.7,$164.99*,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-3000C15-8GRKB+8GB&id=8219,NA,NA,NA,NA,NA,NA
+550,G Skill Intl F4-3600C18D-32GVK 16GB,50,18.7,14.2,$179.00,https://www.memorybenchmark.net/ram.php?ram=G+Skill+Intl+F4-3600C19-16GSXF+16GB&id=12225,NA,NA,NA,NA,NA,NA
+551,GIGA - BYTE Technology Co Ltd GP-ARS16G33 8GB,27,19.1,16.8,$149.00,https://www.memorybenchmark.net/ram.php?ram=GIGA+-+BYTE+Technology+Co+Ltd+GP-ARS16G37+8GB&id=16161,NA,NA,NA,NA,NA,NA
+552,GIGA - BYTE Technology Co Ltd GP-ARS16G37 8GB,34,19.5,15.5,$169.00,https://www.memorybenchmark.net/ram.php?ram=GIGA+-+BYTE+Technology+Co+Ltd+GP-ARS16G44+8GB&id=15802,NA,NA,NA,NA,NA,NA
+553,GIGA - BYTE Technology Co Ltd GP-ARS16G44 8GB,35,19.0,15.9,$179.00*,https://www.memorybenchmark.net/ram.php?ram=GIGA+-+BYTE+Technology+Co+Ltd+GP-DSG64G32+32GB&id=16001,NA,NA,NA,NA,NA,NA
+554,GIGA - BYTE Technology Co Ltd GP-GR26C16S8K1HU408 8GB,28,17.3,13.6,$65.00,https://www.memorybenchmark.net/ram.php?ram=GIGA+-+BYTE+Technology+Co+Ltd+GP-GR26C16S8K2HU416+8GB&id=15022,NA,NA,NA,NA,NA,NA
+555,Kingston HP24D4S7S8MBP-8 8GB,40,13.2,10.9,$67.99*,https://www.memorybenchmark.net/ram.php?ram=Kingston+HP24D4U7S1MBP-4+4GB&id=9942,NA,NA,NA,NA,NA,NA
+556,Kingston HP26D4S9S8ME-8 8GB,34,15.6,12.8,$41.99*,https://www.memorybenchmark.net/ram.php?ram=Kingston+HP26D4S9S8MH-8+8GB&id=11428,NA,NA,NA,NA,NA,NA
+557,Kingston HP26D4S9S8MH-8 8GB,35,15.1,12.2,$69.99*,https://www.memorybenchmark.net/ram.php?ram=Kingston+HP26D4S9S8MHF-8+8GB&id=11368,NA,NA,NA,NA,NA,NA
+558,Kingston KMKYF9-MID 8GB,35,15.3,12.5,$54.99*,https://www.memorybenchmark.net/ram.php?ram=Kingston+KMKYF9-MIH+8GB&id=11046,NA,NA,NA,NA,NA,NA
+559,Kingston KMKYF9-MIH 8GB,36,13.3,11.5,$50.00*,https://www.memorybenchmark.net/ram.php?ram=Kingston+KP6FH5-MIE+32GB&id=18168,NA,NA,NA,NA,NA,NA
+560,Kingston M378A1K43CB2-CRC 8GB,24,13.9,6.5,$50.11*,https://www.memorybenchmark.net/ram.php?ram=Kingston+MSI21D4S15HAG%2F8G+8GB&id=9457,NA,NA,NA,NA,NA,NA
+561,Micron Technology 16ATF1G64AZ-2G1B1 8GB,37,15.4,11.9,$74.81*,https://www.memorybenchmark.net/ram.php?ram=Micron+Technology+16ATF1G64AZ-2G3A2+8GB&id=9014,NA,NA,NA,NA,NA,NA
+562,Micron Technology 16ATF2G64HZ-2G3H1 16GB,43,12.7,10.6,$89.26*,https://www.memorybenchmark.net/ram.php?ram=Micron+Technology+16ATF2G64HZ-2G6E1+16GB&id=11532,NA,NA,NA,NA,NA,NA
+563,Micron Technology 8ATF1G64HZ-2G6B1 8GB,33,14.7,12.1,$79.95*,https://www.memorybenchmark.net/ram.php?ram=Micron+Technology+8ATF1G64HZ-2G6D1+8GB&id=12613,NA,NA,NA,NA,NA,NA
+564,Mushkin 99[2/7/4]183 8GB,27,15.0,11.6,$68.97*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D189F+4GB&id=7603,NA,NA,NA,NA,NA,NA
+565,Mushkin 99[2/7/4]190F 4GB,26,14.1,10.7,$49.92*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D191%5BF%2FT%5D+4GB&id=8408,NA,NA,NA,NA,NA,NA
+566,Mushkin 99[2/7/4]191[F/T] 4GB,26,14.5,10.1,$46.99*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D191F+4GB&id=7031,NA,NA,NA,NA,NA,NA
+567,Mushkin 99[2/7/4]191F 4GB,27,13.9,10.9,$119.89*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D192%5BF%2FT%5D+4GB&id=11164,NA,NA,NA,NA,NA,NA
+568,Mushkin 99[2/7/4]197F 8GB,27,12.8,11.0,$88.32*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D198F+8GB&id=6786,NA,NA,NA,NA,NA,NA
+569,Mushkin 99[2/7/4]198F 8GB,26,12.6,8.7,$229.99*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D199%5BF%2FT%5D+8GB&id=8227,NA,NA,NA,NA,NA,NA
+570,Mushkin 99[2/7/4]199[F/T] 8GB,34,15.9,12.1,$89.99*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D199F+8GB&id=8694,NA,NA,NA,NA,NA,NA
+571,Mushkin 99[2/7/4]199F 8GB,27,12.7,10.5,$82.99*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D200%5BF%2FT%5D+8GB&id=9564,NA,NA,NA,NA,NA,NA
+572,Mushkin 99[2/7/4]200[F/T] 8GB,46,10.5,8.0,$101.51*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D200F+8GB&id=7104,NA,NA,NA,NA,NA,NA
+573,Mushkin 99[2/7/4]200F 8GB,26,13.7,10.3,$86.99*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D202F+4GB&id=10995,NA,NA,NA,NA,NA,NA
+574,Mushkin 99[2/7/4]204F 4GB,25,13.4,11.5,$36.97*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D205%5BF%2FT%5D+8GB&id=9318,NA,NA,NA,NA,NA,NA
+575,Mushkin 99[2/7/4]205[F/T] 8GB,19,19.3,13.8,$88.99*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D205F+8GB&id=7093,NA,NA,NA,NA,NA,NA
+576,Mushkin 99[2/7/4]205F 8GB,26,13.5,11.3,$229.99*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+99%5B2%2F7%2F4%5D206%5BF%2FT%5D+4GB&id=18742,NA,NA,NA,NA,NA,NA
+577,Mushkin 99[2/7/4]209F 8GB,28,13.4,10.3,$110.04*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+MB%5BA%2FB%5D4U240FFFF16G+16GB&id=9484,NA,NA,NA,NA,NA,NA
+578,Mushkin MB[A/B]4U240FFFF16G 16GB,30,16.3,13.8,$239.99*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+MES4S213FF16G28+16GB&id=9674,NA,NA,NA,NA,NA,NA
+579,Mushkin MES4S213FF16G28 16GB,36,13.8,11.2,$58.99*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+MLA4C400JNNM16G+16GB&id=16448,NA,NA,NA,NA,NA,NA
+580,Mushkin MR[A/B]4U266GHHF8G 8GB,29,17.4,12.8,$281.39*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+MR%5BA%2FB%5D4U280HHHH8G+8GB&id=10568,NA,NA,NA,NA,NA,NA
+581,Mushkin MR[A/B]4U300JJJM16G 16GB,28,17.3,14.5,$214.99*,https://www.memorybenchmark.net/ram.php?ram=Mushkin+MR%5BA%2FB%5D4U300JJJM8G+8GB&id=11279,NA,NA,NA,NA,NA,NA
+582,Nanya Technology M471A5143EB1-CRC 4GB,79,14.7,7.9,$31.00*,https://www.memorybenchmark.net/ram.php?ram=Nanya+Technology+NT8GA64D88CX3S-JR+8GB&id=15954,NA,NA,NA,NA,NA,NA
+583,Patriot Memory (PDP Systems) PSD416G21332 16GB,31,16.3,12.1,$239.95*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD416G21332S+16GB&id=10385,NA,NA,NA,NA,NA,NA
+584,Patriot Memory (PDP Systems) PSD416G24002 16GB,28,16.2,12.6,$179.99*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD416G24002S+16GB&id=11524,NA,NA,NA,NA,NA,NA
+585,Patriot Memory (PDP Systems) PSD416G26662 16GB,32,16.6,14.1,$59.99*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD416G26662S+16GB&id=13311,NA,NA,NA,NA,NA,NA
+586,Patriot Memory (PDP Systems) PSD44G213381 4GB,34,16.5,11.6,$58.47*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD44G213382+4GB&id=10553,NA,NA,NA,NA,NA,NA
+587,Patriot Memory (PDP Systems) PSD44G240041 4GB,68,15.6,7.0,$39.89*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD44G240081+4GB&id=8191,NA,NA,NA,NA,NA,NA
+588,Patriot Memory (PDP Systems) PSD44G240081 4GB,39,14.3,11.0,$75.88*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD44G240081S+4GB&id=11396,NA,NA,NA,NA,NA,NA
+589,Patriot Memory (PDP Systems) PSD44G240082 4GB,34,15.4,12.2,$18.99*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD44G266641+4GB&id=12629,NA,NA,NA,NA,NA,NA
+590,Patriot Memory (PDP Systems) PSD48G21332 8GB,27,13.3,9.8,$64.99*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD48G21332S+8GB&id=9400,NA,NA,NA,NA,NA,NA
+591,Patriot Memory (PDP Systems) PSD48G213381 8GB,32,14.9,11.0,$108.35*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD48G213381S+8GB&id=10241,NA,NA,NA,NA,NA,NA
+592,Patriot Memory (PDP Systems) PSD48G213382 8GB,25,16.9,12.2,$105.21*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD48G24002+8GB&id=7744,NA,NA,NA,NA,NA,NA
+593,Patriot Memory (PDP Systems) PSD48G24002 8GB,29,17.4,12.6,$59.99*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD48G240081+8GB&id=9528,NA,NA,NA,NA,NA,NA
+594,Patriot Memory (PDP Systems) PSD48G240081 8GB,32,15.2,11.0,$35.99*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD48G240082+8GB&id=10621,NA,NA,NA,NA,NA,NA
+595,Patriot Memory (PDP Systems) PSD48G240082 8GB,23,17.0,11.5,$109.99*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD48G26662+8GB&id=12275,NA,NA,NA,NA,NA,NA
+596,Patriot Memory (PDP Systems) PSD48G266681 8GB,33,15.4,12.9,$34.99*,https://www.memorybenchmark.net/ram.php?ram=Patriot+Memory+%28PDP+Systems%29+PSD48G266681S+8GB&id=14497,NA,NA,NA,NA,NA,NA
+597,"PNY Technologies, Inc. 8GBF2X04JEEE36-12-K 8GB",31,17.6,13.2,$83.95*,https://www.memorybenchmark.net/ram.php?ram=PNY+Technologies%2C+Inc.+8GBU1X08JGGG39-12-K+8GB&id=13900,NA,NA,NA,NA,NA,NA
+598,Samsung M378A1G43DB0-CPB 8GB,36,15.9,12.2,$99.00*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M378A1G43EB1-CPB+8GB&id=8110,NA,NA,NA,NA,NA,NA
+599,Samsung M378A1K43BB1-CPB 8GB,34,15.7,11.5,$42.00*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M378A1K43BB1-CRC+8GB&id=9765,NA,NA,NA,NA,NA,NA
+600,Samsung M378A1K43CB2-CTD 8GB,32,16.5,13.4,$36.94*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M378A1K43DB2-CTD+8GB&id=12828,NA,NA,NA,NA,NA,NA
+601,Samsung M378A1K43DB2-CTD 8GB,33,16.5,13.6,$57.95*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M378A1K43DB2-CVF+8GB&id=14830,NA,NA,NA,NA,NA,NA
+602,Samsung M378A2K43BB1-CPB 16GB,32,16.4,13.1,$109.00*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M378A2K43BB1-CRC+16GB&id=9728,NA,NA,NA,NA,NA,NA
+603,Samsung M378A2K43BB1-CRC 16GB,30,17.4,12.6,$115.00*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M378A2K43CB1-CRC+16GB&id=10539,NA,NA,NA,NA,NA,NA
+604,Samsung M378A2K43CB1-CTD 16GB,36,16.6,14.1,$68.45*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M378A2K43DB1-CTD+16GB&id=13369,NA,NA,NA,NA,NA,NA
+605,Samsung M378A2K43DB1-CTD 16GB,35,16.7,14.3,$94.95*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M378A2K43DB1-CVF+16GB&id=15143,NA,NA,NA,NA,NA,NA
+606,Samsung M378A5143DB0-CPB 4GB,36,14.9,11.3,$34.00*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M378A5143EB1-CPB+4GB&id=7928,NA,NA,NA,NA,NA,NA
+607,Samsung M378A5244CB0-CRC 4GB,37,15.5,11.6,$21.99*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M378A5244CB0-CTD+4GB&id=12226,NA,NA,NA,NA,NA,NA
+608,Samsung M378A5244CB0-CTD 4GB,37,15.9,12.3,$21.37*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M378A5244CB0-CVF+4GB&id=16795,NA,NA,NA,NA,NA,NA
+609,Samsung M386A4G40DM0-CPB 32GB,56,9.1,7.4,$161.75*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M386A4G40DM1-CRC+32GB&id=12380,NA,NA,NA,NA,NA,NA
+610,Samsung M386A8K40BM1-CRC 64GB,34,10.4,7.5,$329.99*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M386A8K40BMB-CPB+64GB&id=14395,NA,NA,NA,NA,NA,NA
+611,Samsung M391A1G43DB0-CPB 8GB,31,11.7,6.8,$99.99*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M391A1G43EB1-CPB+8GB&id=11959,NA,NA,NA,NA,NA,NA
+612,Samsung M391A2K43BB1-CPB 16GB,34,14.9,11.7,$119.99*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M391A2K43BB1-CRC+16GB&id=11077,NA,NA,NA,NA,NA,NA
+613,Samsung M393A1G40DB0-CPB 8GB,49,10.9,8.6,$114.33*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A1G40DB1-CRC+8GB&id=9128,NA,NA,NA,NA,NA,NA
+614,Samsung M393A1G40DB1-CRC 8GB,50,10.2,8.0,$62.99*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A1G40EB1-CPB+8GB&id=9161,NA,NA,NA,NA,NA,NA
+615,Samsung M393A1G43DB0-CPB 8GB,51,10.4,8.8,$60.27*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A1G43DB1-CRC+8GB&id=9954,NA,NA,NA,NA,NA,NA
+616,Samsung M393A1G43EB1-CRC 8GB,49,11.0,8.1,$121.83*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A1K43BB0-CRC+8GB&id=9881,NA,NA,NA,NA,NA,NA
+617,Samsung M393A1K43BB0-CRC 8GB,48,11.4,8.5,$83.06*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A1K43BB1-CTD+8GB&id=10824,NA,NA,NA,NA,NA,NA
+618,Samsung M393A2G40DB0-CPB 16GB,53,10.3,8.2,$59.75*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A2G40DB1-CRC+16GB&id=8993,NA,NA,NA,NA,NA,NA
+619,Samsung M393A2G40DB1-CRC 16GB,56,9.5,7.4,$169.99*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A2G40DBD-CP1%3F%3F%3F%3F+16GB&id=10193,NA,NA,NA,NA,NA,NA
+620,Samsung M393A2G40EB1-CRC 16GB,52,9.9,7.7,$175.01*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A2G40EB2-CTD+16GB&id=11474,NA,NA,NA,NA,NA,NA
+621,Samsung M393A2G40EB2-CTD 16GB,44,8.5,5.6,$107.99*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A2K40BB0-CPB+16GB&id=9069,NA,NA,NA,NA,NA,NA
+622,Samsung M393A2K40BB0-CPB 16GB,54,5.3,4.2,$59.98*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A2K40BB1-CRC+16GB&id=8802,NA,NA,NA,NA,NA,NA
+623,Samsung M393A2K40BB1-CRC 16GB,57,9.0,7.3,$137.99*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A2K40BB2-CTD+16GB&id=12741,NA,NA,NA,NA,NA,NA
+624,Samsung M393A2K40BB2-CTD 16GB,58,9.1,6.9,$110.48*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A2K40CB1-CRC+16GB&id=13512,NA,NA,NA,NA,NA,NA
+625,Samsung M393A2K43BB1-CRC 16GB,52,10.6,8.1,$215.92*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A2K43BB1-CRCA1+16GB&id=12937,NA,NA,NA,NA,NA,NA
+626,Samsung M393A2K43BB1-CTD 16GB,47,11.7,8.8,$217.94*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A2K43CB1-CRC+16GB&id=12824,NA,NA,NA,NA,NA,NA
+627,Samsung M393A4K40BB0-CPB 32GB,58,9.2,8.0,$203.52*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A4K40BB1-CRC+32GB&id=8929,NA,NA,NA,NA,NA,NA
+628,Samsung M393A4K40BB1-CRC 32GB,53,10.5,8.1,$367.95*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A4K40BB2-CTD+32GB&id=13002,NA,NA,NA,NA,NA,NA
+629,Samsung M393A4K40BB2-CTD 32GB,44,11.7,9.0,$189.18*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A4K40CB1-CRC+32GB&id=11896,NA,NA,NA,NA,NA,NA
+630,Samsung M393A4K40CB1-CRC 32GB,48,11.0,8.2,$242.50*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A4K40CB2-CTD+32GB&id=13382,NA,NA,NA,NA,NA,NA
+631,Samsung M393A4K40CB2-CTD 32GB,47,11.3,8.3,$369.00*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A5143DB0-CPB+4GB&id=7129,NA,NA,NA,NA,NA,NA
+632,Samsung M393A5143DB0-CPB 4GB,54,10.3,8.4,$44.40*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M393A5143DB0-CRC+4GB&id=9552,NA,NA,NA,NA,NA,NA
+633,Samsung M471A1G43DB0-CPB 8GB,38,14.3,11.4,$45.00*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A1G43EB1-CPB+8GB&id=8134,NA,NA,NA,NA,NA,NA
+634,Samsung M471A1G43EB1-CRC 8GB,25,14.8,9.3,$37.66*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A1G44AB0-CWE+8GB&id=15290,NA,NA,NA,NA,NA,NA
+635,Samsung M471A1K43BB0-CPB 8GB,38,14.1,10.9,$29.00*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A1K43BB1-CRC+8GB&id=9495,NA,NA,NA,NA,NA,NA
+636,Samsung M471A1K43BB1-CRC 8GB,35,15.3,12.1,$38.00*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A1K43BB1-CTD+8GB&id=9282,NA,NA,NA,NA,NA,NA
+637,Samsung M471A1K43CB1-CRC 8GB,36,14.6,11.8,$40.49*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A1K43CB1-CRCR+8GB&id=11127,NA,NA,NA,NA,NA,NA
+638,Samsung M471A1K43CB1-CTD 8GB,33,16.2,13.1,$35.51*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A1K43CBCBCRC+8GB&id=11832,NA,NA,NA,NA,NA,NA
+639,Samsung M471A1K43DB1-CTD 8GB,34,16.2,13.2,$45.00*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A1K43DB1-CWE+8GB&id=14589,NA,NA,NA,NA,NA,NA
+640,Samsung M471A2K43BB1-CPB 16GB,38,14.5,11.5,$164.99*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A2K43BB1-CRC+16GB&id=9396,NA,NA,NA,NA,NA,NA
+641,Samsung M471A2K43CB1-CRC 16GB,38,14.3,12.0,$60.00*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A2K43CB1-CRCR+16GB&id=12090,NA,NA,NA,NA,NA,NA
+642,Samsung M471A2K43CB1-CTD 16GB,34,16.1,14.1,$30.99*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A2K43CBCBCRC+16GB&id=13470,NA,NA,NA,NA,NA,NA
+643,Samsung M471A5143DB0-CPB 4GB,38,14.3,11.1,$43.75*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A5143EB0-CPB+4GB&id=9095,NA,NA,NA,NA,NA,NA
+644,Samsung M471A5143EB0-CPB 4GB,34,13.8,11.2,$26.77*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A5143EB1-CRC+4GB&id=9665,NA,NA,NA,NA,NA,NA
+645,Samsung M471A5143EB1-CRC 4GB,95,15.8,7.3,$46.99*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A5143SB1-CRC+4GB&id=11367,NA,NA,NA,NA,NA,NA
+646,Samsung M471A5244CB0-CRC 4GB,37,14.8,11.3,$23.99*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A5244CB0-CTD+4GB&id=12227,NA,NA,NA,NA,NA,NA
+647,Samsung M471A5244CB0-CTD 4GB,36,15.6,11.8,$15.89*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M471A5244CB0-CWE+4GB&id=14709,NA,NA,NA,NA,NA,NA
+648,Samsung M474A2K43BB1-CRC 16GB,34,15.9,13.2,$159.44*,https://www.memorybenchmark.net/ram.php?ram=Samsung+M474A4G43AB1-CWE+32GB&id=16436,NA,NA,NA,NA,NA,NA
+649,Silicon Power Computer & Communications SP008GBLFU266B02 8GB,22,17.9,13.4,$34.00*,https://www.memorybenchmark.net/ram.php?ram=Silicon+Power+Computer+%26+Communications+SP008GBSFU240B02+8GB&id=12876,NA,NA,NA,NA,NA,NA
+650,Super Talent F24EA8GS 8GB,92,11.6,9.7,$88.76*,https://www.memorybenchmark.net/ram.php?ram=Super+Talent+F24EB8GS+8GB&id=12207,NA,NA,NA,NA,NA,NA
+651,Super Talent F24EB8GS 8GB,31,15.9,10.2,$127.34*,https://www.memorybenchmark.net/ram.php?ram=Super+Talent+F24SB8GH+8GB&id=13865,NA,NA,NA,NA,NA,NA
+652,Super Talent F26UB16GH 16GB,29,8.7,6.5,$102.42*,https://www.memorybenchmark.net/ram.php?ram=Super+Talent+F3200UA8G+8GB&id=12135,NA,NA,NA,NA,NA,NA
+653,Thermaltake Technology Co Ltd R009D408GX2-3200C16A 8GB,29,17.8,14.1,$139.00*,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R009D408GX2-3600C18B+8GB&id=14430,NA,NA,NA,NA,NA,NA
+654,Thermaltake Technology Co Ltd R009D408GX2-3600C18B 8GB,30,18.4,15.7,$159.00,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R009D408GX2-4000C19A+8GB&id=14819,NA,NA,NA,NA,NA,NA
+655,Thermaltake Technology Co Ltd R009D408GX2-4000C19A 8GB,31,18.0,16.5,$189.00*,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R009D408GX2-4400C19A+8GB&id=14440,NA,NA,NA,NA,NA,NA
+656,Thermaltake Technology Co Ltd R009D408GX2-4400C19A 8GB,31,17.8,14.2,$199.00,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R009D408GX2-4600C19A+8GB&id=15597,NA,NA,NA,NA,NA,NA
+657,Thermaltake Technology Co Ltd R009D408GX2-4600C19A 8GB,27,18.7,17.8,$259.00*,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R009D416GX2-3600C18A+16GB&id=17784,NA,NA,NA,NA,NA,NA
+658,Thermaltake Technology Co Ltd R009D416GX2-3600C18A 16GB,32,19.8,14.9,$259.00,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R017D408GX2-3600C18A+8GB&id=14633,NA,NA,NA,NA,NA,NA
+659,Thermaltake Technology Co Ltd R017D408GX2-4000C19A 8GB,25,20.2,18.1,$179.00,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R017D408GX2-4400C19A+8GB&id=15817,NA,NA,NA,NA,NA,NA
+660,Thermaltake Technology Co Ltd R017D408GX2-4400C19A 8GB,27,17.5,16.5,$229.00,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R019D408GX2-3200C16A+8GB&id=14468,NA,NA,NA,NA,NA,NA
+661,Thermaltake Technology Co Ltd R019D408GX2-3200C16A 8GB,26,18.4,15.8,$119.00*,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R019D408GX2-3600C18A+8GB&id=14676,NA,NA,NA,NA,NA,NA
+662,Thermaltake Technology Co Ltd R019D408GX2-3600C18A 8GB,47,14.8,11.6,$139.00,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R021D408GX2-3600C18D+8GB&id=15504,NA,NA,NA,NA,NA,NA
+663,Thermaltake Technology Co Ltd R022D408GX2-3200C16A 8GB,32,19.9,14.9,$139.00,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R022D408GX2-3600C18A+8GB&id=14412,NA,NA,NA,NA,NA,NA
+664,Thermaltake Technology Co Ltd R022D408GX2-3600C18A 8GB,29,18.2,15.9,$169.00,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R022D408GX2-4600C19A+8GB&id=15890,NA,NA,NA,NA,NA,NA
+665,Thermaltake Technology Co Ltd R022D408GX2-4600C19A 8GB,28,21.6,18.2,$259.00*,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+R022R432GX2-3600C18A+32GB&id=16061,NA,NA,NA,NA,NA,NA
+666,Thermaltake Technology Co Ltd R022R432GX2-3600C18A 32GB,31,20.2,17.5,$298.00*,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+RA24D408GX2-3200C16A+8GB&id=17274,NA,NA,NA,NA,NA,NA
+667,Thermaltake Technology Co Ltd RA24D408GX2-3200C16A 8GB,31,15.7,13.8,$109.00,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+RA24D408GX2-3600C18A+8GB&id=15383,NA,NA,NA,NA,NA,NA
+668,Thermaltake Technology Co Ltd RA24D408GX2-3600C18A 8GB,26,17.2,17.1,$139.00,https://www.memorybenchmark.net/ram.php?ram=Thermaltake+Technology+Co+Ltd+RA24D408GX2-4400C19A+8GB&id=15394,NA,NA,NA,NA,NA,NA
+669,Thermaltake Technology Co Ltd RA24D408GX2-4400C19A 8GB,28,20.2,17.9,$189.00*,https://www.memorybenchmark.net/ram.php?ram=Transcend+Information+AQD-D4U4GN21-SG+4GB&id=8311,NA,NA,NA,NA,NA,NA
