@@ -2,7 +2,7 @@ import re
 import pandas as pd 
 import requests
 import numpy as np
-from tools import Crawler, tqdm_executor_map, FetchData, MissingTable
+from .. tools import Crawler, tqdm_executor_map, FetchData, MissingTable
 
 import concurrent.futures
 

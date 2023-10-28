@@ -1,0 +1,8 @@
+# Ignore Jupyter Notebook files
+*.ipynb
+
+# Ignore JSON files
+*.json
+
+# Ignore Python cache directories
+__pycache__/
