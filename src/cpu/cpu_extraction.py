@@ -1,23 +1,11 @@
-"""
-Scraping de données de benchmarks 
-
-Script qui permet d'extraire les données de benchmarks de composants informatiques.
-Les données de l'exctration sont disponibles dans le répertoire data. 
-
-Fonctions:
-    - extract_html: Récupère le contenu HTML.
-    - extract_table: Extrait les données d'un tableau.
-
-Auteur: [Val832]
-Date de création: 17/10/2023
-"""
-
 import re
 import concurrent.futures
 import pandas as pd
 import requests
 
-from tools import Crawler, FetchData, MissingTable, tqdm_executor_map, CleanDf
+
+from src.cpu import Crawler, CleanDf, tqdm_executor_map
+from tools_cpu import fetch_cpu_data, missing_cpu_table
 
 # Liste des URL concernant les benchmarks des différents composants informatiques.
 URLS = [
@@ -90,15 +78,18 @@ for i in URLS:
 
     # Extraction du tableau de données manquantes depuis l'URL des headers.
     # À chaque échec de requete on pourra attribuer cette valeur prédéfinie
-    na_table = MissingTable.missing_cpu_table(i["url_headers"])
+    na_table = missing_cpu_table(i["url_headers"])
 
-    ##Utilisation d'un exécuteur avec multithreading pour extraire les données de tous les liens en parallèle.
-    sessions = [requests.Session() for _ in range(len(df['lien']))]
+    #création d'une session permanante pour rendre l'extration plus rapide. 
+    session = requests.Session() 
+
+    # Utilisation d'un exécuteur avec multithreading pour 
+    # Extraire les données de tous les liens en parallèle.
     with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
-        all_data = tqdm_executor_map(executor, FetchData.fetch_cpu_data, df['lien'], 
-                                     [na_table]*len(df['lien']),sessions, total = len(df['lien']))
+        all_data = tqdm_executor_map(executor, fetch_cpu_data, df['lien'], 
+                                     [na_table]*len(df['lien']),[session]*len(df['lien']), total = len(df['lien']))
 
-    # conversion des données extraites en data frame
+    # Conversion des données extraites en data frame
     df2 = pd.DataFrame(all_data)
 
     # Réinitialisation des indices pour les deux DataFrames.

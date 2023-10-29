@@ -2,7 +2,7 @@ import unittest
 from bs4 import BeautifulSoup
 from unittest.mock import patch
 from requests.exceptions import RequestException
-from tools import Crawler  
+from src.tools import Crawler  
 
 class TestCrawler(unittest.TestCase):
 
