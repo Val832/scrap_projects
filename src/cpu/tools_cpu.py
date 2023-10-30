@@ -45,7 +45,7 @@ def fetch_cpu_data(url, missing_table, session):
         res = Crawler.extract_html(url)
         
         # Recherche du tableau souhaité
-        table = Crawler.find(res, tag='table', element_id='test-suite-results')
+        table = Crawler.find(res, tag='table', method=1,  attrs_key='id', attrs_value='test-suite-results')
         
         # Extraction des données du tableau
         data = {}

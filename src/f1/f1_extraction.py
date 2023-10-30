@@ -30,7 +30,7 @@ urls_gp = []
 
 # Pour chaque année trouvée, chercher les liens des GP de cette année 
 for year in urls_year:
-    req = Crawler.extract_html(year)
+    res = Crawler.extract_html(year)
     races = Crawler.find(res, 'a', attrs_key= "data-name", attrs_value="meetingKey")
 
     # Ajouter l'URL de chaque GP à la liste (en ignorant le premier qui n'est pas un GP)
@@ -52,9 +52,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
 # Réinitialiser l'index pour chaque dataframe extrait
 all_df = [df.reset_index(drop=True) for df in all_df]
 
-# Concaténer tous les dataframes extraits en un seul
 df = pd.concat(all_df, ignore_index=True)
-
 # Sauvegarder le dataframe résultant dans un fichier CSV
-df.to_csv("/Users/valentinnaud/Desktop/scrap_projects/data/f1/f1_data.csv")
+df.to_csv("data/f1/f1_data.csv")
 
