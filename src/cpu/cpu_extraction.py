@@ -98,5 +98,5 @@ for i in URLS:
    
     df = pd.concat([df, df2], axis=1)
     # Sauvegarde des données sous forme de fichier CSV associé au composant correspondant.
-    df.to_csv(f"/Users/valentinnaud/Desktop/scrap_projects/data/benchmark_data/{file_name}.csv")
+    df.to_csv(f"data/cpu/{file_name}.csv")
     

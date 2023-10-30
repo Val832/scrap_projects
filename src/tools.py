@@ -307,3 +307,4 @@ def tqdm_executor_map(executor, function, *args, **kwargs):
                     dynamic_ncols=True, 
                     mininterval=0.25,
                     total=total))
+

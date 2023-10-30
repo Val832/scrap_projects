@@ -63,5 +63,5 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
                                 [session]*len(df_id), total=len(df_id))
 
 # Écriture des données extraites dans un fichier JSON
-with open('/Users/valentinnaud/Desktop/scrap_projects/data/castorama/data.json', 'w', encoding='utf-8') as f:
+with open('data/castorama/data.json', 'w', encoding='utf-8') as f:
     json.dump(query_list, f, ensure_ascii=False, indent=4)

@@ -1,0 +1,580 @@
+,Videocard Name,"Passmark G3D Mark
+(higher is better)","Rank
+(lower is better)","Videocard Value
+(higher is better)","Price
+(USD)",lien,DirectX 9,DirectX 10,DirectX 11,DirectX 12,GPU Compute
+0,Barco MXRT 2600,900,1105,4.52,$199.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Barco+MXRT+5400&id=3354,NA,NA,NA,NA,NA
+1,Barco MXRT 5400,1161,967,5.72,$203.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Barco+MXRT+5450&id=2526,29 Frames/Sec,5 Frames/Sec,10 Frames/Sec,0 Frames/Sec,606 Ops/Sec
+2,Barco MXRT 5450,1079,1004,5.40,$199.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Barco+MXRT+5500&id=2699,NA,NA,NA,NA,NA
+3,Barco MXRT 5500,2701,554,9.04,$299.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Barco+MXRT+5600&id=4158,59 Frames/Sec,11 Frames/Sec,23 Frames/Sec,0 Frames/Sec,1360 Ops/Sec
+4,Barco MXRT 5600,2465,594,3.50,$704.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Barco+MXRT+7100&id=2621,NA,NA,NA,NA,NA
+5,Barco MXRT 7400,900,1104,9.10,$99.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Barco+MXRT+7500&id=3353,87 Frames/Sec,17 Frames/Sec,26 Frames/Sec,0 Frames/Sec,1934 Ops/Sec
+6,Barco MXRT 7500,3753,445,12.55,$299.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Barco+MXRT+7600&id=4014,NA,NA,NA,NA,NA
+7,Barco MXRT 7600,4943,364,8.20,$602.59*,https://www.videocardbenchmark.net/gpu.php?gpu=BASICDISPLAY&id=3144,NA,NA,NA,NA,NA
+8,Dell 8100,2,2459,0.00,$999.11*,https://www.videocardbenchmark.net/gpu.php?gpu=Dell+8200&id=658,NA,NA,NA,NA,NA
+9,EAH5450,134,1904,1.22,$109.99*,https://www.videocardbenchmark.net/gpu.php?gpu=EIZO+Quadro+MED-XN51LP&id=4000,84 Frames/Sec,24 Frames/Sec,35 Frames/Sec,20 Frames/Sec,2146 Ops/Sec
+10,FireGL V3600,179,1831,1.12,$160.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FireGL+V5100&id=396,NA,NA,NA,NA,NA
+11,FireGL V5100,92,2031,0.81,$114.96*,https://www.videocardbenchmark.net/gpu.php?gpu=FireGL+V5200&id=397,NA,NA,NA,NA,NA
+12,FireGL V5200,114,1962,0.86,$133.40*,https://www.videocardbenchmark.net/gpu.php?gpu=FireGL+V5600&id=398,NA,NA,NA,NA,NA
+13,FireGL V5600,341,1668,1.52,$225.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FireGL+V7100&id=399,NA,NA,NA,NA,NA
+14,FireGL V7100,71,2088,0.22,$328.67*,https://www.videocardbenchmark.net/gpu.php?gpu=FireGL+V7200&id=400,NA,NA,NA,NA,NA
+15,FireGL V7300,128,1918,0.11,"$1,189.99*",https://www.videocardbenchmark.net/gpu.php?gpu=FireGL+V7350&id=402,NA,NA,NA,NA,NA
+16,FireGL V7350,110,1977,0.93,$119.42*,https://www.videocardbenchmark.net/gpu.php?gpu=FireGL+V7600&id=403,NA,NA,NA,NA,NA
+17,FireGL V7700,660,1316,9.43,$69.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FireGL+V8600&id=405,NA,NA,NA,NA,NA
+18,FireGL V8650,550,1457,1.84,$298.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FireGL+X1&id=407,NA,NA,NA,NA,NA
+19,FireMV 2200 PCIe,36,2219,0.40,$89.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FireMV+2250&id=416,NA,NA,NA,NA,NA
+20,FireMV 2250,45,2176,0.44,$104.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FireMV+2260&id=417,NA,NA,NA,NA,NA
+21,FireMV 2260,117,1949,1.33,$88.08*,https://www.videocardbenchmark.net/gpu.php?gpu=FireMV+2400+PCIe&id=418,NA,NA,NA,NA,NA
+22,FirePro 2270,144,1878,1.08,$134.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+2450&id=423,NA,NA,NA,NA,NA
+23,FirePro 2450,51,2156,0.57,$89.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+2460&id=237,7 Frames/Sec,1 Frames/Sec,1 Frames/Sec,0 Frames/Sec,32 Ops/Sec
+24,FirePro 2460,170,1842,2.03,$83.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V3700&id=429,NA,NA,NA,NA,NA
+25,FirePro 3D V3700,178,1834,2.10,$84.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V3750&id=430,NA,NA,NA,NA,NA
+26,FirePro 3D V3750,341,1667,6.71,$50.88*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V3800&id=431,NA,NA,NA,NA,NA
+27,FirePro 3D V3800,472,1549,3.15,$149.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V4800&id=433,23 Frames/Sec,4 Frames/Sec,8 Frames/Sec,0 Frames/Sec,345 Ops/Sec
+28,FirePro 3D V4800,853,1133,5.33,$159.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V5700&id=435,NA,NA,NA,NA,NA
+29,FirePro 3D V5700,546,1460,1.71,$319.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V5800&id=436,33 Frames/Sec,5 Frames/Sec,10 Frames/Sec,0 Frames/Sec,593 Ops/Sec
+30,FirePro 3D V5800,1231,934,6.04,$204.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V7750&id=437,NA,NA,NA,NA,NA
+31,FirePro 3D V7750,545,1464,1.56,$350.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V7800&id=438,NA,NA,NA,NA,NA
+32,FirePro 3D V7800,1867,740,3.11,$599.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V8700&id=440,NA,NA,NA,NA,NA
+33,FirePro 3D V8700,1206,945,7.09,$170.07*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V8750&id=441,NA,NA,NA,NA,NA
+34,FirePro 3D V8750,1271,920,1.03,"$1,230.99*",https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V8800&id=442,NA,NA,NA,NA,NA
+35,FirePro 3D V8800,2437,599,5.74,$424.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V9800&id=443,NA,NA,NA,NA,NA
+36,FirePro 3D V9800,2811,535,1.13,"$2,499.00*",https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+M2000&id=2268,9 Frames/Sec,2 Frames/Sec,4 Frames/Sec,0 Frames/Sec,258 Ops/Sec
+37,FirePro M4000,1612,815,22.14,$72.83*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+M4000+Mobility+Pro&id=3360,33 Frames/Sec,7 Frames/Sec,9 Frames/Sec,8 Frames/Sec,705 Ops/Sec
+38,FirePro M6000,1820,759,5.58,$325.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+M6000+Mobility+Pro&id=2437,30 Frames/Sec,7 Frames/Sec,10 Frames/Sec,9 Frames/Sec,721 Ops/Sec
+39,FirePro R5000,2646,563,24.06,$109.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+RG220&id=427,NA,NA,NA,NA,NA
+40,FirePro RG220,335,1675,0.52,$650.18*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+S10000&id=3330,70 Frames/Sec,21 Frames/Sec,29 Frames/Sec,24 Frames/Sec,2068 Ops/Sec
+41,FirePro S7000,4523,393,18.35,$246.54*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+S7150&id=3604,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,1001 Ops/Sec
+42,FirePro S7150,2726,547,1.61,"$1,697.99*",https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+S9000&id=3209,NA,NA,NA,NA,NA
+43,FirePro V3800,320,1689,2.57,$124.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+V3900&id=240,16 Frames/Sec,3 Frames/Sec,7 Frames/Sec,0 Frames/Sec,346 Ops/Sec
+44,FirePro V3900,648,1328,2.72,$238.44*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+V4900&id=241,25 Frames/Sec,5 Frames/Sec,9 Frames/Sec,0 Frames/Sec,441 Ops/Sec
+45,FirePro V4900,977,1054,6.51,$149.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+V5700&id=3111,NA,NA,NA,NA,NA
+46,FirePro V5700,464,1558,2.47,$188.06*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+V5800&id=3427,31 Frames/Sec,6 Frames/Sec,10 Frames/Sec,0 Frames/Sec,597 Ops/Sec
+47,FirePro V5800,1175,958,22.18,$53.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+V5900&id=243,40 Frames/Sec,7 Frames/Sec,12 Frames/Sec,0 Frames/Sec,420 Ops/Sec
+48,FirePro V5900,1269,921,14.77,$86.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+V7000&id=2675,NA,NA,NA,NA,NA
+49,FirePro V7800,2028,692,10.68,$190.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+V7900&id=245,64 Frames/Sec,17 Frames/Sec,17 Frames/Sec,0 Frames/Sec,815 Ops/Sec
+50,FirePro V7900,2304,632,12.13,$190.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+V8700&id=3105,NA,NA,NA,NA,NA
+51,FirePro V8700,1538,842,9.75,$157.88*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+V8800&id=3344,49 Frames/Sec,15 Frames/Sec,15 Frames/Sec,0 Frames/Sec,1202 Ops/Sec
+52,FirePro V8800,2280,636,11.52,$198.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+V9800&id=3423,NA,NA,NA,NA,NA
+53,FirePro V9800,2726,548,5.75,$474.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W2100&id=2940,17 Frames/Sec,3 Frames/Sec,7 Frames/Sec,4 Frames/Sec,458 Ops/Sec
+54,FirePro W2100,889,1114,15.08,$59.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W4100&id=3019,32 Frames/Sec,6 Frames/Sec,10 Frames/Sec,6 Frames/Sec,709 Ops/Sec
+55,FirePro W4100,1551,837,8.43,$184.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W4170M&id=3070,23 Frames/Sec,4 Frames/Sec,6 Frames/Sec,5 Frames/Sec,493 Ops/Sec
+56,FirePro W4300,2821,533,11.76,$239.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W5000&id=2227,61 Frames/Sec,11 Frames/Sec,21 Frames/Sec,13 Frames/Sec,1324 Ops/Sec
+57,FirePro W5000,2964,520,16.11,$184.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W5100&id=3044,53 Frames/Sec,10 Frames/Sec,20 Frames/Sec,18 Frames/Sec,1246 Ops/Sec
+58,FirePro W5100,2974,519,23.61,$125.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W5130M&id=3440,33 Frames/Sec,6 Frames/Sec,9 Frames/Sec,6 Frames/Sec,9269 Ops/Sec
+59,FirePro W600,1661,800,4.00,$414.99*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W6150M&id=4341,57 Frames/Sec,11 Frames/Sec,14 Frames/Sec,15 Frames/Sec,858 Ops/Sec
+60,FirePro W7000,4263,411,15.34,$278.05*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W7000+Adapter&id=2647,75 Frames/Sec,18 Frames/Sec,30 Frames/Sec,20 Frames/Sec,2085 Ops/Sec
+61,FirePro W7100,5321,334,13.67,$389.30*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W7170M&id=3412,51 Frames/Sec,21 Frames/Sec,16 Frames/Sec,15 Frames/Sec,902 Ops/Sec
+62,FirePro W8000,4095,419,7.15,$573.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W8100&id=2937,123 Frames/Sec,42 Frames/Sec,44 Frames/Sec,35 Frames/Sec,2529 Ops/Sec
+63,FirePro W8100,7279,255,10.34,$704.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W9000&id=2281,97 Frames/Sec,31 Frames/Sec,35 Frames/Sec,33 Frames/Sec,2693 Ops/Sec
+64,FirePro W9000,6138,296,7.26,$845.00*,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W9100&id=3028,132 Frames/Sec,45 Frames/Sec,49 Frames/Sec,36 Frames/Sec,3103 Ops/Sec
+65,FirePro W9100,7927,233,4.58,"$1,729.99*",https://www.videocardbenchmark.net/gpu.php?gpu=FireStream+9170&id=3357,NA,NA,NA,NA,NA
+66,GeForce 210,103,1997,1.92,$54.15*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+240M+GT&id=4035,NA,NA,NA,NA,NA
+67,GeForce 256,5,2371,0.12,$42.04*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+305M&id=1171,6 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+68,GeForce 310,119,1942,1.11,$108.35*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+310M&id=102,5 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+69,GeForce 315,158,1854,4.80,$32.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+315M&id=1174,5 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+70,GeForce 405,120,1940,4.89,$24.64*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+410M&id=1178,5 Frames/Sec,1 Frames/Sec,2 Frames/Sec,0 Frames/Sec,122 Ops/Sec
+71,GeForce 505,118,1947,1.03,$115.06*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+510&id=1179,6 Frames/Sec,1 Frames/Sec,2 Frames/Sec,1 Frames/Sec,132 Ops/Sec
+72,GeForce 510,259,1747,3.71,$69.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+605&id=1180,8 Frames/Sec,1 Frames/Sec,3 Frames/Sec,1 Frames/Sec,149 Ops/Sec
+73,GeForce 605,308,1697,2.26,$136.83*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+6100&id=1181,NA,NA,NA,NA,NA
+74,GeForce 6150,21,2286,0.07,$329.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+6150+LE&id=1188,NA,NA,NA,NA,NA
+75,GeForce 6200,41,2192,0.42,$99.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+6200+A-LE&id=1192,NA,NA,NA,NA,NA
+76,GeForce 6200 LE,29,2257,0.70,$41.24*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+6200+TurboCache&id=1194,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+77,GeForce 6200A,3,2416,0.07,$54.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+6200SE+TurboCache&id=1195,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+78,GeForce 6600,86,2047,0.33,$264.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+6600+GT&id=1199,4 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+79,GeForce 6600 GT,137,1895,2.11,$64.95*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+6600+LE&id=1201,NA,NA,NA,NA,NA
+80,GeForce 6800,112,1968,0.20,$559.29*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+6800+GS&id=1207,5 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+81,GeForce 7300 GT,136,1898,0.91,$149.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+7300+LE&id=1235,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+82,GeForce 7300 LE,80,2071,2.50,$32.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+7300+SE&id=1236,NA,NA,NA,NA,NA
+83,GeForce 7600 GS,157,1855,0.90,$175.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+7600+GT&id=1243,5 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+84,GeForce 7600 GT,201,1810,1.01,$199.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+7650+GS&id=1247,NA,NA,NA,NA,NA
+85,GeForce 770M,3245,495,18.34,$176.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+7800+GS&id=1248,NA,NA,NA,NA,NA
+86,GeForce 7800 GT,244,1760,3.05,$80.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+7800+GTX&id=1250,9 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+87,GeForce 7800 GTX,290,1715,4.06,$71.60*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+7900+GS&id=1251,6 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+88,GeForce 7900 GT,258,1748,1.30,$199.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+7900+GT%2FGTO&id=1253,NA,NA,NA,NA,NA
+89,GeForce 7950 GT,344,1664,1.69,$203.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+7950+GX2&id=1256,NA,NA,NA,NA,NA
+90,GeForce 7950 GX2,201,1809,3.67,$54.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+7950+Xtreme&id=3389,NA,NA,NA,NA,NA
+91,GeForce 8300,101,2006,4.48,$22.68*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+8300+GS&id=1261,1 Frames/Sec,6 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+92,GeForce 8400,81,2066,0.14,$589.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+8400+GS&id=73,3 Frames/Sec,3 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+93,GeForce 8400 GS,148,1869,1.73,$85.97*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+8400+SE&id=1264,NA,NA,NA,NA,NA
+94,GeForce 8400M GS,112,1970,1.44,$78.20*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+8400M+GT&id=1268,2 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+95,GeForce 8600 GT,116,1951,0.60,$196.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+8600+GTS&id=118,7 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+96,GeForce 8600 GTS,149,1866,0.62,$241.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+8600M+GS&id=1274,4 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+97,GeForce 8600M GT,89,2040,0.83,$108.10*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+8700M+GT&id=1276,7 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+98,GeForce 8800 GT,493,1523,7.05,$69.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+8800+GTS&id=101,18 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+99,GeForce 8800 GTS,421,1604,5.27,$79.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+8800+GTS+512&id=63,21 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+100,GeForce 8800 GTX,595,1399,4.96,$119.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+8800+Ultra&id=1281,18 Frames/Sec,3 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+101,GeForce 9300,126,1921,2.15,$59.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9300+%2F+nForce+730i&id=1292,NA,NA,NA,NA,NA
+102,GeForce 9300 GE,76,2077,3.32,$22.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9300+GS&id=1294,2 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+103,GeForce 9300 GS,102,2002,1.71,$59.95*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9300+SE&id=3128,NA,NA,NA,NA,NA
+104,GeForce 9300GE,97,2017,1.01,$97.20*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9300M+G&id=1296,NA,NA,NA,NA,NA
+105,GeForce 9300M GS,89,2039,2.07,$43.42*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+930A&id=3417,21 Frames/Sec,5 Frames/Sec,8 Frames/Sec,7 Frames/Sec,648 Ops/Sec
+106,GeForce 9400 GT,132,1907,0.83,$159.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9400M&id=1299,3 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+107,GeForce 9500 GT,146,1874,1.71,$85.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9500M&id=1305,NA,NA,NA,NA,NA
+108,GeForce 9500M,103,1998,1.02,$101.20*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9500M+G&id=1306,6 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+109,GeForce 9600 GSO,327,1684,6.54,$49.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9600+GSO+512&id=1310,12 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+110,GeForce 9600 GT,491,1524,7.56,$64.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9600M+GS&id=1313,7 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+111,GeForce 9600M GT,137,1893,1.76,$78.20*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9600M+GT+%2F+GeForce+GT+220M&id=1315,NA,NA,NA,NA,NA
+112,GeForce 9650M GT,137,1897,1.17,$117.30*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9700M+GT&id=1318,11 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+113,GeForce 9800 GT,467,1551,6.24,$74.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9800+GT+1024MB&id=3260,NA,NA,NA,NA,NA
+114,GeForce 9800 GTX,769,1213,10.26,$74.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9800+GTX%2B&id=92,18 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+115,GeForce 9800 GTX/9800 GTX+,608,1381,6.76,$89.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9800+GX2&id=1323,NA,NA,NA,NA,NA
+116,GeForce 9800 GX2,797,1187,4.09,$195.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+9800+S&id=2264,NA,NA,NA,NA,NA
+117,GeForce 9800M GTX,454,1572,1.38,$328.50*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+999+GTX&id=3403,NA,NA,NA,NA,NA
+118,GeForce FX 5200,7,2334,0.06,$129.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+FX+5200+Ultra&id=1333,NA,NA,NA,NA,NA
+119,GeForce FX 5200LE,7,2337,0.16,$42.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+FX+5200SE&id=2655,NA,NA,NA,NA,NA
+120,GeForce FX 5500,8,2326,0.05,$153.97*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+FX+5600&id=1336,NA,NA,NA,NA,NA
+121,GeForce G100,123,1928,6.20,$19.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+G102M&id=1366,2 Frames/Sec,4 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+122,GeForce G210,98,2011,0.80,$122.12*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+G210M&id=1371,5 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+123,GeForce GT 1030,2485,592,23.91,$103.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+120&id=1402,9 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+124,GeForce GT 120,168,1845,5.63,$29.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+120+%2F+9500+GT&id=1403,NA,NA,NA,NA,NA
+125,GeForce GT 130,381,1633,2.52,$151.34*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+130M&id=1406,8 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+126,GeForce GT 220,212,1791,5.32,$39.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+220M&id=1408,6 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+127,GeForce GT 230,323,1688,7.35,$43.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+230M&id=1410,9 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+128,GeForce GT 240,521,1495,3.24,$160.97*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+240M&id=1411,8 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+129,GeForce GT 320,453,1573,13.88,$32.69*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+320M&id=1414,5 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+130,GeForce GT 330,400,1621,10.02,$39.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+330M&id=108,9 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+131,GeForce GT 340,738,1247,13.93,$52.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+415&id=2423,10 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+132,GeForce GT 420,426,1596,2.75,$155.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+420M&id=1421,8 Frames/Sec,2 Frames/Sec,3 Frames/Sec,0 Frames/Sec,170 Ops/Sec
+133,GeForce GT 430,602,1390,4.31,$139.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+435M&id=86,14 Frames/Sec,2 Frames/Sec,5 Frames/Sec,1 Frames/Sec,208 Ops/Sec
+134,GeForce GT 440,773,1204,3.44,$225.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+445M&id=1424,18 Frames/Sec,3 Frames/Sec,8 Frames/Sec,2 Frames/Sec,380 Ops/Sec
+135,GeForce GT 520,306,1699,1.01,$304.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+520M&id=70,6 Frames/Sec,1 Frames/Sec,2 Frames/Sec,0 Frames/Sec,107 Ops/Sec
+136,GeForce GT 520M,283,1724,9.47,$29.95*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+520MX&id=2144,6 Frames/Sec,2 Frames/Sec,2 Frames/Sec,0 Frames/Sec,91 Ops/Sec
+137,GeForce GT 530,679,1300,13.86,$49.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+540M&id=27,11 Frames/Sec,2 Frames/Sec,3 Frames/Sec,0 Frames/Sec,389 Ops/Sec
+138,GeForce GT 540M,484,1533,5.51,$87.95*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+545&id=112,28 Frames/Sec,3 Frames/Sec,9 Frames/Sec,4 Frames/Sec,474 Ops/Sec
+139,GeForce GT 545,1103,989,19.85,$55.59*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+550M&id=1427,15 Frames/Sec,2 Frames/Sec,5 Frames/Sec,0 Frames/Sec,2123 Ops/Sec
+140,GeForce GT 555M,665,1312,3.76,$177.20*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+610&id=33,7 Frames/Sec,1 Frames/Sec,3 Frames/Sec,1 Frames/Sec,170 Ops/Sec
+141,GeForce GT 610,305,1701,2.18,$139.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+610M+%2F+GT+620M+%2F+GT+710M+%2F+GT+720M+%2F+GT&id=2877,NA,NA,NA,NA,NA
+142,GeForce GT 620,367,1646,2.39,$154.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+620M&id=1430,11 Frames/Sec,2 Frames/Sec,4 Frames/Sec,0 Frames/Sec,266 Ops/Sec
+143,GeForce GT 630,682,1294,4.64,$147.01*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+630M&id=77,13 Frames/Sec,2 Frames/Sec,5 Frames/Sec,0 Frames/Sec,293 Ops/Sec
+144,GeForce GT 635,836,1149,12.50,$66.94*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+635M&id=2136,13 Frames/Sec,2 Frames/Sec,5 Frames/Sec,0 Frames/Sec,331 Ops/Sec
+145,GeForce GT 640,1180,956,10.73,$109.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+640M&id=2147,19 Frames/Sec,3 Frames/Sec,8 Frames/Sec,3 Frames/Sec,437 Ops/Sec
+146,GeForce GT 640M LE,680,1297,0.80,$849.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+645&id=2242,33 Frames/Sec,6 Frames/Sec,16 Frames/Sec,11 Frames/Sec,723 Ops/Sec
+147,GeForce GT 705,336,1673,1.13,$296.76*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+710&id=2910,14 Frames/Sec,2 Frames/Sec,5 Frames/Sec,3 Frames/Sec,359 Ops/Sec
+148,GeForce GT 710,631,1348,2.52,$249.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+710M&id=2744,10 Frames/Sec,2 Frames/Sec,4 Frames/Sec,0 Frames/Sec,313 Ops/Sec
+149,GeForce GT 720,612,1375,6.13,$99.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+720A&id=2890,16 Frames/Sec,2 Frames/Sec,4 Frames/Sec,3 Frames/Sec,321 Ops/Sec
+150,GeForce GT 730,828,1160,7.53,$109.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+730A&id=2749,NA,NA,NA,NA,NA
+151,GeForce GT 740,1494,855,6.31,$236.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GT+740A&id=2928,17 Frames/Sec,2 Frames/Sec,4 Frames/Sec,3 Frames/Sec,371 Ops/Sec
+152,GeForce GTS 240,577,1424,8.88,$64.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTS+250&id=29,23 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+153,GeForce GTS 250,607,1383,8.68,$69.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTS+250M&id=1437,15 Frames/Sec,3 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+154,GeForce GTS 450,1312,907,16.41,$79.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1050&id=3596,84 Frames/Sec,24 Frames/Sec,38 Frames/Sec,20 Frames/Sec,2496 Ops/Sec
+155,GeForce GTX 1050,5047,358,21.03,$239.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1050+%28Mobile%29&id=4088,75 Frames/Sec,20 Frames/Sec,35 Frames/Sec,19 Frames/Sec,2089 Ops/Sec
+156,GeForce GTX 1050 Ti,6302,287,33.17,$189.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1050+Ti+%28Mobile%29&id=4089,101 Frames/Sec,30 Frames/Sec,45 Frames/Sec,24 Frames/Sec,2189 Ops/Sec
+157,GeForce GTX 1060,10071,174,35.97,$279.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060+%28Mobile%29&id=4086,137 Frames/Sec,49 Frames/Sec,65 Frames/Sec,29 Frames/Sec,3362 Ops/Sec
+158,GeForce GTX 1060 3GB,9752,182,36.12,$269.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060+5GB&id=3923,147 Frames/Sec,46 Frames/Sec,61 Frames/Sec,32 Frames/Sec,4141 Ops/Sec
+159,GeForce GTX 1060 5GB,8972,206,18.39,$487.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060+with+Max-Q+Design&id=3769,135 Frames/Sec,45 Frames/Sec,61 Frames/Sec,30 Frames/Sec,2899 Ops/Sec
+160,GeForce GTX 1070,13512,117,27.68,$488.09*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1070+%28Mobile%29&id=4087,153 Frames/Sec,74 Frames/Sec,92 Frames/Sec,34 Frames/Sec,4591 Ops/Sec
+161,GeForce GTX 1070 Ti,14718,100,25.82,$569.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1070+with+Max-Q+Design&id=3779,156 Frames/Sec,68 Frames/Sec,84 Frames/Sec,36 Frames/Sec,3680 Ops/Sec
+162,GeForce GTX 1080,15486,87,34.98,$442.79*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1080+Ti&id=3699,229 Frames/Sec,123 Frames/Sec,149 Frames/Sec,64 Frames/Sec,9787 Ops/Sec
+163,GeForce GTX 1080 Ti,18539,57,38.32,$483.82*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1080+with+Max-Q+Design&id=3784,162 Frames/Sec,68 Frames/Sec,99 Frames/Sec,41 Frames/Sec,5853 Ops/Sec
+164,GeForce GTX 1630,5002,362,38.48,$129.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1650&id=4078,125 Frames/Sec,39 Frames/Sec,58 Frames/Sec,34 Frames/Sec,3094 Ops/Sec
+165,GeForce GTX 1650,7858,238,58.22,$134.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1650+%28Mobile%29&id=4090,116 Frames/Sec,36 Frames/Sec,50 Frames/Sec,27 Frames/Sec,2750 Ops/Sec
+166,GeForce GTX 1650 SUPER,10112,173,54.95,$184.05*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1650+Ti&id=4195,119 Frames/Sec,39 Frames/Sec,61 Frames/Sec,32 Frames/Sec,2762 Ops/Sec
+167,GeForce GTX 1660,11723,152,40.84,$287.09,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+SUPER&id=4159,191 Frames/Sec,69 Frames/Sec,101 Frames/Sec,48 Frames/Sec,5212 Ops/Sec
+168,GeForce GTX 1660 SUPER,12785,132,64.58,$197.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+Ti&id=4045,191 Frames/Sec,70 Frames/Sec,101 Frames/Sec,50 Frames/Sec,5343 Ops/Sec
+169,GeForce GTX 1660 Ti,12960,131,51.39,$252.20,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+Ti+%28Mobile%29&id=4091,155 Frames/Sec,62 Frames/Sec,86 Frames/Sec,38 Frames/Sec,3779 Ops/Sec
+170,GeForce GTX 260,1231,935,15.40,$79.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+260M&id=83,15 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+171,GeForce GTX 275,1415,880,3.28,$431.72*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+280&id=66,24 Frames/Sec,8 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+172,GeForce GTX 280,1275,919,2.44,$522.78*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+280M&id=1443,21 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+173,GeForce GTX 285,1516,847,12.64,$119.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+285M&id=1445,23 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+174,GeForce GTX 295,1201,949,7.51,$159.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+460&id=31,50 Frames/Sec,10 Frames/Sec,17 Frames/Sec,8 Frames/Sec,985 Ops/Sec
+175,GeForce GTX 460,2252,647,25.03,$89.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+460+SE&id=123,47 Frames/Sec,8 Frames/Sec,17 Frames/Sec,7 Frames/Sec,767 Ops/Sec
+176,GeForce GTX 460 SE,2011,694,12.57,$159.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+460+v2&id=1447,58 Frames/Sec,10 Frames/Sec,12 Frames/Sec,3 Frames/Sec,1083 Ops/Sec
+177,GeForce GTX 460 v2,1860,744,9.30,$199.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+460M&id=93,31 Frames/Sec,5 Frames/Sec,10 Frames/Sec,4 Frames/Sec,487 Ops/Sec
+178,GeForce GTX 465,2683,559,13.76,$195.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+470&id=55,60 Frames/Sec,13 Frames/Sec,24 Frames/Sec,11 Frames/Sec,1008 Ops/Sec
+179,GeForce GTX 470,3084,511,51.42,$59.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+470M&id=1448,44 Frames/Sec,6 Frames/Sec,16 Frames/Sec,8 Frames/Sec,837 Ops/Sec
+180,GeForce GTX 480,4040,421,23.77,$169.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+480M&id=1449,36 Frames/Sec,7 Frames/Sec,15 Frames/Sec,0 Frames/Sec,345 Ops/Sec
+181,GeForce GTX 550 Ti,1535,844,15.36,$99.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+555&id=1451,41 Frames/Sec,7 Frames/Sec,13 Frames/Sec,3 Frames/Sec,896 Ops/Sec
+182,GeForce GTX 560,2718,551,13.26,$205.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+560+SE&id=106,49 Frames/Sec,8 Frames/Sec,14 Frames/Sec,7 Frames/Sec,870 Ops/Sec
+183,GeForce GTX 560 SE,1914,727,21.27,$89.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+560+Ti&id=18,64 Frames/Sec,12 Frames/Sec,25 Frames/Sec,11 Frames/Sec,1211 Ops/Sec
+184,GeForce GTX 560 Ti,3031,513,23.32,$129.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+560M&id=1452,31 Frames/Sec,4 Frames/Sec,9 Frames/Sec,4 Frames/Sec,465 Ops/Sec
+185,GeForce GTX 570,3923,431,26.16,$149.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+570M&id=1453,44 Frames/Sec,7 Frames/Sec,15 Frames/Sec,6 Frames/Sec,795 Ops/Sec
+186,GeForce GTX 580,4538,391,32.44,$139.92*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+580M&id=1455,53 Frames/Sec,10 Frames/Sec,19 Frames/Sec,5 Frames/Sec,684 Ops/Sec
+187,GeForce GTX 580M,2074,680,8.34,$248.68*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+590&id=1457,73 Frames/Sec,18 Frames/Sec,45 Frames/Sec,1 Frames/Sec,1154 Ops/Sec
+188,GeForce GTX 590,3341,487,7.68,$435.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+645&id=2513,35 Frames/Sec,7 Frames/Sec,15 Frames/Sec,7 Frames/Sec,887 Ops/Sec
+189,GeForce GTX 650,1753,775,15.95,$109.98*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+650+Ti&id=2177,45 Frames/Sec,9 Frames/Sec,21 Frames/Sec,10 Frames/Sec,1567 Ops/Sec
+190,GeForce GTX 650 Ti,2529,584,27.18,$93.05*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+650+Ti+BOOST&id=2479,60 Frames/Sec,13 Frames/Sec,28 Frames/Sec,14 Frames/Sec,1519 Ops/Sec
+191,GeForce GTX 660,3998,425,23.81,$167.95*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+660+Ti&id=88,72 Frames/Sec,17 Frames/Sec,38 Frames/Sec,16 Frames/Sec,2243 Ops/Sec
+192,GeForce GTX 660 Ti,4375,403,30.39,$144.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+660M&id=1458,31 Frames/Sec,5 Frames/Sec,12 Frames/Sec,5 Frames/Sec,862 Ops/Sec
+193,GeForce GTX 660M,1442,868,18.26,$78.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+670&id=35,86 Frames/Sec,23 Frames/Sec,46 Frames/Sec,20 Frames/Sec,2348 Ops/Sec
+194,GeForce GTX 670,5317,335,27.41,$193.98*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+670M&id=1459,43 Frames/Sec,7 Frames/Sec,15 Frames/Sec,5 Frames/Sec,708 Ops/Sec
+195,GeForce GTX 680,5541,320,13.89,$399.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+680M&id=1461,58 Frames/Sec,13 Frames/Sec,26 Frames/Sec,11 Frames/Sec,1390 Ops/Sec
+196,GeForce GTX 680M,3205,499,23.58,$135.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+680M+KY_Bullet+Edition&id=3832,NA,NA,NA,NA,NA
+197,GeForce GTX 690,5579,317,19.85,$280.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+745&id=2843,43 Frames/Sec,10 Frames/Sec,12 Frames/Sec,9 Frames/Sec,1002 Ops/Sec
+198,GeForce GTX 745,2149,667,7.55,$284.95*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+750&id=2825,56 Frames/Sec,16 Frames/Sec,23 Frames/Sec,14 Frames/Sec,1442 Ops/Sec
+199,GeForce GTX 750,3356,483,41.96,$79.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+750+Ti&id=2815,60 Frames/Sec,17 Frames/Sec,26 Frames/Sec,18 Frames/Sec,1746 Ops/Sec
+200,GeForce GTX 750 Ti,3902,432,44.29,$88.11*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+760&id=2561,80 Frames/Sec,19 Frames/Sec,42 Frames/Sec,18 Frames/Sec,2131 Ops/Sec
+201,GeForce GTX 760,4777,373,32.07,$149.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+760+Ti&id=2801,80 Frames/Sec,22 Frames/Sec,45 Frames/Sec,20 Frames/Sec,2305 Ops/Sec
+202,GeForce GTX 760 Ti,5191,346,17.45,$297.50*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+760+Ti+OEM&id=4108,NA,NA,NA,NA,NA
+203,GeForce GTX 765M,1983,705,10.65,$186.30*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+770&id=2531,95 Frames/Sec,23 Frames/Sec,52 Frames/Sec,22 Frames/Sec,2724 Ops/Sec
+204,GeForce GTX 770,5902,305,23.71,$249.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+770M&id=2534,51 Frames/Sec,11 Frames/Sec,24 Frames/Sec,10 Frames/Sec,1186 Ops/Sec
+205,GeForce GTX 770M,2774,538,20.11,$138.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+775M&id=2729,72 Frames/Sec,16 Frames/Sec,29 Frames/Sec,11 Frames/Sec,1576 Ops/Sec
+206,GeForce GTX 780,8030,230,28.68,$279.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+780+Ti&id=2717,142 Frames/Sec,49 Frames/Sec,73 Frames/Sec,36 Frames/Sec,4039 Ops/Sec
+207,GeForce GTX 780 Ti,9486,189,27.90,$339.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+780M&id=2536,74 Frames/Sec,15 Frames/Sec,34 Frames/Sec,14 Frames/Sec,1736 Ops/Sec
+208,GeForce GTX 780M,3871,436,7.76,$499.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+850A&id=3213,NA,NA,NA,NA,NA
+209,GeForce GTX 860M,3031,514,26.59,$114.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+870M&id=2833,68 Frames/Sec,14 Frames/Sec,31 Frames/Sec,12 Frames/Sec,1624 Ops/Sec
+210,GeForce GTX 950,5345,332,37.65,$141.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+950A&id=3334,49 Frames/Sec,12 Frames/Sec,15 Frames/Sec,11 Frames/Sec,1261 Ops/Sec
+211,GeForce GTX 950M,2587,575,4.56,$567.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+960&id=3114,100 Frames/Sec,23 Frames/Sec,42 Frames/Sec,28 Frames/Sec,2783 Ops/Sec
+212,GeForce GTX 960,6043,299,35.14,$172.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+960A&id=3404,NA,NA,NA,NA,NA
+213,GeForce GTX 960M,3398,479,2.91,"$1,169.00*",https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+965M&id=3113,67 Frames/Sec,16 Frames/Sec,28 Frames/Sec,17 Frames/Sec,1569 Ops/Sec
+214,GeForce GTX 970,9638,185,40.50,$237.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+970M&id=2981,100 Frames/Sec,27 Frames/Sec,42 Frames/Sec,24 Frames/Sec,2287 Ops/Sec
+215,GeForce GTX 970M,5722,309,27.25,$209.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+970XM+FORCE&id=3965,NA,NA,NA,NA,NA
+216,GeForce GTX 980,11136,160,45.03,$247.35*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+980+Ti&id=3218,191 Frames/Sec,74 Frames/Sec,105 Frames/Sec,55 Frames/Sec,6145 Ops/Sec
+217,GeForce GTX 980 Ti,13840,109,21.82,$634.39,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+980M&id=2976,126 Frames/Sec,35 Frames/Sec,57 Frames/Sec,31 Frames/Sec,2805 Ops/Sec
+218,GeForce GTX 980M,7343,254,25.32,$289.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+Titan&id=2433,125 Frames/Sec,38 Frames/Sec,65 Frames/Sec,31 Frames/Sec,3485 Ops/Sec
+219,GeForce GTX Titan,8192,225,11.00,$745.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+TITAN+Black&id=2842,131 Frames/Sec,46 Frames/Sec,65 Frames/Sec,32 Frames/Sec,3692 Ops/Sec
+220,GeForce GTX TITAN Black,9010,203,17.16,$524.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+TITAN+X&id=3162,183 Frames/Sec,71 Frames/Sec,102 Frames/Sec,51 Frames/Sec,5816 Ops/Sec
+221,GeForce GTX TITAN X,13055,126,11.90,"$1,096.99*",https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+TITAN+Z&id=2884,136 Frames/Sec,45 Frames/Sec,92 Frames/Sec,33 Frames/Sec,3381 Ops/Sec
+222,GeForce GTX TITAN Z,8986,205,5.93,"$1,515.00*",https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+MX110&id=3860,22 Frames/Sec,6 Frames/Sec,11 Frames/Sec,7 Frames/Sec,1253 Ops/Sec
+223,GeForce MX150,2278,637,38.42,$59.29*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+MX230&id=4036,32 Frames/Sec,6 Frames/Sec,15 Frames/Sec,9 Frames/Sec,771 Ops/Sec
+224,GeForce RTX 2060,14121,105,66.61,$212.00,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2060+%28Mobile%29&id=4085,164 Frames/Sec,87 Frames/Sec,96 Frames/Sec,39 Frames/Sec,3992 Ops/Sec
+225,GeForce RTX 2060 SUPER,16581,74,40.44,$409.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2060+with+Max-Q+Design&id=4199,133 Frames/Sec,72 Frames/Sec,76 Frames/Sec,39 Frames/Sec,3509 Ops/Sec
+226,GeForce RTX 2070,16175,77,31.11,$519.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2070+%28Mobile%29&id=4083,176 Frames/Sec,95 Frames/Sec,111 Frames/Sec,41 Frames/Sec,4487 Ops/Sec
+227,GeForce RTX 2070 SUPER,18260,60,36.67,$497.95*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2070+Super+with+Max-Q+Design&id=4204,195 Frames/Sec,107 Frames/Sec,112 Frames/Sec,50 Frames/Sec,5148 Ops/Sec
+228,GeForce RTX 2080,18804,54,23.49,$800.61*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+%28Mobile%29&id=4084,194 Frames/Sec,116 Frames/Sec,140 Frames/Sec,53 Frames/Sec,6508 Ops/Sec
+229,GeForce RTX 2080 SUPER,19595,46,26.44,$740.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+Super+with+Max-Q+Design&id=4202,184 Frames/Sec,111 Frames/Sec,117 Frames/Sec,53 Frames/Sec,4956 Ops/Sec
+230,GeForce RTX 2080 Ti,21846,34,15.60,"$1,399.99",https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+with+Max-Q+Design&id=4041,173 Frames/Sec,104 Frames/Sec,111 Frames/Sec,49 Frames/Sec,4790 Ops/Sec
+231,GeForce RTX 2080 with Max-Q Design,13187,123,6.28,"$2,099.99*",https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050&id=4495,144 Frames/Sec,70 Frames/Sec,93 Frames/Sec,59 Frames/Sec,11704 Ops/Sec
+232,GeForce RTX 3050,12979,130,60.09,$215.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050+4GB+Laptop+GPU&id=4769,84 Frames/Sec,35 Frames/Sec,43 Frames/Sec,41 Frames/Sec,3094 Ops/Sec
+233,GeForce RTX 3050 Laptop GPU,9391,193,34.79,$269.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050+OEM&id=4569,140 Frames/Sec,64 Frames/Sec,87 Frames/Sec,56 Frames/Sec,5842 Ops/Sec
+234,GeForce RTX 3060,17113,67,67.11,$254.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3060+Laptop+GPU&id=4342,146 Frames/Sec,93 Frames/Sec,110 Frames/Sec,59 Frames/Sec,5896 Ops/Sec
+235,GeForce RTX 3060 Laptop GPU,13407,119,43.25,$309.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3060+Ti&id=4318,233 Frames/Sec,141 Frames/Sec,159 Frames/Sec,79 Frames/Sec,10472 Ops/Sec
+236,GeForce RTX 3060 Ti,20590,39,62.40,$329.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3070&id=4283,244 Frames/Sec,162 Frames/Sec,179 Frames/Sec,85 Frames/Sec,11769 Ops/Sec
+237,GeForce RTX 3070,22470,28,51.66,$434.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3070+Laptop+GPU&id=4331,159 Frames/Sec,117 Frames/Sec,136 Frames/Sec,65 Frames/Sec,7070 Ops/Sec
+238,GeForce RTX 3070 Ti,23760,21,47.52,$499.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3070+Ti+Laptop+GPU&id=4497,196 Frames/Sec,133 Frames/Sec,158 Frames/Sec,76 Frames/Sec,7859 Ops/Sec
+239,GeForce RTX 3080,25354,18,37.29,$679.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3080+12GB&id=4601,269 Frames/Sec,191 Frames/Sec,220 Frames/Sec,108 Frames/Sec,15897 Ops/Sec
+240,GeForce RTX 3080 Ti,27322,11,32.14,$849.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3080+Ti+Laptop+GPU&id=4491,205 Frames/Sec,140 Frames/Sec,170 Frames/Sec,94 Frames/Sec,8924 Ops/Sec
+241,GeForce RTX 3090,26902,13,15.32,"$1,755.72",https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3090+Ti&id=4524,294 Frames/Sec,213 Frames/Sec,246 Frames/Sec,122 Frames/Sec,18634 Ops/Sec
+242,GeForce RTX 3090 Ti,29831,6,19.37,"$1,539.99*",https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4050+Laptop+GPU&id=4763,184 Frames/Sec,86 Frames/Sec,132 Frames/Sec,62 Frames/Sec,5840 Ops/Sec
+243,GeForce RTX 4060,19442,49,67.04,$289.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4060+Laptop+GPU&id=4752,219 Frames/Sec,115 Frames/Sec,162 Frames/Sec,76 Frames/Sec,6936 Ops/Sec
+244,GeForce RTX 4060 Ti,22570,27,59.40,$379.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4060+Ti+16GB&id=4898,261 Frames/Sec,126 Frames/Sec,209 Frames/Sec,84 Frames/Sec,12513 Ops/Sec
+245,GeForce RTX 4060 Ti 16GB,22849,25,45.79,$499.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4070&id=4795,315 Frames/Sec,146 Frames/Sec,247 Frames/Sec,100 Frames/Sec,14994 Ops/Sec
+246,GeForce RTX 4070,26838,14,48.80,$549.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4070+Laptop+GPU&id=4756,218 Frames/Sec,120 Frames/Sec,176 Frames/Sec,86 Frames/Sec,8117 Ops/Sec
+247,GeForce RTX 4070 Ti,31659,3,41.12,$769.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4080&id=4622,370 Frames/Sec,222 Frames/Sec,321 Frames/Sec,127 Frames/Sec,22253 Ops/Sec
+248,GeForce RTX 4080,34752,2,31.88,"$1,089.99",https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4080+Laptop+GPU&id=4736,297 Frames/Sec,172 Frames/Sec,254 Frames/Sec,98 Frames/Sec,12704 Ops/Sec
+249,GeForce RTX 4090,38877,1,22.87,"$1,699.99",https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4090+Laptop+GPU&id=4737,321 Frames/Sec,197 Frames/Sec,284 Frames/Sec,109 Frames/Sec,13148 Ops/Sec
+250,GeForce4 Ti 4600,5,2363,0.10,$53.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce4+Ti+4800&id=1507,NA,NA,NA,NA,NA
+251,GRID K1,650,1325,1.65,$395.00*,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+K120Q&id=3384,NA,NA,NA,NA,NA
+252,GRID K2,2736,546,0.61,"$4,449.99",https://www.videocardbenchmark.net/gpu.php?gpu=GRID+K220Q&id=3140,NA,NA,NA,NA,NA
+253,GRID K520,3516,468,23.44,$149.99*,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+M10-0Q&id=3795,NA,NA,NA,NA,NA
+254,GT 430,223,1778,1.56,$142.88*,https://www.videocardbenchmark.net/gpu.php?gpu=IncrediblE+HD&id=3480,NA,NA,NA,NA,NA
+255,Intel Arc A750,8578,216,38.99,$219.99,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+A770&id=4605,74 Frames/Sec,54 Frames/Sec,77 Frames/Sec,77 Frames/Sec,7014 Ops/Sec
+256,Intel Arc A770,9288,197,28.23,$329.00,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+A770M&id=4620,60 Frames/Sec,45 Frames/Sec,67 Frames/Sec,66 Frames/Sec,5220 Ops/Sec
+257,Intel HD 3000,255,1749,0.27,$945.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+HD+4000&id=2,6 Frames/Sec,2 Frames/Sec,3 Frames/Sec,0 Frames/Sec,258 Ops/Sec
+258,Intel HD 4000,343,1665,0.22,"$1,592.95*",https://www.videocardbenchmark.net/gpu.php?gpu=Intel+HD+4400&id=2643,10 Frames/Sec,2 Frames/Sec,4 Frames/Sec,2 Frames/Sec,335 Ops/Sec
+259,Intel HD 5000,573,1434,0.92,$625.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+HD+505&id=4143,6 Frames/Sec,1 Frames/Sec,3 Frames/Sec,2 Frames/Sec,177 Ops/Sec
+260,ION,84,2054,0.37,$229.99*,https://www.videocardbenchmark.net/gpu.php?gpu=ION+LE&id=1516,NA,NA,NA,NA,NA
+261,Matrox Parhelia 128MB,3,2424,0.01,$393.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Matrox+Parhelia+256MB&id=1041,NA,NA,NA,NA,NA
+262,Mobile Intel HD,284,1722,0.59,$479.98*,https://www.videocardbenchmark.net/gpu.php?gpu=Mobile+Intel+serie+4+Express&id=2460,NA,NA,NA,NA,NA
+263,Mobility Radeon HD 3650,129,1912,1.77,$73.53*,https://www.videocardbenchmark.net/gpu.php?gpu=Mobility+Radeon+HD+3670&id=488,NA,NA,NA,NA,NA
+264,Mobility Radeon HD 4570,139,1889,1.83,$75.90*,https://www.videocardbenchmark.net/gpu.php?gpu=Mobility+Radeon+HD+4650&id=504,NA,NA,NA,NA,NA
+265,NVIDIA TITAN X,13659,113,22.46,$608.10*,https://www.videocardbenchmark.net/gpu.php?gpu=NVIDIA+TITAN+Xp&id=3728,230 Frames/Sec,127 Frames/Sec,152 Frames/Sec,64 Frames/Sec,9824 Ops/Sec
+266,NVIDIA TITAN Xp,18704,56,11.37,"$1,645.00*",https://www.videocardbenchmark.net/gpu.php?gpu=NVS+2100M&id=1537,5 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+267,NVS 300,122,1933,1.95,$62.97*,https://www.videocardbenchmark.net/gpu.php?gpu=NVS+310&id=2195,8 Frames/Sec,1 Frames/Sec,2 Frames/Sec,0 Frames/Sec,127 Ops/Sec
+268,NVS 310,249,1758,4.02,$62.06*,https://www.videocardbenchmark.net/gpu.php?gpu=NVS+3100M&id=1539,5 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+269,NVS 315,299,1706,4.28,$69.99*,https://www.videocardbenchmark.net/gpu.php?gpu=NVS+4200M&id=117,7 Frames/Sec,3 Frames/Sec,1 Frames/Sec,0 Frames/Sec,201 Ops/Sec
+270,NVS 4200M,271,1733,0.68,$399.00*,https://www.videocardbenchmark.net/gpu.php?gpu=NVS+510&id=2228,16 Frames/Sec,2 Frames/Sec,6 Frames/Sec,3 Frames/Sec,314 Ops/Sec
+271,NVS 510,708,1275,4.94,$143.26,https://www.videocardbenchmark.net/gpu.php?gpu=NVS+5100M&id=1540,8 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+272,NVS 810,1161,966,1.86,$624.99*,https://www.videocardbenchmark.net/gpu.php?gpu=OPAL+XT%2FGL&id=3291,NA,NA,NA,NA,NA
+273,P104-100,3995,426,13.32,$299.99*,https://www.videocardbenchmark.net/gpu.php?gpu=P106-090&id=4212,24 Frames/Sec,20 Frames/Sec,23 Frames/Sec,13 Frames/Sec,895 Ops/Sec
+274,Quadro 1000M,570,1438,10.47,$54.50*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+1100M&id=2398,NA,NA,NA,NA,NA
+275,Quadro 2000,944,1076,4.43,$213.23*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+2000+D&id=1544,NA,NA,NA,NA,NA
+276,Quadro 2000D,974,1055,6.96,$140.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+2000M&id=49,22 Frames/Sec,3 Frames/Sec,8 Frames/Sec,0 Frames/Sec,386 Ops/Sec
+277,Quadro 2000M,782,1198,3.40,$229.74*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+2100M&id=2397,NA,NA,NA,NA,NA
+278,Quadro 3000M,1018,1030,14.55,$69.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+400&id=1548,7 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+279,Quadro 400,148,1868,0.70,$211.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+4000&id=1549,44 Frames/Sec,7 Frames/Sec,15 Frames/Sec,0 Frames/Sec,575 Ops/Sec
+280,Quadro 4000,1482,861,1.47,"$1,008.09*",https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+4000M&id=1550,39 Frames/Sec,6 Frames/Sec,12 Frames/Sec,0 Frames/Sec,491 Ops/Sec
+281,Quadro 4000M,1323,901,5.71,$232.06*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+410&id=2291,11 Frames/Sec,1 Frames/Sec,3 Frames/Sec,2 Frames/Sec,275 Ops/Sec
+282,Quadro 410,441,1585,3.42,$129.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+5000&id=1551,52 Frames/Sec,10 Frames/Sec,19 Frames/Sec,0 Frames/Sec,725 Ops/Sec
+283,Quadro 5000,1923,724,2.04,$943.00,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+5000M&id=1552,NA,NA,NA,NA,NA
+284,Quadro 500M,570,1436,2.07,$275.14*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+5010M&id=1553,47 Frames/Sec,10 Frames/Sec,18 Frames/Sec,0 Frames/Sec,687 Ops/Sec
+285,Quadro 5010M,1771,771,7.51,$235.95*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+600&id=91,15 Frames/Sec,2 Frames/Sec,5 Frames/Sec,0 Frames/Sec,284 Ops/Sec
+286,Quadro 600,540,1475,7.11,$76.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+6000&id=1554,67 Frames/Sec,13 Frames/Sec,28 Frames/Sec,0 Frames/Sec,1076 Ops/Sec
+287,Quadro 6000,2701,555,0.66,"$4,092.38*",https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+7000&id=1555,66 Frames/Sec,14 Frames/Sec,30 Frames/Sec,0 Frames/Sec,1234 Ops/Sec
+288,Quadro CX,947,1071,6.32,$149.95*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+1000&id=1557,NA,NA,NA,NA,NA
+289,Quadro FX 1100,35,2221,0.17,$212.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+1300&id=1559,NA,NA,NA,NA,NA
+290,Quadro FX 1400,124,1927,0.51,$245.01*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+1500&id=1561,5 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+291,Quadro FX 1500,197,1815,1.71,$115.01*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+1500M&id=1562,NA,NA,NA,NA,NA
+292,Quadro FX 1600M,131,1909,0.87,$149.90*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+1700&id=1564,7 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+293,Quadro FX 1700,128,1916,0.37,$350.14*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+1700M&id=1565,11 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+294,Quadro FX 1800,398,1623,2.95,$135.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+1800M&id=1567,14 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+295,Quadro FX 2500M,217,1784,12.45,$17.50*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+2700&id=2854,NA,NA,NA,NA,NA
+296,Quadro FX 2700M,376,1638,3.77,$99.95*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+2800M&id=1571,18 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+297,Quadro FX 2800M,422,1603,2.22,$190.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+3000&id=1572,NA,NA,NA,NA,NA
+298,Quadro FX 3000,69,2104,0.41,$166.61*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+3400%2F4400&id=4,NA,NA,NA,NA,NA
+299,Quadro FX 3450,148,1867,1.24,$119.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+3450%2F4000+SDI&id=1575,5 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+300,Quadro FX 3500,291,1713,4.23,$68.98*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+3500M&id=1578,NA,NA,NA,NA,NA
+301,Quadro FX 3500M,306,1700,3.06,$99.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+350M&id=1579,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+302,Quadro FX 370,83,2057,0.67,$125.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+370+Low+Profile&id=1583,NA,NA,NA,NA,NA
+303,Quadro FX 3700,380,1634,1.79,$213.27*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+3700M&id=1586,17 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+304,Quadro FX 3700M,456,1570,0.49,$925.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+370M&id=1587,NA,NA,NA,NA,NA
+305,Quadro FX 380,162,1853,2.24,$72.50*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+380+LP&id=1589,6 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+306,Quadro FX 3800,799,1185,3.08,$259.13*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+3800M&id=1591,22 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+307,Quadro FX 4500,226,1775,1.34,$169.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+4500+X2&id=1595,NA,NA,NA,NA,NA
+308,Quadro FX 4600,430,1593,1.29,$333.25*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+4700+X2&id=2857,NA,NA,NA,NA,NA
+309,Quadro FX 4800,991,1046,4.86,$204.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+500%2F600+PCI&id=1599,NA,NA,NA,NA,NA
+310,Quadro FX 540,80,2070,1.35,$59.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+550&id=1602,NA,NA,NA,NA,NA
+311,Quadro FX 550,63,2122,0.22,$287.82*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+5500&id=1603,NA,NA,NA,NA,NA
+312,Quadro FX 5500,242,1761,0.12,"$1,999.00*",https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+560&id=1604,NA,NA,NA,NA,NA
+313,Quadro FX 560,113,1964,0.76,$150.25*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+5600&id=1605,20 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+314,Quadro FX 5600,525,1490,1.78,$295.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+570&id=1606,3 Frames/Sec,7 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+315,Quadro FX 570,232,1770,2.03,$115.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+570M&id=1607,7 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+316,Quadro FX 580,156,1856,1.21,$130.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+5800&id=1609,26 Frames/Sec,6 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+317,Quadro FX 5800,1216,941,4.44,$274.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+770M&id=1611,11 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+318,Quadro FX 770M,170,1843,0.32,$527.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+FX+880M&id=1612,9 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+319,Quadro GV100,20599,38,2.29,"$8,999.00*",https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K1000M&id=1616,18 Frames/Sec,3 Frames/Sec,6 Frames/Sec,3 Frames/Sec,352 Ops/Sec
+320,Quadro K1000M,785,1195,11.23,$69.95*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K1100M&id=2623,23 Frames/Sec,4 Frames/Sec,9 Frames/Sec,4 Frames/Sec,505 Ops/Sec
+321,Quadro K1100M,1082,1000,3.35,$322.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K1200&id=3193,48 Frames/Sec,14 Frames/Sec,20 Frames/Sec,12 Frames/Sec,1187 Ops/Sec
+322,Quadro K1200,2896,525,10.15,$285.29*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K2000&id=2446,32 Frames/Sec,5 Frames/Sec,14 Frames/Sec,6 Frames/Sec,691 Ops/Sec
+323,Quadro K2000,1568,834,5.34,$294.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K2000D&id=2497,32 Frames/Sec,5 Frames/Sec,14 Frames/Sec,6 Frames/Sec,715 Ops/Sec
+324,Quadro K2000D,1577,827,4.64,$339.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K2000M&id=1617,21 Frames/Sec,3 Frames/Sec,9 Frames/Sec,4 Frames/Sec,489 Ops/Sec
+325,Quadro K2000M,1016,1032,7.06,$144.04*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K2100M&id=2665,27 Frames/Sec,5 Frames/Sec,12 Frames/Sec,5 Frames/Sec,656 Ops/Sec
+326,Quadro K2100M,1362,892,3.27,$415.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K2200&id=2947,54 Frames/Sec,15 Frames/Sec,24 Frames/Sec,16 Frames/Sec,1583 Ops/Sec
+327,Quadro K2200,3546,465,13.22,$268.30*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K2200M&id=3175,55 Frames/Sec,15 Frames/Sec,23 Frames/Sec,16 Frames/Sec,1429 Ops/Sec
+328,Quadro K2200M,3440,476,27.54,$124.95*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K3000M&id=2213,35 Frames/Sec,7 Frames/Sec,13 Frames/Sec,5 Frames/Sec,635 Ops/Sec
+329,Quadro K3000M,1645,804,4.04,$407.56*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K3100M&id=2684,48 Frames/Sec,9 Frames/Sec,19 Frames/Sec,8 Frames/Sec,882 Ops/Sec
+330,Quadro K3100M,2270,640,5.68,$399.95*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K4000&id=2272,49 Frames/Sec,11 Frames/Sec,23 Frames/Sec,10 Frames/Sec,1117 Ops/Sec
+331,Quadro K4000,2705,552,10.02,$270.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K4000M&id=2159,38 Frames/Sec,8 Frames/Sec,15 Frames/Sec,6 Frames/Sec,668 Ops/Sec
+332,Quadro K4000M,1882,734,7.41,$254.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K4100M&id=2736,53 Frames/Sec,10 Frames/Sec,22 Frames/Sec,9 Frames/Sec,1090 Ops/Sec
+333,Quadro K4100M,2614,567,10.01,$261.29*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K420&id=2992,17 Frames/Sec,3 Frames/Sec,6 Frames/Sec,3 Frames/Sec,342 Ops/Sec
+334,Quadro K420,762,1219,2.83,$269.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K4200&id=2944,72 Frames/Sec,19 Frames/Sec,39 Frames/Sec,15 Frames/Sec,1791 Ops/Sec
+335,Quadro K4200,4314,407,17.33,$249.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K5000&id=2258,65 Frames/Sec,16 Frames/Sec,37 Frames/Sec,15 Frames/Sec,1734 Ops/Sec
+336,Quadro K5000,3978,427,15.98,$249.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K5000M&id=1618,45 Frames/Sec,11 Frames/Sec,25 Frames/Sec,10 Frames/Sec,1219 Ops/Sec
+337,Quadro K5000M,2763,540,5.43,$508.91*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K5100M&id=2798,69 Frames/Sec,12 Frames/Sec,27 Frames/Sec,11 Frames/Sec,1596 Ops/Sec
+338,Quadro K5100M,3151,506,2.84,"$1,108.84*",https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K510M&id=2767,15 Frames/Sec,2 Frames/Sec,6 Frames/Sec,0 Frames/Sec,378 Ops/Sec
+339,Quadro K5200,6026,300,14.52,$415.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K600&id=2449,17 Frames/Sec,3 Frames/Sec,6 Frames/Sec,3 Frames/Sec,333 Ops/Sec
+340,Quadro K600,749,1230,12.45,$60.24*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K6000&id=2666,125 Frames/Sec,41 Frames/Sec,64 Frames/Sec,30 Frames/Sec,3378 Ops/Sec
+341,Quadro K6000,8052,228,38.23,$210.66*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K610M&id=2703,16 Frames/Sec,2 Frames/Sec,6 Frames/Sec,2 Frames/Sec,379 Ops/Sec
+342,Quadro K610M,718,1265,2.99,$240.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K620&id=2950,44 Frames/Sec,10 Frames/Sec,13 Frames/Sec,9 Frames/Sec,967 Ops/Sec
+343,Quadro K620,2239,651,1.10,"$2,029.99*",https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K620M&id=3148,21 Frames/Sec,4 Frames/Sec,7 Frames/Sec,6 Frames/Sec,612 Ops/Sec
+344,Quadro M1000M,2899,524,33.72,$85.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M1200&id=3651,56 Frames/Sec,15 Frames/Sec,22 Frames/Sec,14 Frames/Sec,2331 Ops/Sec
+345,Quadro M2000,3965,428,15.01,$264.24*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M2000M&id=3373,58 Frames/Sec,15 Frames/Sec,23 Frames/Sec,15 Frames/Sec,1476 Ops/Sec
+346,Quadro M2000M,3463,472,16.25,$213.16*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M2200&id=3732,75 Frames/Sec,18 Frames/Sec,30 Frames/Sec,20 Frames/Sec,1861 Ops/Sec
+347,Quadro M2200,4296,410,17.19,$249.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M3000M&id=3394,101 Frames/Sec,25 Frames/Sec,42 Frames/Sec,23 Frames/Sec,2088 Ops/Sec
+348,Quadro M3000M,5501,322,34.39,$159.95*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M4000&id=3325,113 Frames/Sec,32 Frames/Sec,50 Frames/Sec,25 Frames/Sec,2665 Ops/Sec
+349,Quadro M4000,6668,275,18.42,$362.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M4000M&id=3297,111 Frames/Sec,31 Frames/Sec,50 Frames/Sec,25 Frames/Sec,2373 Ops/Sec
+350,Quadro M4000M,6250,289,24.52,$254.91*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M5000&id=3369,151 Frames/Sec,46 Frames/Sec,68 Frames/Sec,36 Frames/Sec,4030 Ops/Sec
+351,Quadro M5000,9389,194,18.82,$499.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M5000M&id=3408,122 Frames/Sec,35 Frames/Sec,55 Frames/Sec,28 Frames/Sec,2677 Ops/Sec
+352,Quadro M5000M,7052,263,12.89,$546.92*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M500M&id=3449,20 Frames/Sec,4 Frames/Sec,7 Frames/Sec,7 Frames/Sec,669 Ops/Sec
+353,Quadro M6000,11735,151,2.43,"$4,827.53*",https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M6000+24GB&id=3544,170 Frames/Sec,65 Frames/Sec,94 Frames/Sec,44 Frames/Sec,5119 Ops/Sec
+354,Quadro M600M,2145,668,8.52,$251.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M620&id=3658,50 Frames/Sec,13 Frames/Sec,19 Frames/Sec,12 Frames/Sec,1159 Ops/Sec
+355,Quadro NVS 280 PCI,8,2328,0.06,$130.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+NVS+280+SD&id=1632,NA,NA,NA,NA,NA
+356,Quadro NVS 285,42,2190,0.25,$169.86*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+NVS+285+128MB&id=1634,NA,NA,NA,NA,NA
+357,Quadro NVS 285 128MB,38,2209,0.70,$55.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+NVS+290&id=1635,3 Frames/Sec,5 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+358,Quadro NVS 290,226,1776,3.83,$59.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+NVS+295&id=1636,3 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+359,Quadro NVS 295,79,2072,1.27,$63.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+NVS+320M&id=1638,5 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+360,Quadro NVS 420,69,2098,0.47,$150.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+NVS+440&id=1641,NA,NA,NA,NA,NA
+361,Quadro NVS 440,37,2213,0.16,$228.87*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+NVS+450&id=1642,2 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+362,Quadro NVS 450,66,2113,0.42,$159.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+NVS+510M&id=1643,NA,NA,NA,NA,NA
+363,Quadro P1000,4425,402,15.26,$289.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P2000&id=3712,124 Frames/Sec,33 Frames/Sec,49 Frames/Sec,27 Frames/Sec,2901 Ops/Sec
+364,Quadro P2000,6910,270,15.72,$439.60*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P2000+with+Max-Q+Design&id=3982,90 Frames/Sec,25 Frames/Sec,36 Frames/Sec,21 Frames/Sec,2142 Ops/Sec
+365,Quadro P2200,9371,196,20.38,$459.80*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P3000&id=3688,110 Frames/Sec,35 Frames/Sec,53 Frames/Sec,26 Frames/Sec,2737 Ops/Sec
+366,Quadro P3200,9058,202,23.27,$389.30*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P3200+with+Max-Q+Design&id=3963,161 Frames/Sec,50 Frames/Sec,69 Frames/Sec,34 Frames/Sec,3672 Ops/Sec
+367,Quadro P400,1599,820,7.95,$201.17*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P4000&id=3719,183 Frames/Sec,70 Frames/Sec,87 Frames/Sec,39 Frames/Sec,5294 Ops/Sec
+368,Quadro P4000,11633,153,20.92,$556.19*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P4000+with+Max-Q+Design&id=3829,NA,NA,NA,NA,NA
+369,Quadro P5000,12207,145,6.53,"$1,868.99*",https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P520&id=4126,33 Frames/Sec,8 Frames/Sec,16 Frames/Sec,11 Frames/Sec,890 Ops/Sec
+370,Quadro P520,2104,675,1.40,"$1,499.00*",https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P5200&id=3888,195 Frames/Sec,79 Frames/Sec,96 Frames/Sec,41 Frames/Sec,5631 Ops/Sec
+371,Quadro P600,3264,492,15.44,$211.36*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P6000&id=3597,181 Frames/Sec,106 Frames/Sec,124 Frames/Sec,52 Frames/Sec,8813 Ops/Sec
+372,Quadro P6000,15299,92,4.71,"$3,250.00*",https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P620&id=3954,68 Frames/Sec,13 Frames/Sec,27 Frames/Sec,15 Frames/Sec,1556 Ops/Sec
+373,Quadro P620,3589,459,6.25,$574.55,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+3000&id=4119,168 Frames/Sec,79 Frames/Sec,86 Frames/Sec,42 Frames/Sec,3890 Ops/Sec
+374,Quadro RTX 4000,15453,89,17.19,$899.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+4000+%28Mobile%29&id=4148,181 Frames/Sec,99 Frames/Sec,104 Frames/Sec,47 Frames/Sec,4536 Ops/Sec
+375,Quadro RTX 6000,19240,53,3.05,"$6,300.00*",https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+8000&id=4061,202 Frames/Sec,142 Frames/Sec,181 Frames/Sec,80 Frames/Sec,10116 Ops/Sec
+376,Quadro RTX 8000,19402,50,4.09,"$4,741.49*",https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+T1000&id=4124,109 Frames/Sec,32 Frames/Sec,47 Frames/Sec,29 Frames/Sec,2540 Ops/Sec
+377,Quadro T1000,6592,277,17.40,$378.99,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+T1000+with+Max-Q+Design&id=4295,110 Frames/Sec,32 Frames/Sec,51 Frames/Sec,28 Frames/Sec,2585 Ops/Sec
+378,Quadro T2000,7163,260,13.56,$528.35*,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+T2000+with+Max-Q+Design&id=4218,116 Frames/Sec,34 Frames/Sec,53 Frames/Sec,28 Frames/Sec,2674 Ops/Sec
+379,Quadro4 980 XGL,5,2372,0.01,$341.43*,https://www.videocardbenchmark.net/gpu.php?gpu=Qualcomm+Adreno+540+GPU&id=4363,0 Frames/Sec,0 Frames/Sec,2 Frames/Sec,0 Frames/Sec,148 Ops/Sec
+380,Radeon 2100,59,2130,0.31,$190.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+3000&id=76,NA,NA,NA,NA,NA
+381,Radeon 3000,98,2013,0.31,$319.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+3015e&id=4713,6 Frames/Sec,1 Frames/Sec,3 Frames/Sec,2 Frames/Sec,225 Ops/Sec
+382,Radeon 3100,73,2083,0.41,$179.62,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+520&id=3797,14 Frames/Sec,3 Frames/Sec,7 Frames/Sec,5 Frames/Sec,448 Ops/Sec
+383,Radeon 520,857,1130,9.53,$89.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+530&id=3818,17 Frames/Sec,3 Frames/Sec,8 Frames/Sec,6 Frames/Sec,4199 Ops/Sec
+384,Radeon 550,1772,770,23.63,$74.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+550X&id=4137,24 Frames/Sec,5 Frames/Sec,10 Frames/Sec,11 Frames/Sec,617 Ops/Sec
+385,RADEON 7200,2,2442,0.00,$599.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+740M&id=4926,57 Frames/Sec,12 Frames/Sec,27 Frames/Sec,15 Frames/Sec,1475 Ops/Sec
+386,RADEON 7500,3,2431,0.02,$177.25*,https://www.videocardbenchmark.net/gpu.php?gpu=RADEON+7500+Family&id=1695,NA,NA,NA,NA,NA
+387,RADEON 9200,3,2417,0.02,$153.63*,https://www.videocardbenchmark.net/gpu.php?gpu=RADEON+9200+LE+Family&id=1704,NA,NA,NA,NA,NA
+388,RADEON 9250,2,2452,0.01,$194.00*,https://www.videocardbenchmark.net/gpu.php?gpu=RADEON+9500&id=1711,NA,NA,NA,NA,NA
+389,RADEON 9500,36,2218,0.90,$40.50*,https://www.videocardbenchmark.net/gpu.php?gpu=RADEON+9500+PRO+%2F+9700&id=1713,NA,NA,NA,NA,NA
+390,RADEON 9550,34,2226,0.12,$291.74*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+9550+%2F+X1050&id=560,NA,NA,NA,NA,NA
+391,RADEON 9800,57,2139,0.18,$325.00*,https://www.videocardbenchmark.net/gpu.php?gpu=RADEON+9800+PRO&id=1731,NA,NA,NA,NA,NA
+392,Radeon E6760,876,1122,3.65,$239.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+E8860&id=3150,29 Frames/Sec,7 Frames/Sec,10 Frames/Sec,9 Frames/Sec,768 Ops/Sec
+393,Radeon HD 2400,120,1939,1.37,$88.20*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+2400+PCI&id=568,NA,NA,NA,NA,NA
+394,Radeon HD 2600 PRO,211,1794,1.12,$188.44*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+2600+Pro+AGP&id=573,NA,NA,NA,NA,NA
+395,Radeon HD 2600 XT,282,1727,1.78,$159.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+2900+GT&id=576,NA,NA,NA,NA,NA
+396,Radeon HD 3450,155,1859,1.75,$89.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+3470&id=583,6 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+397,Radeon HD 3470,128,1917,1.17,$109.65*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+3650+AGP&id=585,NA,NA,NA,NA,NA
+398,Radeon HD 3650 AGP,150,1865,0.81,$185.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+3670&id=586,6 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+399,Radeon HD 3870,559,1447,8.00,$69.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+3870+X2&id=589,20 Frames/Sec,2 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+400,Radeon HD 4350,118,1945,1.16,$102.24*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+4550&id=5,NA,NA,NA,NA,NA
+401,Radeon HD 4550,235,1769,1.51,$156.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+4650&id=596,10 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+402,Radeon HD 4650,228,1773,3.27,$69.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+4650+AGP&id=597,NA,NA,NA,NA,NA
+403,Radeon HD 4670,380,1635,2.66,$142.96*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+4770&id=601,29 Frames/Sec,4 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+404,Radeon HD 4770,894,1109,14.91,$59.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+4810&id=2829,NA,NA,NA,NA,NA
+405,Radeon HD 4830,835,1150,13.93,$59.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+4850&id=24,29 Frames/Sec,4 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+406,Radeon HD 4850,939,1080,2.49,$378.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+4850+X2&id=602,NA,NA,NA,NA,NA
+407,Radeon HD 4870,1388,888,17.36,$79.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+4870+X2&id=98,NA,NA,NA,NA,NA
+408,Radeon HD 4890,1514,848,16.82,$89.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+5450&id=7,7 Frames/Sec,0 Frames/Sec,1 Frames/Sec,0 Frames/Sec,41 Ops/Sec
+409,Radeon HD 5450,136,1899,1.44,$94.96*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+5470&id=3055,NA,NA,NA,NA,NA
+410,Radeon HD 5550,370,1643,6.75,$54.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+5570&id=80,13 Frames/Sec,2 Frames/Sec,5 Frames/Sec,0 Frames/Sec,267 Ops/Sec
+411,Radeon HD 5570,482,1534,2.68,$179.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+5600%2F5700&id=604,13 Frames/Sec,2 Frames/Sec,6 Frames/Sec,0 Frames/Sec,466 Ops/Sec
+412,Radeon HD 5670,795,1191,11.87,$67.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+5750&id=50,32 Frames/Sec,6 Frames/Sec,10 Frames/Sec,0 Frames/Sec,513 Ops/Sec
+413,Radeon HD 5750,1161,965,16.60,$69.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+5770&id=6,37 Frames/Sec,6 Frames/Sec,11 Frames/Sec,0 Frames/Sec,649 Ops/Sec
+414,Radeon HD 5770,1343,898,7.07,$189.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+5830&id=69,38 Frames/Sec,11 Frames/Sec,12 Frames/Sec,0 Frames/Sec,839 Ops/Sec
+415,Radeon HD 5830,1730,785,6.68,$258.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+5850&id=47,47 Frames/Sec,14 Frames/Sec,13 Frames/Sec,0 Frames/Sec,938 Ops/Sec
+416,Radeon HD 5850,1979,709,6.85,$288.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+5870&id=48,52 Frames/Sec,15 Frames/Sec,15 Frames/Sec,0 Frames/Sec,1049 Ops/Sec
+417,Radeon HD 5870,2217,659,7.52,$295.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+5970&id=20,61 Frames/Sec,14 Frames/Sec,17 Frames/Sec,0 Frames/Sec,3052 Ops/Sec
+418,Radeon HD 5970,2307,630,12.82,$179.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6230&id=2715,6 Frames/Sec,1 Frames/Sec,2 Frames/Sec,0 Frames/Sec,41 Ops/Sec
+419,Radeon HD 6320,148,1871,0.27,$554.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6320+Graphic&id=259,NA,NA,NA,NA,NA
+420,RADEON HD 6350,140,1882,2.39,$59.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6370D&id=263,7 Frames/Sec,1 Frames/Sec,2 Frames/Sec,0 Frames/Sec,114 Ops/Sec
+421,Radeon HD 6380G,207,1802,0.52,$399.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6410D&id=266,7 Frames/Sec,1 Frames/Sec,3 Frames/Sec,0 Frames/Sec,128 Ops/Sec
+422,Radeon HD 6450,198,1813,2.23,$89.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6450+%2B+8470D+Dual&id=3724,NA,NA,NA,NA,NA
+423,Radeon HD 6470M,227,1774,0.40,$569.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6480G&id=270,6 Frames/Sec,1 Frames/Sec,3 Frames/Sec,0 Frames/Sec,134 Ops/Sec
+424,Radeon HD 6490M,377,1637,0.32,"$1,193.03*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6520G&id=52,7 Frames/Sec,1 Frames/Sec,3 Frames/Sec,0 Frames/Sec,155 Ops/Sec
+425,Radeon HD 6570,559,1449,8.61,$64.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6610M&id=2285,NA,NA,NA,NA,NA
+426,Radeon HD 6670,730,1252,10.58,$68.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6670+%2B+6670+Dual&id=2357,NA,NA,NA,NA,NA
+427,Radeon HD 6750,1035,1022,12.94,$79.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6750M&id=283,NA,NA,NA,NA,NA
+428,Radeon HD 6770,1244,926,4.70,$264.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6770M&id=285,NA,NA,NA,NA,NA
+429,Radeon HD 6790,1601,818,5.45,$294.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6800M&id=287,19 Frames/Sec,3 Frames/Sec,8 Frames/Sec,0 Frames/Sec,481 Ops/Sec
+430,Radeon HD 6850,1971,711,23.19,$85.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6850+X2&id=3684,NA,NA,NA,NA,NA
+431,Radeon HD 6870,2217,658,8.06,$275.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6900M&id=290,44 Frames/Sec,13 Frames/Sec,12 Frames/Sec,0 Frames/Sec,673 Ops/Sec
+432,Radeon HD 6950,2630,566,18.79,$139.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6970&id=84,67 Frames/Sec,19 Frames/Sec,21 Frames/Sec,0 Frames/Sec,1523 Ops/Sec
+433,Radeon HD 6970,2832,531,18.89,$149.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6970M&id=291,NA,NA,NA,NA,NA
+434,Radeon HD 6970M,2270,639,10.51,$215.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6990&id=292,120 Frames/Sec,19 Frames/Sec,21 Frames/Sec,0 Frames/Sec,1157 Ops/Sec
+435,Radeon HD 6990,3013,517,6.04,$498.49*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7290&id=2315,3 Frames/Sec,0 Frames/Sec,1 Frames/Sec,0 Frames/Sec,62 Ops/Sec
+436,Radeon HD 7340,153,1860,0.28,$552.69*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7340G&id=2299,NA,NA,NA,NA,NA
+437,Radeon HD 7450,223,1777,4.48,$49.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7450A&id=331,NA,NA,NA,NA,NA
+438,Radeon HD 7470,289,1716,3.55,$81.37*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7470M&id=299,NA,NA,NA,NA,NA
+439,Radeon HD 7570,626,1361,6.11,$102.49*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7570M&id=307,10 Frames/Sec,2 Frames/Sec,4 Frames/Sec,0 Frames/Sec,262 Ops/Sec
+440,Radeon HD 7650A,572,1435,2.19,$262.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7650M&id=314,10 Frames/Sec,2 Frames/Sec,4 Frames/Sec,0 Frames/Sec,284 Ops/Sec
+441,Radeon HD 7670M,473,1545,0.75,$629.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7670M+%2B+7670M+Dual&id=2277,NA,NA,NA,NA,NA
+442,Radeon HD 7730,1208,943,5.19,$232.70*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7730M&id=2995,17 Frames/Sec,3 Frames/Sec,5 Frames/Sec,2 Frames/Sec,415 Ops/Sec
+443,Radeon HD 7750,1700,794,13.08,$129.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7750M&id=2476,NA,NA,NA,NA,NA
+444,Radeon HD 7770,2172,663,7.24,$300.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7790&id=2502,57 Frames/Sec,10 Frames/Sec,18 Frames/Sec,20 Frames/Sec,1516 Ops/Sec
+445,Radeon HD 7790,3090,510,22.07,$139.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7800-serie&id=2967,NA,NA,NA,NA,NA
+446,Radeon HD 7850,3853,437,22.67,$169.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7850M&id=1688,NA,NA,NA,NA,NA
+447,Radeon HD 7870,4638,383,26.36,$176.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7870+XT&id=2557,NA,NA,NA,NA,NA
+448,Radeon HD 7950 / R9 280,4764,376,36.04,$132.20*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7970+%2F+R9+280X&id=51,NA,NA,NA,NA,NA
+449,Radeon HD 7970 / R9 280X,5247,339,21.25,$246.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7970M&id=326,66 Frames/Sec,15 Frames/Sec,24 Frames/Sec,20 Frames/Sec,1747 Ops/Sec
+450,Radeon HD 7990,5565,318,13.91,$399.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+8180&id=2668,3 Frames/Sec,0 Frames/Sec,1 Frames/Sec,0 Frames/Sec,49 Ops/Sec
+451,Radeon HD 8350,162,1852,1.63,$99.81*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+8350G&id=2580,6 Frames/Sec,1 Frames/Sec,0 Frames/Sec,0 Frames/Sec,0 Ops/Sec
+452,Radeon HD 8490,263,1743,2.92,$89.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+8500M&id=3012,7 Frames/Sec,1 Frames/Sec,4 Frames/Sec,3 Frames/Sec,299 Ops/Sec
+453,Radeon HD 8570,962,1065,9.76,$98.68*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+8570+%2B+8670D+Dual&id=2722,NA,NA,NA,NA,NA
+454,Radeon HD 8970M,3876,434,27.69,$139.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+8990&id=2727,76 Frames/Sec,33 Frames/Sec,46 Frames/Sec,18 Frames/Sec,2632 Ops/Sec
+455,Radeon HD4650,239,1763,1.57,$152.90*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD4670&id=79,NA,NA,NA,NA,NA
+456,RADEON HD7450,199,1812,8.95,$22.25*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD8530M&id=3059,NA,NA,NA,NA,NA
+457,Radeon Pro,2324,627,4.19,$554.22,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+450&id=3683,NA,NA,NA,NA,NA
+458,Radeon Pro 455,3112,508,6.93,$449.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+460&id=3747,NA,NA,NA,NA,NA
+459,Radeon Pro 555,3140,507,2.99,"$1,049.00*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+560&id=3820,NA,NA,NA,NA,NA
+460,Radeon Pro Duo,8296,222,2.09,"$3,970.36*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+Ryzen+5+PRO+6650U&id=4656,66 Frames/Sec,14 Frames/Sec,35 Frames/Sec,17 Frames/Sec,1826 Ops/Sec
+461,Radeon Pro SSG,10497,166,4.36,"$2,410.15*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+V340+MxGPU&id=4011,NA,NA,NA,NA,NA
+462,Radeon Pro W5500,9130,200,22.27,$409.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+W5500M&id=4180,162 Frames/Sec,10 Frames/Sec,12 Frames/Sec,6 Frames/Sec,1079 Ops/Sec
+463,Radeon Pro W5700,15466,88,23.79,$649.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+W6400&id=4530,105 Frames/Sec,51 Frames/Sec,75 Frames/Sec,28 Frames/Sec,3489 Ops/Sec
+464,Radeon PRO W6800,19967,42,10.79,"$1,849.99*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+W7600&id=4889,280 Frames/Sec,83 Frames/Sec,177 Frames/Sec,62 Frames/Sec,8477 Ops/Sec
+465,Radeon Pro WX 3200,2408,607,11.11,$216.66,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+4100&id=3694,57 Frames/Sec,15 Frames/Sec,24 Frames/Sec,22 Frames/Sec,1571 Ops/Sec
+466,Radeon Pro WX 4100,3760,444,7.52,$499.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+4130&id=3798,35 Frames/Sec,11 Frames/Sec,12 Frames/Sec,10 Frames/Sec,682 Ops/Sec
+467,Radeon Pro WX 4150,2380,613,3.90,$610.04*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+4170&id=4169,NA,NA,NA,NA,NA
+468,Radeon Pro WX 5100,5619,312,15.61,$359.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+7100&id=3611,114 Frames/Sec,39 Frames/Sec,51 Frames/Sec,39 Frames/Sec,3197 Ops/Sec
+469,Radeon Pro WX 7100,7919,234,7.56,"$1,047.99*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+7130&id=4129,114 Frames/Sec,42 Frames/Sec,47 Frames/Sec,48 Frames/Sec,2311 Ops/Sec
+470,Radeon Pro WX 8200,13925,107,8.71,"$1,599.39*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+9100&id=3833,180 Frames/Sec,80 Frames/Sec,83 Frames/Sec,63 Frames/Sec,5646 Ops/Sec
+471,Radeon R4,331,1677,0.84,$396.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R4E&id=3846,NA,NA,NA,NA,NA
+472,Radeon R5 220,133,1906,1.56,$85.26*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R5+230&id=3885,7 Frames/Sec,1 Frames/Sec,2 Frames/Sec,0 Frames/Sec,142 Ops/Sec
+473,Radeon R5 230,221,1780,2.74,$81.10*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R5+235&id=2826,12 Frames/Sec,1 Frames/Sec,3 Frames/Sec,0 Frames/Sec,167 Ops/Sec
+474,Radeon R5 235,341,1666,5.68,$60.13*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R5+235+%2B+HD+7560D+Dual&id=2871,NA,NA,NA,NA,NA
+475,Radeon R5 240,527,1487,6.20,$85.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R5+310&id=3391,NA,NA,NA,NA,NA
+476,Radeon R5 310,331,1678,0.66,$499.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R5+330&id=3270,10 Frames/Sec,1 Frames/Sec,5 Frames/Sec,4 Frames/Sec,336 Ops/Sec
+477,Radeon R5 330,512,1503,1.51,$339.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R5+340&id=3590,19 Frames/Sec,3 Frames/Sec,6 Frames/Sec,6 Frames/Sec,504 Ops/Sec
+478,Radeon R5 420,574,1431,14.39,$39.95*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R5+430&id=3801,18 Frames/Sec,3 Frames/Sec,7 Frames/Sec,6 Frames/Sec,471 Ops/Sec
+479,Radeon R5 430,937,1081,15.90,$59.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R5+435&id=3601,13 Frames/Sec,2 Frames/Sec,7 Frames/Sec,5 Frames/Sec,522 Ops/Sec
+480,Radeon R7 240,887,1116,8.07,$109.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+240+%2B+HD+8570D+Dual&id=2949,NA,NA,NA,NA,NA
+481,Radeon R7 250,1085,998,5.71,$189.97*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+250X&id=3286,NA,NA,NA,NA,NA
+482,Radeon R7 250X,2268,643,11.70,$194.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+260&id=2903,NA,NA,NA,NA,NA
+483,Radeon R7 260,2891,526,32.13,$89.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+260X&id=2701,57 Frames/Sec,10 Frames/Sec,22 Frames/Sec,20 Frames/Sec,1424 Ops/Sec
+484,Radeon R7 260X,3170,503,22.65,$139.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+340&id=3543,19 Frames/Sec,3 Frames/Sec,8 Frames/Sec,5 Frames/Sec,468 Ops/Sec
+485,Radeon R7 360,3060,512,20.96,$145.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+370&id=3471,79 Frames/Sec,19 Frames/Sec,28 Frames/Sec,21 Frames/Sec,1960 Ops/Sec
+486,Radeon R7 430,1095,994,7.28,$150.58*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+450&id=3588,38 Frames/Sec,7 Frames/Sec,12 Frames/Sec,9 Frames/Sec,830 Ops/Sec
+487,Radeon R7 450,1937,716,6.48,$299.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+7850A10-7850K&id=4054,NA,NA,NA,NA,NA
+488,Radeon R7 A12-9700P RADEON,740,1244,1.70,$435.92*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+A12-9720P+RADEON&id=3781,10 Frames/Sec,2 Frames/Sec,5 Frames/Sec,6 Frames/Sec,473 Ops/Sec
+489,Radeon R7 A12-9720P RADEON,741,1243,2.03,$365.48*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+A12-9730P+RADEON&id=3777,17 Frames/Sec,3 Frames/Sec,8 Frames/Sec,7 Frames/Sec,548 Ops/Sec
+490,Radeon R7 A12-9800E RADEON,891,1113,6.41,$139.19*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+A265&id=3069,18 Frames/Sec,3 Frames/Sec,8 Frames/Sec,6 Frames/Sec,561 Ops/Sec
+491,Radeon R7 FX-9800P RADEON,740,1245,1.40,$530.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+FX-9830P+RADEON&id=3632,25 Frames/Sec,6 Frames/Sec,12 Frames/Sec,8 Frames/Sec,826 Ops/Sec
+492,Radeon R7 M260,488,1529,0.61,$799.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+M260DX&id=3042,13 Frames/Sec,3 Frames/Sec,6 Frames/Sec,5 Frames/Sec,420 Ops/Sec
+493,Radeon R7 M445,945,1074,1.27,$744.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+M460&id=3551,20 Frames/Sec,3 Frames/Sec,9 Frames/Sec,6 Frames/Sec,480 Ops/Sec
+494,Radeon R7 PRO A10-9700E,971,1059,1.84,$529.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+PRO+A12-8800B&id=3622,9 Frames/Sec,1 Frames/Sec,4 Frames/Sec,5 Frames/Sec,378 Ops/Sec
+495,Radeon R9 255,1456,865,4.23,$344.16*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+260&id=3496,62 Frames/Sec,10 Frames/Sec,25 Frames/Sec,19 Frames/Sec,1489 Ops/Sec
+496,Radeon R9 270 / R7 370,4259,412,19.98,$213.16*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+270X&id=2702,85 Frames/Sec,20 Frames/Sec,31 Frames/Sec,24 Frames/Sec,2216 Ops/Sec
+497,Radeon R9 270X,4911,366,15.04,$326.50*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+280&id=3465,86 Frames/Sec,29 Frames/Sec,31 Frames/Sec,26 Frames/Sec,2501 Ops/Sec
+498,Radeon R9 285 / 380,5549,319,11.44,$485.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+290&id=4259,127 Frames/Sec,47 Frames/Sec,53 Frames/Sec,38 Frames/Sec,3204 Ops/Sec
+499,Radeon R9 290 / 390,8150,227,21.45,$380.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+290X&id=4263,129 Frames/Sec,48 Frames/Sec,56 Frames/Sec,40 Frames/Sec,3461 Ops/Sec
+500,Radeon R9 290X / 390X,8389,219,26.22,$319.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+295X2&id=2878,126 Frames/Sec,43 Frames/Sec,79 Frames/Sec,44 Frames/Sec,3182 Ops/Sec
+501,Radeon R9 295X2,8637,214,17.31,$499.10*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+350&id=3589,39 Frames/Sec,7 Frames/Sec,13 Frames/Sec,9 Frames/Sec,863 Ops/Sec
+502,Radeon R9 350,2018,693,6.75,$299.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+360&id=3327,NA,NA,NA,NA,NA
+503,Radeon R9 360,3031,515,22.64,$133.89*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+370&id=3469,NA,NA,NA,NA,NA
+504,Radeon R9 370,4722,379,29.51,$159.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+380&id=3460,94 Frames/Sec,29 Frames/Sec,41 Frames/Sec,32 Frames/Sec,2348 Ops/Sec
+505,Radeon R9 380,6210,293,69.02,$89.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+380X&id=3266,92 Frames/Sec,29 Frames/Sec,43 Frames/Sec,33 Frames/Sec,3042 Ops/Sec
+506,Radeon R9 380X,6241,290,17.83,$349.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+390&id=3464,137 Frames/Sec,52 Frames/Sec,57 Frames/Sec,40 Frames/Sec,3420 Ops/Sec
+507,Radeon R9 Fury,9618,186,21.71,$443.10*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+Fury+%2B+Fury+X&id=3245,135 Frames/Sec,58 Frames/Sec,60 Frames/Sec,48 Frames/Sec,4276 Ops/Sec
+508,Radeon R9 Fury + Fury X,9741,183,21.65,$449.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+Fury+X&id=3634,137 Frames/Sec,60 Frames/Sec,64 Frames/Sec,45 Frames/Sec,4263 Ops/Sec
+509,Radeon R9 M275,1114,983,1.59,$699.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+M275X&id=4329,28 Frames/Sec,5 Frames/Sec,10 Frames/Sec,9 Frames/Sec,779 Ops/Sec
+510,Radeon R9 M295X,5150,350,3.55,"$1,449.00*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+M360&id=3479,38 Frames/Sec,7 Frames/Sec,12 Frames/Sec,9 Frames/Sec,792 Ops/Sec
+511,Radeon R9 M370X,1513,849,1.70,$889.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+M375&id=3263,20 Frames/Sec,3 Frames/Sec,5 Frames/Sec,6 Frames/Sec,512 Ops/Sec
+512,Radeon RX 460,4113,418,24.66,$166.81*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+470%2F570&id=3558,116 Frames/Sec,41 Frames/Sec,55 Frames/Sec,39 Frames/Sec,3090 Ops/Sec
+513,Radeon RX 470/570,8046,229,20.69,$388.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+480&id=3533,121 Frames/Sec,43 Frames/Sec,58 Frames/Sec,42 Frames/Sec,3681 Ops/Sec
+514,Radeon RX 480,8666,211,25.49,$339.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5300&id=4420,113 Frames/Sec,34 Frames/Sec,51 Frames/Sec,34 Frames/Sec,4787 Ops/Sec
+515,Radeon RX 550,2699,556,14.79,$182.49,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5500&id=4164,130 Frames/Sec,45 Frames/Sec,56 Frames/Sec,37 Frames/Sec,4414 Ops/Sec
+516,Radeon RX 5500 XT,9183,199,49.64,$184.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5500M&id=4193,100 Frames/Sec,38 Frames/Sec,32 Frames/Sec,25 Frames/Sec,2163 Ops/Sec
+517,Radeon RX 560,3643,456,16.87,$215.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5600&id=4205,167 Frames/Sec,63 Frames/Sec,85 Frames/Sec,44 Frames/Sec,5417 Ops/Sec
+518,Radeon RX 5600 XT,13779,112,25.28,$545.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5600M&id=4217,129 Frames/Sec,56 Frames/Sec,60 Frames/Sec,38 Frames/Sec,3050 Ops/Sec
+519,Radeon RX 5700,14624,102,47.18,$309.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5700+XT&id=4111,219 Frames/Sec,103 Frames/Sec,121 Frames/Sec,67 Frames/Sec,8153 Ops/Sec
+520,Radeon RX 5700 XT,16827,69,46.34,$363.12*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5700+XT+50th+Anniversary&id=4114,212 Frames/Sec,103 Frames/Sec,118 Frames/Sec,65 Frames/Sec,7987 Ops/Sec
+521,Radeon RX 570X,1923,725,8.12,$236.71*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+580&id=3736,124 Frames/Sec,45 Frames/Sec,60 Frames/Sec,43 Frames/Sec,3703 Ops/Sec
+522,Radeon RX 580,8905,208,49.48,$179.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+580+2048SP&id=4049,113 Frames/Sec,42 Frames/Sec,54 Frames/Sec,37 Frames/Sec,2851 Ops/Sec
+523,Radeon RX 590,9486,188,17.25,$549.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6300&id=4939,95 Frames/Sec,31 Frames/Sec,51 Frames/Sec,28 Frames/Sec,2504 Ops/Sec
+524,Radeon RX 6400,7444,253,46.82,$159.00,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6500&id=4843,89 Frames/Sec,51 Frames/Sec,72 Frames/Sec,35 Frames/Sec,2498 Ops/Sec
+525,Radeon RX 6500 XT,9484,190,56.12,$169.00,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6500M&id=4599,94 Frames/Sec,52 Frames/Sec,73 Frames/Sec,36 Frames/Sec,3029 Ops/Sec
+526,Radeon RX 6600,15144,94,46.03,$329.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6600+XT&id=4444,184 Frames/Sec,113 Frames/Sec,162 Frames/Sec,61 Frames/Sec,8156 Ops/Sec
+527,Radeon RX 6600 XT,16456,75,47.02,$349.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6600M&id=4449,173 Frames/Sec,92 Frames/Sec,131 Frames/Sec,51 Frames/Sec,5836 Ops/Sec
+528,Radeon RX 6600M,13654,114,65.03,$209.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6600S&id=4755,164 Frames/Sec,92 Frames/Sec,147 Frames/Sec,69 Frames/Sec,5066 Ops/Sec
+529,Radeon RX 6650 XT,17497,66,74.46,$234.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6650M&id=4557,171 Frames/Sec,82 Frames/Sec,127 Frames/Sec,60 Frames/Sec,5267 Ops/Sec
+530,Radeon RX 6700 XT,19871,45,64.10,$309.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6700M&id=4458,147 Frames/Sec,95 Frames/Sec,127 Frames/Sec,64 Frames/Sec,5348 Ops/Sec
+531,Radeon RX 6700M,13244,121,47.21,$280.57,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6700S&id=4510,178 Frames/Sec,90 Frames/Sec,131 Frames/Sec,57 Frames/Sec,6225 Ops/Sec
+532,Radeon RX 6750 XT,21032,36,60.09,$349.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6800&id=4314,245 Frames/Sec,136 Frames/Sec,218 Frames/Sec,90 Frames/Sec,11814 Ops/Sec
+533,Radeon RX 6800,22350,29,55.88,$399.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6800+XT&id=4312,250 Frames/Sec,167 Frames/Sec,263 Frames/Sec,101 Frames/Sec,14450 Ops/Sec
+534,Radeon RX 6800 XT,25154,19,51.27,$490.65,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6800M&id=4415,146 Frames/Sec,103 Frames/Sec,125 Frames/Sec,64 Frames/Sec,5052 Ops/Sec
+535,Radeon RX 6900 XT,26959,12,34.56,$779.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6950+XT&id=4540,299 Frames/Sec,175 Frames/Sec,306 Frames/Sec,113 Frames/Sec,15625 Ops/Sec
+536,Radeon RX 6950 XT,28579,10,28.87,$989.96,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7600&id=4832,222 Frames/Sec,84 Frames/Sec,174 Frames/Sec,52 Frames/Sec,9884 Ops/Sec
+537,Radeon RX 7600,16330,76,62.81,$259.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7600M+XT&id=4844,125 Frames/Sec,69 Frames/Sec,112 Frames/Sec,51 Frames/Sec,3839 Ops/Sec
+538,Radeon RX 7700 XT,21922,32,49.82,$439.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7800+XT&id=4917,305 Frames/Sec,122 Frames/Sec,252 Frames/Sec,80 Frames/Sec,14304 Ops/Sec
+539,Radeon RX 7800 XT,23692,22,47.39,$499.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7900+GRE&id=4906,346 Frames/Sec,146 Frames/Sec,232 Frames/Sec,89 Frames/Sec,23854 Ops/Sec
+540,Radeon RX 7900 XT,28937,8,36.17,$799.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7900+XTX&id=4644,327 Frames/Sec,177 Frames/Sec,365 Frames/Sec,115 Frames/Sec,19767 Ops/Sec
+541,Radeon RX 7900 XTX,31285,4,32.93,$949.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+Vega+10&id=4066,24 Frames/Sec,7 Frames/Sec,11 Frames/Sec,8 Frames/Sec,931 Ops/Sec
+542,Radeon RX Vega 11,2123,670,2.12,"$1,002.00*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+Vega+11+PRD&id=4131,NA,NA,NA,NA,NA
+543,Radeon RX Vega 56,13443,118,17.85,$752.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+Vega+64&id=3808,191 Frames/Sec,88 Frames/Sec,91 Frames/Sec,68 Frames/Sec,6661 Ops/Sec
+544,Radeon RX Vega 64,14497,103,19.33,$749.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+Vega+8&id=4012,23 Frames/Sec,5 Frames/Sec,10 Frames/Sec,7 Frames/Sec,743 Ops/Sec
+545,Radeon Vega 3,888,1115,0.33,"$2,677.99*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Vega+3+3020e&id=4690,9 Frames/Sec,2 Frames/Sec,5 Frames/Sec,3 Frames/Sec,354 Ops/Sec
+546,Radeon Vega 6,1310,908,0.73,"$1,799.99*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Vega+6+Ryzen+3+3300U&id=4746,19 Frames/Sec,6 Frames/Sec,9 Frames/Sec,6 Frames/Sec,639 Ops/Sec
+547,Radeon Vega 8,1584,824,12.49,$126.86*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Vega+8+Mobile&id=3845,22 Frames/Sec,5 Frames/Sec,10 Frames/Sec,7 Frames/Sec,732 Ops/Sec
+548,Radeon Vega Frontier Edition,13337,120,7.94,"$1,679.99*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+VII&id=4050,212 Frames/Sec,107 Frames/Sec,109 Frames/Sec,78 Frames/Sec,7259 Ops/Sec
+549,Radeon VII,16761,70,8.82,"$1,899.95*",https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+X1050&id=609,NA,NA,NA,NA,NA
+550,Radeon X1300,58,2137,0.61,$95.78*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+X1300+PRO&id=159,NA,NA,NA,NA,NA
+551,Radeon X1550,66,2117,0.43,$155.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+X1550+64-bit&id=1752,NA,NA,NA,NA,NA
+552,Radeon X1650 Pro,84,2050,0.53,$160.89*,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+X1650+SE&id=1757,NA,NA,NA,NA,NA
+553,RADEON X600 PRO,67,2112,0.42,$160.49*,https://www.videocardbenchmark.net/gpu.php?gpu=RADEON+X600+SE&id=155,NA,NA,NA,NA,NA
+554,RADEON X600 SE,49,2165,0.87,$56.18*,https://www.videocardbenchmark.net/gpu.php?gpu=RADEON+X600XT&id=1772,NA,NA,NA,NA,NA
+555,RTX A2000,13807,110,20.01,$689.99*,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A2000+12GB&id=4533,175 Frames/Sec,82 Frames/Sec,99 Frames/Sec,52 Frames/Sec,6709 Ops/Sec
+556,RTX A4000,19299,52,25.73,$749.99*,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A4000+Laptop+GPU&id=4421,161 Frames/Sec,117 Frames/Sec,131 Frames/Sec,67 Frames/Sec,6884 Ops/Sec
+557,RTX A4500,21848,33,20.23,"$1,079.99*",https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A4500+Laptop+GPU&id=4565,203 Frames/Sec,117 Frames/Sec,138 Frames/Sec,82 Frames/Sec,7099 Ops/Sec
+558,RTX A5000,23114,23,10.79,"$2,141.99*",https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A5000+Laptop+GPU&id=4416,156 Frames/Sec,121 Frames/Sec,131 Frames/Sec,74 Frames/Sec,7181 Ops/Sec
+559,RTX A5500,20797,37,9.58,"$2,169.99*",https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A5500+Laptop+GPU&id=4562,194 Frames/Sec,116 Frames/Sec,144 Frames/Sec,82 Frames/Sec,7761 Ops/Sec
+560,RTX A6000,22757,26,5.54,"$4,109.99*",https://www.videocardbenchmark.net/gpu.php?gpu=RV530+PRO&id=1820,NA,NA,NA,NA,NA
+561,T1000,7659,245,19.15,$399.99,https://www.videocardbenchmark.net/gpu.php?gpu=T1000+8GB&id=4513,123 Frames/Sec,36 Frames/Sec,56 Frames/Sec,32 Frames/Sec,3015 Ops/Sec
+562,T400,3620,458,20.11,$179.99*,https://www.videocardbenchmark.net/gpu.php?gpu=T400+4GB&id=4512,65 Frames/Sec,14 Frames/Sec,28 Frames/Sec,17 Frames/Sec,1516 Ops/Sec
+563,T600,6475,282,26.98,$239.99*,https://www.videocardbenchmark.net/gpu.php?gpu=T600+Laptop+GPU&id=4424,114 Frames/Sec,33 Frames/Sec,51 Frames/Sec,32 Frames/Sec,2666 Ops/Sec
+564,Tesla C2050,3175,502,11.76,$269.99*,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+C2050+%2F+C2070&id=2515,NA,NA,NA,NA,NA
+565,Tesla C2070,2839,529,4.70,$604.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+C2075&id=1671,55 Frames/Sec,13 Frames/Sec,25 Frames/Sec,9 Frames/Sec,1079 Ops/Sec
+566,Tesla C2075,3016,516,4.67,$646.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+K20m&id=4496,59 Frames/Sec,26 Frames/Sec,36 Frames/Sec,20 Frames/Sec,1511 Ops/Sec
+567,Tesla K80,6210,294,10.46,$593.95*,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+M10&id=4095,55 Frames/Sec,15 Frames/Sec,25 Frames/Sec,18 Frames/Sec,1701 Ops/Sec
+568,Tesla M10,3490,470,1.30,"$2,695.00*",https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+M2070-Q&id=2800,NA,NA,NA,NA,NA
+569,Tesla M40,10182,171,16.97,$600.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+M40+24GB&id=4450,145 Frames/Sec,63 Frames/Sec,82 Frames/Sec,43 Frames/Sec,3649 Ops/Sec
+570,Tesla M6,7509,250,37.73,$199.00*,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+M60&id=3774,135 Frames/Sec,42 Frames/Sec,38 Frames/Sec,32 Frames/Sec,2617 Ops/Sec
+571,Tesla M60,7770,241,9.86,$787.90*,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+P100-PCIE-16GB&id=4039,NA,NA,NA,NA,NA
+572,Tesla T4,10725,164,2.31,"$4,646.99",https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+V100-PCIE-16GB&id=4226,136 Frames/Sec,104 Frames/Sec,112 Frames/Sec,58 Frames/Sec,4467 Ops/Sec
+573,TITAN RTX,19912,43,8.27,"$2,409.20*",https://www.videocardbenchmark.net/gpu.php?gpu=TITAN+V&id=3859,213 Frames/Sec,161 Frames/Sec,150 Frames/Sec,79 Frames/Sec,9747 Ops/Sec
+574,TITAN V,19888,44,9.94,"$1,999.99*",https://www.videocardbenchmark.net/gpu.php?gpu=TITAN+V+CEO+Edition&id=4005,NA,NA,NA,NA,NA
