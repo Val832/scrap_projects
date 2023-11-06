@@ -37,5 +37,28 @@ Créer des outils modulables et réutilisables pour l'extraction de données. Ce
   3. Stocker les données au format JSON.
 
 > ✨ **Résultat Impressionnant** : Un fichier JSON de 10 millions de lignes obtenu en moins de 5 minutes!
-
 ---
+## Remarques Importantes 📝
+
+- Les fichiers d'extractions et de tests sont configurés pour être exécutés en tant que modules. Pour exécuter les scripts, placez-vous à la racine du projet et lancez les commandes suivantes, en adaptant le chemin du module à votre besoin. Par exemple :
+  ```sh
+  python -m src.cpu.cpu_extraction
+  python -m test.test_cpu_tools
+
+- Veillez à activer votre environnement virtuel si vous en utilisez un :
+  ```sh
+  # Sur Mac/Linux
+  source venv/bin/activate
+  # Sur Windows
+  .\venv\Scripts\activate
+
+- Assurez-vous que toutes les dépendances requises sont installées en utilisant :
+  ```sh
+  pip install -r requirements.txt
+
+- Pour éviter les problèmes d'importation, vous pouvez définir la variable d'environnement PYTHONPATH pour inclure le chemin vers le répertoire src de votre projet :
+  ```sh
+  # Sur Mac/Linux
+  export PYTHONPATH="/chemin/vers/scrap_projects/src"
+  # Sur Windows
+  set PYTHONPATH=C:\chemin\vers\scrap_projects\src

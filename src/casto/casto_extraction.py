@@ -7,7 +7,7 @@ import requests
 
 # Importation des fonctions et classes spécifiques au projet
 from src.casto import Crawler, tqdm_executor_map
-from tools_casto import fetch_casto_data
+from .tools_casto import fetch_casto_data
 
 # URL de la page principale du site Castorama pour la catégorie "jardin et terrasse"
 URL = "https://www.castorama.fr/jardin-et-terrasse/cat_id_3399.cat"
