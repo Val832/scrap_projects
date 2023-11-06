@@ -4,8 +4,8 @@ import pandas as pd
 import requests
 
 
-from src.cpu import Crawler, CleanDf, tqdm_executor_map
-from tools_cpu import fetch_cpu_data, missing_cpu_table
+from src.tools import Crawler, CleanDf, tqdm_executor_map
+from .tools_cpu import fetch_cpu_data, missing_cpu_table
 
 # Liste des URL concernant les benchmarks des différents composants informatiques.
 URLS = [

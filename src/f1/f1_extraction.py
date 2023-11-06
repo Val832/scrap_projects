@@ -4,7 +4,7 @@ import concurrent.futures
 
 # Importation des modules nécessaires pour le web scraping
 from src.f1 import Crawler, tqdm_executor_map
-from tools_f1 import *
+from .tools_f1 import *
 
 # URL de base du site 
 BASE  =  "https://www.formula1.com" 

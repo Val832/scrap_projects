@@ -59,7 +59,5 @@ class TestF1Functions(unittest.TestCase):
             # Vérifications avec assertions
             self.assertTrue(result_df['Driver'].iloc[0], np.nan)
 
-# ... Reste du code de test inchangé ...
-
 if __name__ == "__main__":
     unittest.main()
